@@ -5,25 +5,24 @@ close all
 clc
 initCobraToolbox()
 changeCobraSolver('gurobi');
-
+%%
 % Windows:
 pa14 = readCbModel('iPau21');
-% Mac:
-%pa14 = d_xls2model_JAB('/Users/papinlab/Dropbox/pseudomonas_model/PA14recon1_v24_published.xlsx');
-
+pa14 = creategrRulesField(pa14);
 pa14 = changeMedia_SEED_new(pa14, 1,'');
 pa14 = changeObjective(pa14,'PA14_Biomass',1);
 sol = optimizeCbModel(pa14);
 
+%%
 % Windows:
-diffEX_file = 'C:\Users\jmfic\OneDrive\Documents\21_SUMMA\Persister\model\data\DESeq_dds_groupbatch_all2metab_integration_180221.xls';
-% Mac:
-%diffEX_file = '/Users/papinlab/Dropbox/Lab/Projects/Persisters/RNA_Sequencing/BIT_RNA_Sequencing/Second-run/Analysis/DESeq_dds_groupbatch_all2metab_integration_180221.xls';
+diffEX_file = 'C:\Users\jmfic\OneDrive\Documents\21_SUMMA\Persister\model\data\DESeq_dds_groupbatch_all2metab_integration_joe.csv';
+
 
 %% Create basal biomass models
 
 pa14Bio = changeObjective(pa14,'PA14_Biomass',1);
 pa14Bio_sol = optimizeCbModel(pa14Bio);
+pa14Bio = creategrRulesField(pa14Bio);
 
 RNA_pval = [0.5];
 RNA_fc = [0];
@@ -418,9 +417,10 @@ xlswrite('180921_persisterSensitivityAnalysis_Biomass_geneStatusTotal.xlsx',gene
 
 
 %% Create basal ATP models
-pa14ATP = addDemandReaction(pa14, 'cpd00002[c]');
-pa14ATP = changeObjective(pa14ATP, 'DM_cpd00002[c]',1);
+pa14ATP = addDemandReaction(pa14, 'cpd00002[cytosol]');
+pa14ATP = changeObjective(pa14ATP, 'DM_cpd00002[cytosol]',1);
 pa14ATP_sol = optimizeCbModel(pa14ATP);
+pa14ATP = creategrRulesField(pa14ATP);
 
 RNA_pval = [0.5];
 RNA_fc = [0];
