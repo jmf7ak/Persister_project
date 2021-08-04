@@ -1,4 +1,4 @@
-Make sure the METABOLON_DATA_origscaled_R file is in your R working directory as well as all the codes in the SRC folder
+Make the "Metabolomics" folder (containing data and src) your R working directory
 
 1. run_Metabolomics.R to process the metabolomics data. Visualizes the raw data and determines metabolites significantly changing across time and across samples
 2. run_MetabsForIntegration.R to determine which metabolites are unique to each condition and should be integrated into each model
