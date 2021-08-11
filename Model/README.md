@@ -1,4 +1,4 @@
-For this code to work, you need to install the COBRA toolbox, Gurobi solver, the TIGER toolbox and OPTGPsampler for MATLAB
+For this code to work, you need to install the COBRA toolbox, Gurobi solver, the TIGER toolbox and OPTGPsampler for MATLAB. It is recommended to download the entire model folder ad set it as your current matlab directory.
 
 persisterSampling_newmodel.m is the main code that will call all of the other functions. 
 Run each section of the code indivdually. 
