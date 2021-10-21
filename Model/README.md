@@ -8,3 +8,4 @@ Outputs of persister_Sampling_newmodel
 2. excel sheets with the sensitivity analysis on MADE parameters for the gene knockouts: the number of models in which each gene is essential
 
 The sampling data from this code is then put into the code Sampling.R to run statiscal analysis 
+The output from that statistical analysis goes into Sampling_essentiality_analysis.m to make a list of genes of interest to test experimentally. 
