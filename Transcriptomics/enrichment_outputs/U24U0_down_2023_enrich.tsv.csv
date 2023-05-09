@@ -1,0 +1,121 @@
+term,genes_in_set,total_genes_in_set,genes_in_universe,total_genes_in_universe,pvalue,adj_pvalue
+2-oxocarboxylic acid metabolism,2,393,30,5893,0.604188829,1
+abc transporters,8,393,191,5893,0.947011423,1
+acarbose and validamycin biosynthesis,0,393,2,5893,1,1
+"alanine, aspartate and glutamate metabolism",3,393,36,5893,0.434364154,1
+alpha-linolenic acid metabolism,0,393,3,5893,1,1
+amino sugar and nucleotide sugar metabolism,2,393,31,5893,0.622264818,1
+aminoacyl-trna biosynthesis,6,393,27,5893,0.007544858,0.095778429
+aminobenzoate degradation,1,393,17,5893,0.69116347,1
+arachidonic acid metabolism,0,393,4,5893,1,1
+arginine and proline metabolism,3,393,47,5893,0.615564998,1
+arginine biosynthesis,2,393,29,5893,0.585466812,1
+ascorbate and aldarate metabolism,0,393,6,5893,1,1
+bacterial chemotaxis,3,393,46,5893,0.60077659,1
+bacterial secretion system,7,393,95,5893,0.449592872,1
+base excision repair,2,393,13,5893,0.213500025,0.883448379
+benzoate degradation,2,393,35,5893,0.688197872,1
+beta-alanine metabolism,2,393,28,5893,0.566098973,1
+beta-lactam resistance,1,393,27,5893,0.845526284,1
+biofilm formation - pseudomonas aeruginosa,7,393,105,5893,0.55711556,1
+biosynthesis of amino acids,20,393,141,5893,0.000983561,0.023605466
+biosynthesis of antibiotics,31,393,247,5893,0.000417676,0.012530276
+biosynthesis of secondary metabolites,34,393,336,5893,0.008779689,0.095778429
+biosynthesis of siderophore group nonribosomal peptides,0,393,8,5893,1,1
+biosynthesis of unsaturated fatty acids,1,393,13,5893,0.59268549,1
+biotin metabolism,0,393,21,5893,1,1
+butanoate metabolism,4,393,40,5893,0.275801521,0.898234313
+c5-branched dibasic acid metabolism,0,393,13,5893,1,1
+caprolactam degradation,2,393,8,5893,0.095068448,0.505248671
+carbapenem biosynthesis,2,393,2,5893,0.004436898,0.066553469
+carbon metabolism,15,393,129,5893,0.024007391,0.205777638
+cationic antimicrobial peptide (camp) resistance,2,393,28,5893,0.566098973,1
+chloroalkane and chloroalkene degradation,0,393,8,5893,1,1
+chlorocyclohexane and chlorobenzene degradation,0,393,5,5893,1,1
+citrate cycle (tca cycle),1,393,33,5893,0.898123237,1
+cyanoamino acid metabolism,0,393,11,5893,1,1
+cysteine and methionine metabolism,5,393,40,5893,0.124732202,0.575687088
+d-alanine metabolism,1,393,4,5893,0.241294234,0.898234313
+d-arginine and d-ornithine metabolism,0,393,2,5893,1,1
+d-glutamine and d-glutamate metabolism,2,393,5,5893,0.038766561,0.290749206
+degradation of aromatic compounds,1,393,26,5893,0.834436008,1
+dna replication,5,393,17,5893,0.004071648,0.066553469
+ether lipid metabolism,0,393,3,5893,1,1
+fatty acid biosynthesis,0,393,26,5893,1,1
+fatty acid degradation,3,393,33,5893,0.379382584,0.9999163
+fatty acid metabolism,3,393,49,5893,0.644018601,1
+flagellar assembly,2,393,35,5893,0.688197872,1
+fluorobenzoate degradation,0,393,8,5893,1,1
+folate biosynthesis,2,393,25,5893,0.504175198,1
+fructose and mannose metabolism,2,393,18,5893,0.340016966,0.948884556
+galactose metabolism,0,393,4,5893,1,1
+geraniol degradation,2,393,16,5893,0.289609049,0.898234313
+glutathione metabolism,0,393,27,5893,1,1
+glycerolipid metabolism,2,393,14,5893,0.238779056,0.898234313
+glycerophospholipid metabolism,5,393,28,5893,0.035387602,0.283100819
+"glycine, serine and threonine metabolism",6,393,50,5893,0.113267056,0.561649842
+glycolysis / gluconeogenesis,5,393,37,5893,0.096839329,0.505248671
+glyoxylate and dicarboxylate metabolism,3,393,57,5893,0.742696805,1
+histidine metabolism,1,393,23,5893,0.796170095,1
+homologous recombination,6,393,24,5893,0.004065497,0.066553469
+inositol phosphate metabolism,1,393,7,5893,0.383301248,0.9999163
+limonene and pinene degradation,2,393,7,5893,0.074502875,0.49668583
+lipoic acid metabolism,0,393,2,5893,1,1
+lipopolysaccharide biosynthesis,4,393,22,5893,0.054764004,0.386569442
+lysine biosynthesis,2,393,15,5893,0.264192045,0.898234313
+lysine degradation,2,393,19,5893,0.364824873,0.994976927
+metabolic pathways,70,393,800,5893,0.008404524,0.095778429
+methane metabolism,4,393,26,5893,0.09104508,0.505248671
+microbial metabolism in diverse environments,20,393,264,5893,0.30730341,0.921707643
+mismatch repair,7,393,19,5893,0.000138819,0.008329166
+monobactam biosynthesis,1,393,9,5893,0.462910735,1
+naphthalene degradation,0,393,2,5893,1,1
+nicotinate and nicotinamide metabolism,0,393,21,5893,1,1
+nitrogen metabolism,3,393,36,5893,0.434364154,1
+nitrotoluene degradation,0,393,2,5893,1,1
+non-homologous end-joining,0,393,2,5893,1,1
+novobiocin biosynthesis,0,393,5,5893,1,1
+nucleotide excision repair,2,393,8,5893,0.095068448,0.505248671
+one carbon pool by folate,2,393,18,5893,0.340016966,0.948884556
+oxidative phosphorylation,4,393,55,5893,0.504583489,1
+pantothenate and coa biosynthesis,1,393,22,5893,0.78154703,1
+pentose and glucuronate interconversions,0,393,7,5893,1,1
+pentose phosphate pathway,4,393,26,5893,0.09104508,0.505248671
+peptidoglycan biosynthesis,3,393,21,5893,0.161110531,0.690473703
+phenylalanine metabolism,1,393,25,5893,0.822551688,1
+"phenylalanine, tyrosine and tryptophan biosynthesis",4,393,30,5893,0.136104211,0.604907603
+phosphonate and phosphinate metabolism,0,393,10,5893,1,1
+phosphotransferase system (pts),0,393,5,5893,1,1
+polyketide sugar unit biosynthesis,1,393,5,5893,0.291926152,0.898234313
+porphyrin and chlorophyll metabolism,2,393,43,5893,0.791680608,1
+propanoate metabolism,3,393,48,5893,0.629980253,1
+protein export,4,393,17,5893,0.02314209,0.205777638
+purine metabolism,7,393,79,5893,0.273183013,0.898234313
+pyrimidine metabolism,8,393,47,5893,0.011500385,0.115003853
+pyruvate metabolism,2,393,62,5893,0.925806273,1
+quorum sensing,4,393,101,5893,0.912856845,1
+riboflavin metabolism,0,393,10,5893,1,1
+ribosome,18,393,55,5893,6.75E-09,8.10E-07
+rna degradation,6,393,16,5893,0.000381735,0.012530276
+rna polymerase,0,393,4,5893,1,1
+selenocompound metabolism,0,393,10,5893,1,1
+sphingolipid metabolism,0,393,2,5893,1,1
+starch and sucrose metabolism,0,393,16,5893,1,1
+streptomycin biosynthesis,1,393,8,5893,0.424477363,1
+styrene degradation,0,393,11,5893,1,1
+sulfur metabolism,3,393,49,5893,0.644018601,1
+sulfur relay system,0,393,18,5893,1,1
+synthesis and degradation of ketone bodies,0,393,10,5893,1,1
+taurine and hypotaurine metabolism,1,393,9,5893,0.462910735,1
+terpenoid backbone biosynthesis,2,393,16,5893,0.289609049,0.898234313
+thiamine metabolism,0,393,13,5893,1,1
+toluene degradation,0,393,3,5893,1,1
+tryptophan metabolism,3,393,26,5893,0.248953144,0.898234313
+two-component system,16,393,204,5893,0.284881513,0.898234313
+tyrosine metabolism,1,393,27,5893,0.845526284,1
+ubiquinone and other terpenoid-quinone biosynthesis,2,393,17,5893,0.314916778,0.921707643
+"valine, leucine and isoleucine biosynthesis",0,393,19,5893,1,1
+"valine, leucine and isoleucine degradation",3,393,47,5893,0.615564998,1
+vancomycin resistance,2,393,9,5893,0.117010384,0.561649842
+vitamin b6 metabolism,1,393,9,5893,0.462910735,1
+xylene degradation,0,393,5,5893,1,1
