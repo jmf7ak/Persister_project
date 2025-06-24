@@ -15,7 +15,7 @@ library(nlme)
 library(multcomp)
 
 # set directory
-setwd('..')
+setwd('C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Metabolomics')
 dir <- getwd()
 
 # load functions
