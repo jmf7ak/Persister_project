@@ -1,0 +1,4886 @@
+PA14_04630	0:2-Oxocarboxylic acid metabolism
+PA14_06920	0:2-Oxocarboxylic acid metabolism
+PA14_08480	0:2-Oxocarboxylic acid metabolism
+PA14_09820	0:2-Oxocarboxylic acid metabolism
+PA14_15030	0:2-Oxocarboxylic acid metabolism
+PA14_23750	0:2-Oxocarboxylic acid metabolism
+PA14_23760	0:2-Oxocarboxylic acid metabolism
+PA14_23790	0:2-Oxocarboxylic acid metabolism
+PA14_23800	0:2-Oxocarboxylic acid metabolism
+PA14_27500	0:2-Oxocarboxylic acid metabolism
+PA14_30180	0:2-Oxocarboxylic acid metabolism
+PA14_30190	0:2-Oxocarboxylic acid metabolism
+PA14_33500	0:2-Oxocarboxylic acid metabolism
+PA14_35890	0:2-Oxocarboxylic acid metabolism
+PA14_38200	0:2-Oxocarboxylic acid metabolism
+PA14_41470	0:2-Oxocarboxylic acid metabolism
+PA14_44070	0:2-Oxocarboxylic acid metabolism
+PA14_44290	0:2-Oxocarboxylic acid metabolism
+PA14_46120	0:2-Oxocarboxylic acid metabolism
+PA14_48570	0:2-Oxocarboxylic acid metabolism
+PA14_52580	0:2-Oxocarboxylic acid metabolism
+PA14_57210	0:2-Oxocarboxylic acid metabolism
+PA14_62130	0:2-Oxocarboxylic acid metabolism
+PA14_62150	0:2-Oxocarboxylic acid metabolism
+PA14_62160	0:2-Oxocarboxylic acid metabolism
+PA14_66260	0:2-Oxocarboxylic acid metabolism
+PA14_68740	0:2-Oxocarboxylic acid metabolism
+PA14_68770	0:2-Oxocarboxylic acid metabolism
+PA14_70280	0:2-Oxocarboxylic acid metabolism
+PA14_71180	0:2-Oxocarboxylic acid metabolism
+PA14_00360	0:ABC transporters
+PA14_02330	0:ABC transporters
+PA14_02340	0:ABC transporters
+PA14_02360	0:ABC transporters
+PA14_03650	0:ABC transporters
+PA14_03670	0:ABC transporters
+PA14_03680	0:ABC transporters
+PA14_03700	0:ABC transporters
+PA14_03920	0:ABC transporters
+PA14_03930	0:ABC transporters
+PA14_03940	0:ABC transporters
+PA14_03950	0:ABC transporters
+PA14_03960	0:ABC transporters
+PA14_04080	0:ABC transporters
+PA14_04090	0:ABC transporters
+PA14_04220	0:ABC transporters
+PA14_04230	0:ABC transporters
+PA14_04240	0:ABC transporters
+PA14_04250	0:ABC transporters
+PA14_04910	0:ABC transporters
+PA14_04920	0:ABC transporters
+PA14_10140	0:ABC transporters
+PA14_10160	0:ABC transporters
+PA14_10170	0:ABC transporters
+PA14_10180	0:ABC transporters
+PA14_10340	0:ABC transporters
+PA14_11530	0:ABC transporters
+PA14_12920	0:ABC transporters
+PA14_12940	0:ABC transporters
+PA14_12960	0:ABC transporters
+PA14_13010	0:ABC transporters
+PA14_13580	0:ABC transporters
+PA14_13590	0:ABC transporters
+PA14_13600	0:ABC transporters
+PA14_13610	0:ABC transporters
+PA14_13990	0:ABC transporters
+PA14_14100	0:ABC transporters
+PA14_14500	0:ABC transporters
+PA14_14510	0:ABC transporters
+PA14_17610	0:ABC transporters
+PA14_17620	0:ABC transporters
+PA14_17630	0:ABC transporters
+PA14_17640	0:ABC transporters
+PA14_18600	0:ABC transporters
+PA14_19500	0:ABC transporters
+PA14_19510	0:ABC transporters
+PA14_19520	0:ABC transporters
+PA14_19540	0:ABC transporters
+PA14_19570	0:ABC transporters
+PA14_19580	0:ABC transporters
+PA14_20030	0:ABC transporters
+PA14_20170	0:ABC transporters
+PA14_20180	0:ABC transporters
+PA14_20300	0:ABC transporters
+PA14_20320	0:ABC transporters
+PA14_20330	0:ABC transporters
+PA14_20580	0:ABC transporters
+PA14_21140	0:ABC transporters
+PA14_21150	0:ABC transporters
+PA14_21160	0:ABC transporters
+PA14_21175	0:ABC transporters
+PA14_22330	0:ABC transporters
+PA14_22440	0:ABC transporters
+PA14_22660	0:ABC transporters
+PA14_22670	0:ABC transporters
+PA14_22680	0:ABC transporters
+PA14_22980	0:ABC transporters
+PA14_22990	0:ABC transporters
+PA14_23000	0:ABC transporters
+PA14_23010	0:ABC transporters
+PA14_25430	0:ABC transporters
+PA14_25440	0:ABC transporters
+PA14_25450	0:ABC transporters
+PA14_26210	0:ABC transporters
+PA14_26220	0:ABC transporters
+PA14_26230	0:ABC transporters
+PA14_26240	0:ABC transporters
+PA14_26360	0:ABC transporters
+PA14_26390	0:ABC transporters
+PA14_26400	0:ABC transporters
+PA14_29090	0:ABC transporters
+PA14_29480	0:ABC transporters
+PA14_30520	0:ABC transporters
+PA14_30540	0:ABC transporters
+PA14_30550	0:ABC transporters
+PA14_30570	0:ABC transporters
+PA14_31620	0:ABC transporters
+PA14_33540	0:ABC transporters
+PA14_33550	0:ABC transporters
+PA14_33560	0:ABC transporters
+PA14_33690	0:ABC transporters
+PA14_33760	0:ABC transporters
+PA14_34260	0:ABC transporters
+PA14_34270	0:ABC transporters
+PA14_34280	0:ABC transporters
+PA14_34370	0:ABC transporters
+PA14_34390	0:ABC transporters
+PA14_34410	0:ABC transporters
+PA14_34420	0:ABC transporters
+PA14_37840	0:ABC transporters
+PA14_37850	0:ABC transporters
+PA14_37870	0:ABC transporters
+PA14_37880	0:ABC transporters
+PA14_39320	0:ABC transporters
+PA14_39330	0:ABC transporters
+PA14_39350	0:ABC transporters
+PA14_40240	0:ABC transporters
+PA14_40390	0:ABC transporters
+PA14_40410	0:ABC transporters
+PA14_40420	0:ABC transporters
+PA14_41110	0:ABC transporters
+PA14_41130	0:ABC transporters
+PA14_41140	0:ABC transporters
+PA14_41150	0:ABC transporters
+PA14_41160	0:ABC transporters
+PA14_41480	0:ABC transporters
+PA14_45110	0:ABC transporters
+PA14_45340	0:ABC transporters
+PA14_45350	0:ABC transporters
+PA14_45370	0:ABC transporters
+PA14_45380	0:ABC transporters
+PA14_46220	0:ABC transporters
+PA14_46910	0:ABC transporters
+PA14_46920	0:ABC transporters
+PA14_46930	0:ABC transporters
+PA14_46950	0:ABC transporters
+PA14_48115	0:ABC transporters
+PA14_50520	0:ABC transporters
+PA14_50530	0:ABC transporters
+PA14_50540	0:ABC transporters
+PA14_50550	0:ABC transporters
+PA14_50560	0:ABC transporters
+PA14_52750	0:ABC transporters
+PA14_52770	0:ABC transporters
+PA14_52780	0:ABC transporters
+PA14_52790	0:ABC transporters
+PA14_55000	0:ABC transporters
+PA14_55020	0:ABC transporters
+PA14_55030	0:ABC transporters
+PA14_57830	0:ABC transporters
+PA14_57840	0:ABC transporters
+PA14_57850	0:ABC transporters
+PA14_57870	0:ABC transporters
+PA14_57880	0:ABC transporters
+PA14_57930	0:ABC transporters
+PA14_58350	0:ABC transporters
+PA14_58390	0:ABC transporters
+PA14_58420	0:ABC transporters
+PA14_58440	0:ABC transporters
+PA14_58450	0:ABC transporters
+PA14_58470	0:ABC transporters
+PA14_58490	0:ABC transporters
+PA14_62000	0:ABC transporters
+PA14_62010	0:ABC transporters
+PA14_62280	0:ABC transporters
+PA14_62290	0:ABC transporters
+PA14_62300	0:ABC transporters
+PA14_64270	0:ABC transporters
+PA14_64280	0:ABC transporters
+PA14_64290	0:ABC transporters
+PA14_64300	0:ABC transporters
+PA14_64310	0:ABC transporters
+PA14_64860	0:ABC transporters
+PA14_64870	0:ABC transporters
+PA14_64880	0:ABC transporters
+PA14_64890	0:ABC transporters
+PA14_64900	0:ABC transporters
+PA14_66080	0:ABC transporters
+PA14_67130	0:ABC transporters
+PA14_67270	0:ABC transporters
+PA14_67280	0:ABC transporters
+PA14_67300	0:ABC transporters
+PA14_67400	0:ABC transporters
+PA14_68890	0:ABC transporters
+PA14_68900	0:ABC transporters
+PA14_70810	0:ABC transporters
+PA14_70830	0:ABC transporters
+PA14_70850	0:ABC transporters
+PA14_70860	0:ABC transporters
+PA14_71000	0:ABC transporters
+PA14_71020	0:ABC transporters
+PA14_71030	0:ABC transporters
+PA14_71160	0:ABC transporters
+PA14_71940	0:ABC transporters
+PA14_71960	0:ABC transporters
+PA14_72550	0:ABC transporters
+PA14_72580	0:ABC transporters
+PA14_72590	0:ABC transporters
+PA14_72620	0:ABC transporters
+PA14_72630	0:ABC transporters
+PA14_72640	0:ABC transporters
+PA14_68170	0:Acarbose and validamycin biosynthesis
+PA14_68200	0:Acarbose and validamycin biosynthesis
+PA14_00640	0:Alanine, aspartate and glutamate metabolism
+PA14_03430	0:Alanine, aspartate and glutamate metabolism
+PA14_03450	0:Alanine, aspartate and glutamate metabolism
+PA14_03860	0:Alanine, aspartate and glutamate metabolism
+PA14_03880	0:Alanine, aspartate and glutamate metabolism
+PA14_05260	0:Alanine, aspartate and glutamate metabolism
+PA14_15810	0:Alanine, aspartate and glutamate metabolism
+PA14_18740	0:Alanine, aspartate and glutamate metabolism
+PA14_18830	0:Alanine, aspartate and glutamate metabolism
+PA14_18850	0:Alanine, aspartate and glutamate metabolism
+PA14_19370	0:Alanine, aspartate and glutamate metabolism
+PA14_20670	0:Alanine, aspartate and glutamate metabolism
+PA14_23920	0:Alanine, aspartate and glutamate metabolism
+PA14_24445	0:Alanine, aspartate and glutamate metabolism
+PA14_27500	0:Alanine, aspartate and glutamate metabolism
+PA14_30110	0:Alanine, aspartate and glutamate metabolism
+PA14_35440	0:Alanine, aspartate and glutamate metabolism
+PA14_37560	0:Alanine, aspartate and glutamate metabolism
+PA14_38140	0:Alanine, aspartate and glutamate metabolism
+PA14_43320	0:Alanine, aspartate and glutamate metabolism
+PA14_44240	0:Alanine, aspartate and glutamate metabolism
+PA14_46970	0:Alanine, aspartate and glutamate metabolism
+PA14_54170	0:Alanine, aspartate and glutamate metabolism
+PA14_54450	0:Alanine, aspartate and glutamate metabolism
+PA14_60710	0:Alanine, aspartate and glutamate metabolism
+PA14_62910	0:Alanine, aspartate and glutamate metabolism
+PA14_62930	0:Alanine, aspartate and glutamate metabolism
+PA14_65230	0:Alanine, aspartate and glutamate metabolism
+PA14_66560	0:Alanine, aspartate and glutamate metabolism
+PA14_66570	0:Alanine, aspartate and glutamate metabolism
+PA14_67600	0:Alanine, aspartate and glutamate metabolism
+PA14_69500	0:Alanine, aspartate and glutamate metabolism
+PA14_71650	0:Alanine, aspartate and glutamate metabolism
+PA14_72690	0:Alanine, aspartate and glutamate metabolism
+PA14_72850	0:Alanine, aspartate and glutamate metabolism
+PA14_73170	0:Alanine, aspartate and glutamate metabolism
+PA14_19430	0:alpha-Linolenic acid metabolism
+PA14_25090	0:alpha-Linolenic acid metabolism
+PA14_26010	0:alpha-Linolenic acid metabolism
+PA14_07780	0:Amino sugar and nucleotide sugar metabolism
+PA14_07790	0:Amino sugar and nucleotide sugar metabolism
+PA14_11260	0:Amino sugar and nucleotide sugar metabolism
+PA14_15780	0:Amino sugar and nucleotide sugar metabolism
+PA14_15810	0:Amino sugar and nucleotide sugar metabolism
+PA14_15820	0:Amino sugar and nucleotide sugar metabolism
+PA14_18300	0:Amino sugar and nucleotide sugar metabolism
+PA14_18340	0:Amino sugar and nucleotide sugar metabolism
+PA14_18350	0:Amino sugar and nucleotide sugar metabolism
+PA14_18360	0:Amino sugar and nucleotide sugar metabolism
+PA14_18370	0:Amino sugar and nucleotide sugar metabolism
+PA14_18380	0:Amino sugar and nucleotide sugar metabolism
+PA14_18580	0:Amino sugar and nucleotide sugar metabolism
+PA14_22930	0:Amino sugar and nucleotide sugar metabolism
+PA14_23370	0:Amino sugar and nucleotide sugar metabolism
+PA14_23380	0:Amino sugar and nucleotide sugar metabolism
+PA14_25195	0:Amino sugar and nucleotide sugar metabolism
+PA14_25550	0:Amino sugar and nucleotide sugar metabolism
+PA14_34340	0:Amino sugar and nucleotide sugar metabolism
+PA14_38350	0:Amino sugar and nucleotide sugar metabolism
+PA14_38360	0:Amino sugar and nucleotide sugar metabolism
+PA14_57810	0:Amino sugar and nucleotide sugar metabolism
+PA14_62620	0:Amino sugar and nucleotide sugar metabolism
+PA14_62840	0:Amino sugar and nucleotide sugar metabolism
+PA14_69140	0:Amino sugar and nucleotide sugar metabolism
+PA14_70270	0:Amino sugar and nucleotide sugar metabolism
+PA14_71970	0:Amino sugar and nucleotide sugar metabolism
+PA14_71990	0:Amino sugar and nucleotide sugar metabolism
+PA14_72000	0:Amino sugar and nucleotide sugar metabolism
+PA14_73170	0:Amino sugar and nucleotide sugar metabolism
+PA14_73220	0:Amino sugar and nucleotide sugar metabolism
+PA14_00090	0:Aminoacyl-tRNA biosynthesis
+PA14_00100	0:Aminoacyl-tRNA biosynthesis
+PA14_00190	0:Aminoacyl-tRNA biosynthesis
+PA14_08560	0:Aminoacyl-tRNA biosynthesis
+PA14_10420	0:Aminoacyl-tRNA biosynthesis
+PA14_12230	0:Aminoacyl-tRNA biosynthesis
+PA14_14440	0:Aminoacyl-tRNA biosynthesis
+PA14_14890	0:Aminoacyl-tRNA biosynthesis
+PA14_16530	0:Aminoacyl-tRNA biosynthesis
+PA14_19050	0:Aminoacyl-tRNA biosynthesis
+PA14_23560	0:Aminoacyl-tRNA biosynthesis
+PA14_28650	0:Aminoacyl-tRNA biosynthesis
+PA14_28690	0:Aminoacyl-tRNA biosynthesis
+PA14_28710	0:Aminoacyl-tRNA biosynthesis
+PA14_30330	0:Aminoacyl-tRNA biosynthesis
+PA14_41360	0:Aminoacyl-tRNA biosynthesis
+PA14_41380	0:Aminoacyl-tRNA biosynthesis
+PA14_51820	0:Aminoacyl-tRNA biosynthesis
+PA14_51900	0:Aminoacyl-tRNA biosynthesis
+PA14_52600	0:Aminoacyl-tRNA biosynthesis
+PA14_57670	0:Aminoacyl-tRNA biosynthesis
+PA14_58170	0:Aminoacyl-tRNA biosynthesis
+PA14_58180	0:Aminoacyl-tRNA biosynthesis
+PA14_58190	0:Aminoacyl-tRNA biosynthesis
+PA14_60370	0:Aminoacyl-tRNA biosynthesis
+PA14_63540	0:Aminoacyl-tRNA biosynthesis
+PA14_66750	0:Aminoacyl-tRNA biosynthesis
+PA14_10040	0:Aminobenzoate degradation
+PA14_10960	0:Aminobenzoate degradation
+PA14_13330	0:Aminobenzoate degradation
+PA14_19740	0:Aminobenzoate degradation
+PA14_20560	0:Aminobenzoate degradation
+PA14_21410	0:Aminobenzoate degradation
+PA14_32140	0:Aminobenzoate degradation
+PA14_32150	0:Aminobenzoate degradation
+PA14_32160	0:Aminobenzoate degradation
+PA14_40980	0:Aminobenzoate degradation
+PA14_41950	0:Aminobenzoate degradation
+PA14_51920	0:Aminobenzoate degradation
+PA14_55200	0:Aminobenzoate degradation
+PA14_56450	0:Aminobenzoate degradation
+PA14_64770	0:Aminobenzoate degradation
+PA14_64800	0:Aminobenzoate degradation
+PA14_64810	0:Aminobenzoate degradation
+PA14_27520	0:Arachidonic acid metabolism
+PA14_47550	0:Arachidonic acid metabolism
+PA14_49300	0:Arachidonic acid metabolism
+PA14_53420	0:Arachidonic acid metabolism
+PA14_02680	0:Arginine and proline metabolism
+PA14_03810	0:Arginine and proline metabolism
+PA14_03830	0:Arginine and proline metabolism
+PA14_03900	0:Arginine and proline metabolism
+PA14_05150	0:Arginine and proline metabolism
+PA14_05480	0:Arginine and proline metabolism
+PA14_05690	0:Arginine and proline metabolism
+PA14_08390	0:Arginine and proline metabolism
+PA14_09710	0:Arginine and proline metabolism
+PA14_10040	0:Arginine and proline metabolism
+PA14_10740	0:Arginine and proline metabolism
+PA14_12010	0:Arginine and proline metabolism
+PA14_16360	0:Arginine and proline metabolism
+PA14_20560	0:Arginine and proline metabolism
+PA14_28180	0:Arginine and proline metabolism
+PA14_34680	0:Arginine and proline metabolism
+PA14_35880	0:Arginine and proline metabolism
+PA14_41020	0:Arginine and proline metabolism
+PA14_42690	0:Arginine and proline metabolism
+PA14_46070	0:Arginine and proline metabolism
+PA14_47840	0:Arginine and proline metabolism
+PA14_47850	0:Arginine and proline metabolism
+PA14_48000	0:Arginine and proline metabolism
+PA14_48450	0:Arginine and proline metabolism
+PA14_48470	0:Arginine and proline metabolism
+PA14_48490	0:Arginine and proline metabolism
+PA14_51050	0:Arginine and proline metabolism
+PA14_52630	0:Arginine and proline metabolism
+PA14_52660	0:Arginine and proline metabolism
+PA14_52670	0:Arginine and proline metabolism
+PA14_52690	0:Arginine and proline metabolism
+PA14_52700	0:Arginine and proline metabolism
+PA14_52720	0:Arginine and proline metabolism
+PA14_54170	0:Arginine and proline metabolism
+PA14_55200	0:Arginine and proline metabolism
+PA14_56450	0:Arginine and proline metabolism
+PA14_58630	0:Arginine and proline metabolism
+PA14_60420	0:Arginine and proline metabolism
+PA14_63110	0:Arginine and proline metabolism
+PA14_63120	0:Arginine and proline metabolism
+PA14_63990	0:Arginine and proline metabolism
+PA14_64740	0:Arginine and proline metabolism
+PA14_64850	0:Arginine and proline metabolism
+PA14_65770	0:Arginine and proline metabolism
+PA14_65795	0:Arginine and proline metabolism
+PA14_67110	0:Arginine and proline metabolism
+PA14_70140	0:Arginine and proline metabolism
+PA14_03860	0:Arginine biosynthesis
+PA14_03880	0:Arginine biosynthesis
+PA14_06920	0:Arginine biosynthesis
+PA14_08480	0:Arginine biosynthesis
+PA14_18610	0:Arginine biosynthesis
+PA14_18740	0:Arginine biosynthesis
+PA14_20670	0:Arginine biosynthesis
+PA14_24445	0:Arginine biosynthesis
+PA14_27500	0:Arginine biosynthesis
+PA14_38140	0:Arginine biosynthesis
+PA14_43320	0:Arginine biosynthesis
+PA14_44240	0:Arginine biosynthesis
+PA14_46970	0:Arginine biosynthesis
+PA14_57210	0:Arginine biosynthesis
+PA14_60710	0:Arginine biosynthesis
+PA14_64350	0:Arginine biosynthesis
+PA14_64370	0:Arginine biosynthesis
+PA14_64390	0:Arginine biosynthesis
+PA14_67600	0:Arginine biosynthesis
+PA14_68330	0:Arginine biosynthesis
+PA14_68340	0:Arginine biosynthesis
+PA14_68350	0:Arginine biosynthesis
+PA14_68740	0:Arginine biosynthesis
+PA14_68770	0:Arginine biosynthesis
+PA14_69500	0:Arginine biosynthesis
+PA14_70280	0:Arginine biosynthesis
+PA14_71180	0:Arginine biosynthesis
+PA14_72690	0:Arginine biosynthesis
+PA14_72850	0:Arginine biosynthesis
+PA14_18300	0:Ascorbate and aldarate metabolism
+PA14_36050	0:Ascorbate and aldarate metabolism
+PA14_38360	0:Ascorbate and aldarate metabolism
+PA14_48010	0:Ascorbate and aldarate metabolism
+PA14_51050	0:Ascorbate and aldarate metabolism
+PA14_64740	0:Ascorbate and aldarate metabolism
+PA14_02180	0:Bacterial chemotaxis
+PA14_02190	0:Bacterial chemotaxis
+PA14_02200	0:Bacterial chemotaxis
+PA14_02220	0:Bacterial chemotaxis
+PA14_02230	0:Bacterial chemotaxis
+PA14_02250	0:Bacterial chemotaxis
+PA14_02260	0:Bacterial chemotaxis
+PA14_02270	0:Bacterial chemotaxis
+PA14_20750	0:Bacterial chemotaxis
+PA14_20760	0:Bacterial chemotaxis
+PA14_26280	0:Bacterial chemotaxis
+PA14_29760	0:Bacterial chemotaxis
+PA14_29800	0:Bacterial chemotaxis
+PA14_30820	0:Bacterial chemotaxis
+PA14_31400	0:Bacterial chemotaxis
+PA14_39350	0:Bacterial chemotaxis
+PA14_39560	0:Bacterial chemotaxis
+PA14_43220	0:Bacterial chemotaxis
+PA14_43710	0:Bacterial chemotaxis
+PA14_44300	0:Bacterial chemotaxis
+PA14_45500	0:Bacterial chemotaxis
+PA14_45510	0:Bacterial chemotaxis
+PA14_45540	0:Bacterial chemotaxis
+PA14_45560	0:Bacterial chemotaxis
+PA14_45580	0:Bacterial chemotaxis
+PA14_45590	0:Bacterial chemotaxis
+PA14_45610	0:Bacterial chemotaxis
+PA14_45620	0:Bacterial chemotaxis
+PA14_45790	0:Bacterial chemotaxis
+PA14_45800	0:Bacterial chemotaxis
+PA14_46030	0:Bacterial chemotaxis
+PA14_48030	0:Bacterial chemotaxis
+PA14_50130	0:Bacterial chemotaxis
+PA14_55750	0:Bacterial chemotaxis
+PA14_55960	0:Bacterial chemotaxis
+PA14_56000	0:Bacterial chemotaxis
+PA14_56010	0:Bacterial chemotaxis
+PA14_58350	0:Bacterial chemotaxis
+PA14_58390	0:Bacterial chemotaxis
+PA14_58420	0:Bacterial chemotaxis
+PA14_58650	0:Bacterial chemotaxis
+PA14_61300	0:Bacterial chemotaxis
+PA14_64920	0:Bacterial chemotaxis
+PA14_65430	0:Bacterial chemotaxis
+PA14_65450	0:Bacterial chemotaxis
+PA14_67010	0:Bacterial chemotaxis
+PA14_00875	0:Bacterial secretion system
+PA14_00890	0:Bacterial secretion system
+PA14_00910	0:Bacterial secretion system
+PA14_00925	0:Bacterial secretion system
+PA14_00960	0:Bacterial secretion system
+PA14_00970	0:Bacterial secretion system
+PA14_00980	0:Bacterial secretion system
+PA14_01030	0:Bacterial secretion system
+PA14_01100	0:Bacterial secretion system
+PA14_01110	0:Bacterial secretion system
+PA14_01160	0:Bacterial secretion system
+PA14_03220	0:Bacterial secretion system
+PA14_03240	0:Bacterial secretion system
+PA14_04900	0:Bacterial secretion system
+PA14_08695	0:Bacterial secretion system
+PA14_09050	0:Bacterial secretion system
+PA14_10330	0:Bacterial secretion system
+PA14_14610	0:Bacterial secretion system
+PA14_14630	0:Bacterial secretion system
+PA14_14650	0:Bacterial secretion system
+PA14_15960	0:Bacterial secretion system
+PA14_18985	0:Bacterial secretion system
+PA14_21450	0:Bacterial secretion system
+PA14_23970	0:Bacterial secretion system
+PA14_23980	0:Bacterial secretion system
+PA14_23990	0:Bacterial secretion system
+PA14_24010	0:Bacterial secretion system
+PA14_24020	0:Bacterial secretion system
+PA14_24040	0:Bacterial secretion system
+PA14_24050	0:Bacterial secretion system
+PA14_24060	0:Bacterial secretion system
+PA14_24070	0:Bacterial secretion system
+PA14_24080	0:Bacterial secretion system
+PA14_24100	0:Bacterial secretion system
+PA14_29390	0:Bacterial secretion system
+PA14_29490	0:Bacterial secretion system
+PA14_29500	0:Bacterial secretion system
+PA14_29510	0:Bacterial secretion system
+PA14_29520	0:Bacterial secretion system
+PA14_29530	0:Bacterial secretion system
+PA14_29540	0:Bacterial secretion system
+PA14_30960	0:Bacterial secretion system
+PA14_33960	0:Bacterial secretion system
+PA14_33990	0:Bacterial secretion system
+PA14_34030	0:Bacterial secretion system
+PA14_34110	0:Bacterial secretion system
+PA14_34130	0:Bacterial secretion system
+PA14_40320	0:Bacterial secretion system
+PA14_40330	0:Bacterial secretion system
+PA14_42250	0:Bacterial secretion system
+PA14_42270	0:Bacterial secretion system
+PA14_42310	0:Bacterial secretion system
+PA14_42350	0:Bacterial secretion system
+PA14_42500	0:Bacterial secretion system
+PA14_42520	0:Bacterial secretion system
+PA14_42550	0:Bacterial secretion system
+PA14_42570	0:Bacterial secretion system
+PA14_42580	0:Bacterial secretion system
+PA14_42600	0:Bacterial secretion system
+PA14_42610	0:Bacterial secretion system
+PA14_42620	0:Bacterial secretion system
+PA14_42630	0:Bacterial secretion system
+PA14_42640	0:Bacterial secretion system
+PA14_42660	0:Bacterial secretion system
+PA14_42890	0:Bacterial secretion system
+PA14_42900	0:Bacterial secretion system
+PA14_42910	0:Bacterial secretion system
+PA14_42940	0:Bacterial secretion system
+PA14_42980	0:Bacterial secretion system
+PA14_43070	0:Bacterial secretion system
+PA14_43080	0:Bacterial secretion system
+PA14_44890	0:Bacterial secretion system
+PA14_44900	0:Bacterial secretion system
+PA14_55430	0:Bacterial secretion system
+PA14_55440	0:Bacterial secretion system
+PA14_55450	0:Bacterial secretion system
+PA14_55460	0:Bacterial secretion system
+PA14_55470	0:Bacterial secretion system
+PA14_55480	0:Bacterial secretion system
+PA14_55490	0:Bacterial secretion system
+PA14_55500	0:Bacterial secretion system
+PA14_55510	0:Bacterial secretion system
+PA14_55520	0:Bacterial secretion system
+PA14_55530	0:Bacterial secretion system
+PA14_57220	0:Bacterial secretion system
+PA14_62810	0:Bacterial secretion system
+PA14_65750	0:Bacterial secretion system
+PA14_66960	0:Bacterial secretion system
+PA14_66970	0:Bacterial secretion system
+PA14_66980	0:Bacterial secretion system
+PA14_67720	0:Bacterial secretion system
+PA14_68820	0:Bacterial secretion system
+PA14_69550	0:Bacterial secretion system
+PA14_69560	0:Bacterial secretion system
+PA14_73410	0:Bacterial secretion system
+PA14_00110	0:Base excision repair
+PA14_04670	0:Base excision repair
+PA14_09930	0:Base excision repair
+PA14_11970	0:Base excision repair
+PA14_16220	0:Base excision repair
+PA14_18880	0:Base excision repair
+PA14_31650	0:Base excision repair
+PA14_42700	0:Base excision repair
+PA14_44660	0:Base excision repair
+PA14_54590	0:Base excision repair
+PA14_67990	0:Base excision repair
+PA14_70390	0:Base excision repair
+PA14_72490	0:Base excision repair
+PA14_01900	0:Benzoate degradation
+PA14_01910	0:Benzoate degradation
+PA14_02790	0:Benzoate degradation
+PA14_02830	0:Benzoate degradation
+PA14_02840	0:Benzoate degradation
+PA14_02850	0:Benzoate degradation
+PA14_03050	0:Benzoate degradation
+PA14_05840	0:Benzoate degradation
+PA14_06270	0:Benzoate degradation
+PA14_13090	0:Benzoate degradation
+PA14_17860	0:Benzoate degradation
+PA14_17880	0:Benzoate degradation
+PA14_19430	0:Benzoate degradation
+PA14_19740	0:Benzoate degradation
+PA14_25080	0:Benzoate degradation
+PA14_25090	0:Benzoate degradation
+PA14_26010	0:Benzoate degradation
+PA14_31530	0:Benzoate degradation
+PA14_32080	0:Benzoate degradation
+PA14_32100	0:Benzoate degradation
+PA14_32110	0:Benzoate degradation
+PA14_32130	0:Benzoate degradation
+PA14_32220	0:Benzoate degradation
+PA14_32230	0:Benzoate degradation
+PA14_32240	0:Benzoate degradation
+PA14_37570	0:Benzoate degradation
+PA14_38630	0:Benzoate degradation
+PA14_40980	0:Benzoate degradation
+PA14_41950	0:Benzoate degradation
+PA14_42080	0:Benzoate degradation
+PA14_42090	0:Benzoate degradation
+PA14_43460	0:Benzoate degradation
+PA14_51770	0:Benzoate degradation
+PA14_58220	0:Benzoate degradation
+PA14_63250	0:Benzoate degradation
+PA14_01600	0:beta-Alanine metabolism
+PA14_01620	0:beta-Alanine metabolism
+PA14_05740	0:beta-Alanine metabolism
+PA14_05750	0:beta-Alanine metabolism
+PA14_05770	0:beta-Alanine metabolism
+PA14_16360	0:beta-Alanine metabolism
+PA14_18120	0:beta-Alanine metabolism
+PA14_19740	0:beta-Alanine metabolism
+PA14_25080	0:beta-Alanine metabolism
+PA14_31580	0:beta-Alanine metabolism
+PA14_35880	0:beta-Alanine metabolism
+PA14_35970	0:beta-Alanine metabolism
+PA14_40980	0:beta-Alanine metabolism
+PA14_41950	0:beta-Alanine metabolism
+PA14_42080	0:beta-Alanine metabolism
+PA14_42690	0:beta-Alanine metabolism
+PA14_44590	0:beta-Alanine metabolism
+PA14_49080	0:beta-Alanine metabolism
+PA14_51050	0:beta-Alanine metabolism
+PA14_51120	0:beta-Alanine metabolism
+PA14_52900	0:beta-Alanine metabolism
+PA14_54620	0:beta-Alanine metabolism
+PA14_62590	0:beta-Alanine metabolism
+PA14_62600	0:beta-Alanine metabolism
+PA14_63120	0:beta-Alanine metabolism
+PA14_64740	0:beta-Alanine metabolism
+PA14_66040	0:beta-Alanine metabolism
+PA14_70160	0:beta-Alanine metabolism
+PA14_05520	0:beta-Lactam resistance
+PA14_05530	0:beta-Lactam resistance
+PA14_05540	0:beta-Lactam resistance
+PA14_05550	0:beta-Lactam resistance
+PA14_10330	0:beta-Lactam resistance
+PA14_10790	0:beta-Lactam resistance
+PA14_10800	0:beta-Lactam resistance
+PA14_12060	0:beta-Lactam resistance
+PA14_16280	0:beta-Lactam resistance
+PA14_16300	0:beta-Lactam resistance
+PA14_18080	0:beta-Lactam resistance
+PA14_25195	0:beta-Lactam resistance
+PA14_35190	0:beta-Lactam resistance
+PA14_38380	0:beta-Lactam resistance
+PA14_38395	0:beta-Lactam resistance
+PA14_38410	0:beta-Lactam resistance
+PA14_41260	0:beta-Lactam resistance
+PA14_41270	0:beta-Lactam resistance
+PA14_51880	0:beta-Lactam resistance
+PA14_56880	0:beta-Lactam resistance
+PA14_56890	0:beta-Lactam resistance
+PA14_57100	0:beta-Lactam resistance
+PA14_57425	0:beta-Lactam resistance
+PA14_65750	0:beta-Lactam resistance
+PA14_66670	0:beta-Lactam resistance
+PA14_72210	0:beta-Lactam resistance
+PA14_72760	0:beta-Lactam resistance
+PA14_00875	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_00890	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_00900	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_00910	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_00940	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_00970	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_00980	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_00990	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_01010	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_01020	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_01030	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_01080	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_01100	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_02110	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_03240	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_05320	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_05330	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_05340	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_05360	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_05390	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_05410	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_07940	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_08340	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_08370	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_16430	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_16440	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_16460	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_16470	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_16480	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_16500	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_18380	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_18550	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_19100	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_19110	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_19120	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_19130	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_20730	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_20770	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_20780	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_20800	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_22620	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_24480	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_24490	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_24500	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_24510	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_24530	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_24550	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_24560	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_27550	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_30630	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_30650	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_31290	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_31300	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_33990	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_34000	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_34030	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_34050	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_34070	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_34100	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_34130	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_34140	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_35600	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_35620	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_35630	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_35640	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_35650	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_35670	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_35680	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_35690	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_38970	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_42220	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_42390	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_42890	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_42900	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_42920	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_42980	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_42990	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_43030	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_43040	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_43070	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_43670	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_44890	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_45630	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_45940	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_45960	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_49760	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_49890	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_50060	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_50220	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_51340	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_51350	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_51360	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_51390	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_51410	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_51420	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_51430	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_52260	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_52570	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_56280	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_56790	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_64230	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_65540	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_65690	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_69560	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_71970	0:Biofilm formation - Pseudomonas aeruginosa
+PA14_00290	0:Biosynthesis of amino acids
+PA14_00440	0:Biosynthesis of amino acids
+PA14_00450	0:Biosynthesis of amino acids
+PA14_02730	0:Biosynthesis of amino acids
+PA14_03020	0:Biosynthesis of amino acids
+PA14_03030	0:Biosynthesis of amino acids
+PA14_03330	0:Biosynthesis of amino acids
+PA14_03860	0:Biosynthesis of amino acids
+PA14_03880	0:Biosynthesis of amino acids
+PA14_04110	0:Biosynthesis of amino acids
+PA14_04310	0:Biosynthesis of amino acids
+PA14_04320	0:Biosynthesis of amino acids
+PA14_04630	0:Biosynthesis of amino acids
+PA14_05150	0:Biosynthesis of amino acids
+PA14_05220	0:Biosynthesis of amino acids
+PA14_05230	0:Biosynthesis of amino acids
+PA14_06920	0:Biosynthesis of amino acids
+PA14_07090	0:Biosynthesis of amino acids
+PA14_07130	0:Biosynthesis of amino acids
+PA14_07190	0:Biosynthesis of amino acids
+PA14_07230	0:Biosynthesis of amino acids
+PA14_07910	0:Biosynthesis of amino acids
+PA14_07940	0:Biosynthesis of amino acids
+PA14_08340	0:Biosynthesis of amino acids
+PA14_08350	0:Biosynthesis of amino acids
+PA14_08360	0:Biosynthesis of amino acids
+PA14_08480	0:Biosynthesis of amino acids
+PA14_09460	0:Biosynthesis of amino acids
+PA14_09730	0:Biosynthesis of amino acids
+PA14_09820	0:Biosynthesis of amino acids
+PA14_12010	0:Biosynthesis of amino acids
+PA14_14700	0:Biosynthesis of amino acids
+PA14_15030	0:Biosynthesis of amino acids
+PA14_16070	0:Biosynthesis of amino acids
+PA14_16090	0:Biosynthesis of amino acids
+PA14_16950	0:Biosynthesis of amino acids
+PA14_17030	0:Biosynthesis of amino acids
+PA14_17320	0:Biosynthesis of amino acids
+PA14_18610	0:Biosynthesis of amino acids
+PA14_18740	0:Biosynthesis of amino acids
+PA14_19140	0:Biosynthesis of amino acids
+PA14_20670	0:Biosynthesis of amino acids
+PA14_22890	0:Biosynthesis of amino acids
+PA14_23270	0:Biosynthesis of amino acids
+PA14_23280	0:Biosynthesis of amino acids
+PA14_23290	0:Biosynthesis of amino acids
+PA14_23500	0:Biosynthesis of amino acids
+PA14_23750	0:Biosynthesis of amino acids
+PA14_23760	0:Biosynthesis of amino acids
+PA14_23790	0:Biosynthesis of amino acids
+PA14_23800	0:Biosynthesis of amino acids
+PA14_23850	0:Biosynthesis of amino acids
+PA14_25250	0:Biosynthesis of amino acids
+PA14_25980	0:Biosynthesis of amino acids
+PA14_27330	0:Biosynthesis of amino acids
+PA14_27500	0:Biosynthesis of amino acids
+PA14_27960	0:Biosynthesis of amino acids
+PA14_29110	0:Biosynthesis of amino acids
+PA14_29410	0:Biosynthesis of amino acids
+PA14_30180	0:Biosynthesis of amino acids
+PA14_30190	0:Biosynthesis of amino acids
+PA14_31820	0:Biosynthesis of amino acids
+PA14_33010	0:Biosynthesis of amino acids
+PA14_33030	0:Biosynthesis of amino acids
+PA14_33500	0:Biosynthesis of amino acids
+PA14_35890	0:Biosynthesis of amino acids
+PA14_38140	0:Biosynthesis of amino acids
+PA14_38200	0:Biosynthesis of amino acids
+PA14_39590	0:Biosynthesis of amino acids
+PA14_39945	0:Biosynthesis of amino acids
+PA14_40670	0:Biosynthesis of amino acids
+PA14_41470	0:Biosynthesis of amino acids
+PA14_41830	0:Biosynthesis of amino acids
+PA14_41920	0:Biosynthesis of amino acids
+PA14_42760	0:Biosynthesis of amino acids
+PA14_44070	0:Biosynthesis of amino acids
+PA14_44240	0:Biosynthesis of amino acids
+PA14_44290	0:Biosynthesis of amino acids
+PA14_45050	0:Biosynthesis of amino acids
+PA14_46120	0:Biosynthesis of amino acids
+PA14_47100	0:Biosynthesis of amino acids
+PA14_48570	0:Biosynthesis of amino acids
+PA14_49380	0:Biosynthesis of amino acids
+PA14_50660	0:Biosynthesis of amino acids
+PA14_51270	0:Biosynthesis of amino acids
+PA14_51350	0:Biosynthesis of amino acids
+PA14_51360	0:Biosynthesis of amino acids
+PA14_52210	0:Biosynthesis of amino acids
+PA14_52580	0:Biosynthesis of amino acids
+PA14_52610	0:Biosynthesis of amino acids
+PA14_52990	0:Biosynthesis of amino acids
+PA14_53010	0:Biosynthesis of amino acids
+PA14_53260	0:Biosynthesis of amino acids
+PA14_54880	0:Biosynthesis of amino acids
+PA14_56240	0:Biosynthesis of amino acids
+PA14_57210	0:Biosynthesis of amino acids
+PA14_57770	0:Biosynthesis of amino acids
+PA14_57780	0:Biosynthesis of amino acids
+PA14_57800	0:Biosynthesis of amino acids
+PA14_60420	0:Biosynthesis of amino acids
+PA14_60890	0:Biosynthesis of amino acids
+PA14_61770	0:Biosynthesis of amino acids
+PA14_62130	0:Biosynthesis of amino acids
+PA14_62150	0:Biosynthesis of amino acids
+PA14_62160	0:Biosynthesis of amino acids
+PA14_62830	0:Biosynthesis of amino acids
+PA14_62940	0:Biosynthesis of amino acids
+PA14_64090	0:Biosynthesis of amino acids
+PA14_64850	0:Biosynthesis of amino acids
+PA14_65250	0:Biosynthesis of amino acids
+PA14_65560	0:Biosynthesis of amino acids
+PA14_66260	0:Biosynthesis of amino acids
+PA14_66560	0:Biosynthesis of amino acids
+PA14_66570	0:Biosynthesis of amino acids
+PA14_66600	0:Biosynthesis of amino acids
+PA14_66610	0:Biosynthesis of amino acids
+PA14_66940	0:Biosynthesis of amino acids
+PA14_66950	0:Biosynthesis of amino acids
+PA14_67600	0:Biosynthesis of amino acids
+PA14_67770	0:Biosynthesis of amino acids
+PA14_67880	0:Biosynthesis of amino acids
+PA14_67890	0:Biosynthesis of amino acids
+PA14_67920	0:Biosynthesis of amino acids
+PA14_67930	0:Biosynthesis of amino acids
+PA14_68340	0:Biosynthesis of amino acids
+PA14_68480	0:Biosynthesis of amino acids
+PA14_68740	0:Biosynthesis of amino acids
+PA14_68770	0:Biosynthesis of amino acids
+PA14_69500	0:Biosynthesis of amino acids
+PA14_69670	0:Biosynthesis of amino acids
+PA14_69690	0:Biosynthesis of amino acids
+PA14_70280	0:Biosynthesis of amino acids
+PA14_71060	0:Biosynthesis of amino acids
+PA14_71180	0:Biosynthesis of amino acids
+PA14_71440	0:Biosynthesis of amino acids
+PA14_71460	0:Biosynthesis of amino acids
+PA14_71720	0:Biosynthesis of amino acids
+PA14_71740	0:Biosynthesis of amino acids
+PA14_72510	0:Biosynthesis of amino acids
+PA14_72690	0:Biosynthesis of amino acids
+PA14_72850	0:Biosynthesis of amino acids
+PA14_00290	0:Biosynthesis of antibiotics
+PA14_00440	0:Biosynthesis of antibiotics
+PA14_00450	0:Biosynthesis of antibiotics
+PA14_00770	0:Biosynthesis of antibiotics
+PA14_02730	0:Biosynthesis of antibiotics
+PA14_03020	0:Biosynthesis of antibiotics
+PA14_03030	0:Biosynthesis of antibiotics
+PA14_03980	0:Biosynthesis of antibiotics
+PA14_04110	0:Biosynthesis of antibiotics
+PA14_04310	0:Biosynthesis of antibiotics
+PA14_04320	0:Biosynthesis of antibiotics
+PA14_04630	0:Biosynthesis of antibiotics
+PA14_05080	0:Biosynthesis of antibiotics
+PA14_05150	0:Biosynthesis of antibiotics
+PA14_05220	0:Biosynthesis of antibiotics
+PA14_05230	0:Biosynthesis of antibiotics
+PA14_05840	0:Biosynthesis of antibiotics
+PA14_06450	0:Biosynthesis of antibiotics
+PA14_06920	0:Biosynthesis of antibiotics
+PA14_07130	0:Biosynthesis of antibiotics
+PA14_07190	0:Biosynthesis of antibiotics
+PA14_07230	0:Biosynthesis of antibiotics
+PA14_07910	0:Biosynthesis of antibiotics
+PA14_07930	0:Biosynthesis of antibiotics
+PA14_07940	0:Biosynthesis of antibiotics
+PA14_08340	0:Biosynthesis of antibiotics
+PA14_08350	0:Biosynthesis of antibiotics
+PA14_08360	0:Biosynthesis of antibiotics
+PA14_08480	0:Biosynthesis of antibiotics
+PA14_09150	0:Biosynthesis of antibiotics
+PA14_09210	0:Biosynthesis of antibiotics
+PA14_09220	0:Biosynthesis of antibiotics
+PA14_09460	0:Biosynthesis of antibiotics
+PA14_09730	0:Biosynthesis of antibiotics
+PA14_09820	0:Biosynthesis of antibiotics
+PA14_10240	0:Biosynthesis of antibiotics
+PA14_10250	0:Biosynthesis of antibiotics
+PA14_10260	0:Biosynthesis of antibiotics
+PA14_11250	0:Biosynthesis of antibiotics
+PA14_11550	0:Biosynthesis of antibiotics
+PA14_11560	0:Biosynthesis of antibiotics
+PA14_12010	0:Biosynthesis of antibiotics
+PA14_13090	0:Biosynthesis of antibiotics
+PA14_14820	0:Biosynthesis of antibiotics
+PA14_14880	0:Biosynthesis of antibiotics
+PA14_15740	0:Biosynthesis of antibiotics
+PA14_15810	0:Biosynthesis of antibiotics
+PA14_15820	0:Biosynthesis of antibiotics
+PA14_15890	0:Biosynthesis of antibiotics
+PA14_16070	0:Biosynthesis of antibiotics
+PA14_16700	0:Biosynthesis of antibiotics
+PA14_17130	0:Biosynthesis of antibiotics
+PA14_17270	0:Biosynthesis of antibiotics
+PA14_17320	0:Biosynthesis of antibiotics
+PA14_17340	0:Biosynthesis of antibiotics
+PA14_17400	0:Biosynthesis of antibiotics
+PA14_17420	0:Biosynthesis of antibiotics
+PA14_17880	0:Biosynthesis of antibiotics
+PA14_18610	0:Biosynthesis of antibiotics
+PA14_18740	0:Biosynthesis of antibiotics
+PA14_18830	0:Biosynthesis of antibiotics
+PA14_18850	0:Biosynthesis of antibiotics
+PA14_19140	0:Biosynthesis of antibiotics
+PA14_19430	0:Biosynthesis of antibiotics
+PA14_19470	0:Biosynthesis of antibiotics
+PA14_19740	0:Biosynthesis of antibiotics
+PA14_19870	0:Biosynthesis of antibiotics
+PA14_19900	0:Biosynthesis of antibiotics
+PA14_19910	0:Biosynthesis of antibiotics
+PA14_19920	0:Biosynthesis of antibiotics
+PA14_22510	0:Biosynthesis of antibiotics
+PA14_22890	0:Biosynthesis of antibiotics
+PA14_22930	0:Biosynthesis of antibiotics
+PA14_23070	0:Biosynthesis of antibiotics
+PA14_23080	0:Biosynthesis of antibiotics
+PA14_23210	0:Biosynthesis of antibiotics
+PA14_23270	0:Biosynthesis of antibiotics
+PA14_23280	0:Biosynthesis of antibiotics
+PA14_23290	0:Biosynthesis of antibiotics
+PA14_23500	0:Biosynthesis of antibiotics
+PA14_23800	0:Biosynthesis of antibiotics
+PA14_23850	0:Biosynthesis of antibiotics
+PA14_23860	0:Biosynthesis of antibiotics
+PA14_23920	0:Biosynthesis of antibiotics
+PA14_25080	0:Biosynthesis of antibiotics
+PA14_25090	0:Biosynthesis of antibiotics
+PA14_25250	0:Biosynthesis of antibiotics
+PA14_25590	0:Biosynthesis of antibiotics
+PA14_25980	0:Biosynthesis of antibiotics
+PA14_26010	0:Biosynthesis of antibiotics
+PA14_27330	0:Biosynthesis of antibiotics
+PA14_27500	0:Biosynthesis of antibiotics
+PA14_27960	0:Biosynthesis of antibiotics
+PA14_29110	0:Biosynthesis of antibiotics
+PA14_29410	0:Biosynthesis of antibiotics
+PA14_29420	0:Biosynthesis of antibiotics
+PA14_30110	0:Biosynthesis of antibiotics
+PA14_30180	0:Biosynthesis of antibiotics
+PA14_30190	0:Biosynthesis of antibiotics
+PA14_31500	0:Biosynthesis of antibiotics
+PA14_31530	0:Biosynthesis of antibiotics
+PA14_31580	0:Biosynthesis of antibiotics
+PA14_31820	0:Biosynthesis of antibiotics
+PA14_32985	0:Biosynthesis of antibiotics
+PA14_33000	0:Biosynthesis of antibiotics
+PA14_33010	0:Biosynthesis of antibiotics
+PA14_33030	0:Biosynthesis of antibiotics
+PA14_33040	0:Biosynthesis of antibiotics
+PA14_33510	0:Biosynthesis of antibiotics
+PA14_34640	0:Biosynthesis of antibiotics
+PA14_34970	0:Biosynthesis of antibiotics
+PA14_35490	0:Biosynthesis of antibiotics
+PA14_35500	0:Biosynthesis of antibiotics
+PA14_35520	0:Biosynthesis of antibiotics
+PA14_35530	0:Biosynthesis of antibiotics
+PA14_35970	0:Biosynthesis of antibiotics
+PA14_36810	0:Biosynthesis of antibiotics
+PA14_38200	0:Biosynthesis of antibiotics
+PA14_38350	0:Biosynthesis of antibiotics
+PA14_38630	0:Biosynthesis of antibiotics
+PA14_38860	0:Biosynthesis of antibiotics
+PA14_39945	0:Biosynthesis of antibiotics
+PA14_40040	0:Biosynthesis of antibiotics
+PA14_40980	0:Biosynthesis of antibiotics
+PA14_41470	0:Biosynthesis of antibiotics
+PA14_41830	0:Biosynthesis of antibiotics
+PA14_41920	0:Biosynthesis of antibiotics
+PA14_41950	0:Biosynthesis of antibiotics
+PA14_42080	0:Biosynthesis of antibiotics
+PA14_42090	0:Biosynthesis of antibiotics
+PA14_42760	0:Biosynthesis of antibiotics
+PA14_43940	0:Biosynthesis of antibiotics
+PA14_43950	0:Biosynthesis of antibiotics
+PA14_43970	0:Biosynthesis of antibiotics
+PA14_44000	0:Biosynthesis of antibiotics
+PA14_44010	0:Biosynthesis of antibiotics
+PA14_44020	0:Biosynthesis of antibiotics
+PA14_44030	0:Biosynthesis of antibiotics
+PA14_44050	0:Biosynthesis of antibiotics
+PA14_44060	0:Biosynthesis of antibiotics
+PA14_44070	0:Biosynthesis of antibiotics
+PA14_44290	0:Biosynthesis of antibiotics
+PA14_44590	0:Biosynthesis of antibiotics
+PA14_45030	0:Biosynthesis of antibiotics
+PA14_45050	0:Biosynthesis of antibiotics
+PA14_46120	0:Biosynthesis of antibiotics
+PA14_47100	0:Biosynthesis of antibiotics
+PA14_49080	0:Biosynthesis of antibiotics
+PA14_49340	0:Biosynthesis of antibiotics
+PA14_50660	0:Biosynthesis of antibiotics
+PA14_50760	0:Biosynthesis of antibiotics
+PA14_51050	0:Biosynthesis of antibiotics
+PA14_51120	0:Biosynthesis of antibiotics
+PA14_51240	0:Biosynthesis of antibiotics
+PA14_51270	0:Biosynthesis of antibiotics
+PA14_51350	0:Biosynthesis of antibiotics
+PA14_51360	0:Biosynthesis of antibiotics
+PA14_52040	0:Biosynthesis of antibiotics
+PA14_52050	0:Biosynthesis of antibiotics
+PA14_52210	0:Biosynthesis of antibiotics
+PA14_52580	0:Biosynthesis of antibiotics
+PA14_52610	0:Biosynthesis of antibiotics
+PA14_52800	0:Biosynthesis of antibiotics
+PA14_52900	0:Biosynthesis of antibiotics
+PA14_53010	0:Biosynthesis of antibiotics
+PA14_53220	0:Biosynthesis of antibiotics
+PA14_53260	0:Biosynthesis of antibiotics
+PA14_54170	0:Biosynthesis of antibiotics
+PA14_56240	0:Biosynthesis of antibiotics
+PA14_56300	0:Biosynthesis of antibiotics
+PA14_57210	0:Biosynthesis of antibiotics
+PA14_57710	0:Biosynthesis of antibiotics
+PA14_57720	0:Biosynthesis of antibiotics
+PA14_57770	0:Biosynthesis of antibiotics
+PA14_58030	0:Biosynthesis of antibiotics
+PA14_58630	0:Biosynthesis of antibiotics
+PA14_60330	0:Biosynthesis of antibiotics
+PA14_60420	0:Biosynthesis of antibiotics
+PA14_60890	0:Biosynthesis of antibiotics
+PA14_61040	0:Biosynthesis of antibiotics
+PA14_61210	0:Biosynthesis of antibiotics
+PA14_61400	0:Biosynthesis of antibiotics
+PA14_61750	0:Biosynthesis of antibiotics
+PA14_61770	0:Biosynthesis of antibiotics
+PA14_62130	0:Biosynthesis of antibiotics
+PA14_62150	0:Biosynthesis of antibiotics
+PA14_62160	0:Biosynthesis of antibiotics
+PA14_62620	0:Biosynthesis of antibiotics
+PA14_62630	0:Biosynthesis of antibiotics
+PA14_62830	0:Biosynthesis of antibiotics
+PA14_62840	0:Biosynthesis of antibiotics
+PA14_62940	0:Biosynthesis of antibiotics
+PA14_63250	0:Biosynthesis of antibiotics
+PA14_63850	0:Biosynthesis of antibiotics
+PA14_64090	0:Biosynthesis of antibiotics
+PA14_64100	0:Biosynthesis of antibiotics
+PA14_64110	0:Biosynthesis of antibiotics
+PA14_64200	0:Biosynthesis of antibiotics
+PA14_64220	0:Biosynthesis of antibiotics
+PA14_64360	0:Biosynthesis of antibiotics
+PA14_64740	0:Biosynthesis of antibiotics
+PA14_64850	0:Biosynthesis of antibiotics
+PA14_65560	0:Biosynthesis of antibiotics
+PA14_66040	0:Biosynthesis of antibiotics
+PA14_66260	0:Biosynthesis of antibiotics
+PA14_66290	0:Biosynthesis of antibiotics
+PA14_66310	0:Biosynthesis of antibiotics
+PA14_66560	0:Biosynthesis of antibiotics
+PA14_66570	0:Biosynthesis of antibiotics
+PA14_66600	0:Biosynthesis of antibiotics
+PA14_66610	0:Biosynthesis of antibiotics
+PA14_67490	0:Biosynthesis of antibiotics
+PA14_67770	0:Biosynthesis of antibiotics
+PA14_68170	0:Biosynthesis of antibiotics
+PA14_68190	0:Biosynthesis of antibiotics
+PA14_68200	0:Biosynthesis of antibiotics
+PA14_68210	0:Biosynthesis of antibiotics
+PA14_68330	0:Biosynthesis of antibiotics
+PA14_68340	0:Biosynthesis of antibiotics
+PA14_68370	0:Biosynthesis of antibiotics
+PA14_68480	0:Biosynthesis of antibiotics
+PA14_68580	0:Biosynthesis of antibiotics
+PA14_68740	0:Biosynthesis of antibiotics
+PA14_68770	0:Biosynthesis of antibiotics
+PA14_68850	0:Biosynthesis of antibiotics
+PA14_68860	0:Biosynthesis of antibiotics
+PA14_68870	0:Biosynthesis of antibiotics
+PA14_69500	0:Biosynthesis of antibiotics
+PA14_69670	0:Biosynthesis of antibiotics
+PA14_69690	0:Biosynthesis of antibiotics
+PA14_70270	0:Biosynthesis of antibiotics
+PA14_70280	0:Biosynthesis of antibiotics
+PA14_70670	0:Biosynthesis of antibiotics
+PA14_70680	0:Biosynthesis of antibiotics
+PA14_70690	0:Biosynthesis of antibiotics
+PA14_71060	0:Biosynthesis of antibiotics
+PA14_71180	0:Biosynthesis of antibiotics
+PA14_71440	0:Biosynthesis of antibiotics
+PA14_71460	0:Biosynthesis of antibiotics
+PA14_71570	0:Biosynthesis of antibiotics
+PA14_71600	0:Biosynthesis of antibiotics
+PA14_71620	0:Biosynthesis of antibiotics
+PA14_71630	0:Biosynthesis of antibiotics
+PA14_71800	0:Biosynthesis of antibiotics
+PA14_71890	0:Biosynthesis of antibiotics
+PA14_73170	0:Biosynthesis of antibiotics
+PA14_73220	0:Biosynthesis of antibiotics
+PA14_00060	0:Biosynthesis of secondary metabolites
+PA14_00280	0:Biosynthesis of secondary metabolites
+PA14_00290	0:Biosynthesis of secondary metabolites
+PA14_00440	0:Biosynthesis of secondary metabolites
+PA14_00450	0:Biosynthesis of secondary metabolites
+PA14_00640	0:Biosynthesis of secondary metabolites
+PA14_00770	0:Biosynthesis of secondary metabolites
+PA14_01360	0:Biosynthesis of secondary metabolites
+PA14_01380	0:Biosynthesis of secondary metabolites
+PA14_02730	0:Biosynthesis of secondary metabolites
+PA14_03020	0:Biosynthesis of secondary metabolites
+PA14_03030	0:Biosynthesis of secondary metabolites
+PA14_03130	0:Biosynthesis of secondary metabolites
+PA14_03330	0:Biosynthesis of secondary metabolites
+PA14_04310	0:Biosynthesis of secondary metabolites
+PA14_04320	0:Biosynthesis of secondary metabolites
+PA14_04630	0:Biosynthesis of secondary metabolites
+PA14_05150	0:Biosynthesis of secondary metabolites
+PA14_05480	0:Biosynthesis of secondary metabolites
+PA14_06290	0:Biosynthesis of secondary metabolites
+PA14_06450	0:Biosynthesis of secondary metabolites
+PA14_06660	0:Biosynthesis of secondary metabolites
+PA14_06920	0:Biosynthesis of secondary metabolites
+PA14_07090	0:Biosynthesis of secondary metabolites
+PA14_07130	0:Biosynthesis of secondary metabolites
+PA14_07190	0:Biosynthesis of secondary metabolites
+PA14_07230	0:Biosynthesis of secondary metabolites
+PA14_07580	0:Biosynthesis of secondary metabolites
+PA14_07690	0:Biosynthesis of secondary metabolites
+PA14_07910	0:Biosynthesis of secondary metabolites
+PA14_07930	0:Biosynthesis of secondary metabolites
+PA14_07940	0:Biosynthesis of secondary metabolites
+PA14_08340	0:Biosynthesis of secondary metabolites
+PA14_08350	0:Biosynthesis of secondary metabolites
+PA14_08360	0:Biosynthesis of secondary metabolites
+PA14_08400	0:Biosynthesis of secondary metabolites
+PA14_08480	0:Biosynthesis of secondary metabolites
+PA14_09150	0:Biosynthesis of secondary metabolites
+PA14_09210	0:Biosynthesis of secondary metabolites
+PA14_09220	0:Biosynthesis of secondary metabolites
+PA14_09460	0:Biosynthesis of secondary metabolites
+PA14_09730	0:Biosynthesis of secondary metabolites
+PA14_09820	0:Biosynthesis of secondary metabolites
+PA14_10240	0:Biosynthesis of secondary metabolites
+PA14_10250	0:Biosynthesis of secondary metabolites
+PA14_10260	0:Biosynthesis of secondary metabolites
+PA14_11030	0:Biosynthesis of secondary metabolites
+PA14_11400	0:Biosynthesis of secondary metabolites
+PA14_11410	0:Biosynthesis of secondary metabolites
+PA14_11420	0:Biosynthesis of secondary metabolites
+PA14_11430	0:Biosynthesis of secondary metabolites
+PA14_11510	0:Biosynthesis of secondary metabolites
+PA14_11550	0:Biosynthesis of secondary metabolites
+PA14_11560	0:Biosynthesis of secondary metabolites
+PA14_11810	0:Biosynthesis of secondary metabolites
+PA14_11860	0:Biosynthesis of secondary metabolites
+PA14_12010	0:Biosynthesis of secondary metabolites
+PA14_12390	0:Biosynthesis of secondary metabolites
+PA14_13090	0:Biosynthesis of secondary metabolites
+PA14_14110	0:Biosynthesis of secondary metabolites
+PA14_14700	0:Biosynthesis of secondary metabolites
+PA14_14820	0:Biosynthesis of secondary metabolites
+PA14_14880	0:Biosynthesis of secondary metabolites
+PA14_15030	0:Biosynthesis of secondary metabolites
+PA14_15310	0:Biosynthesis of secondary metabolites
+PA14_15740	0:Biosynthesis of secondary metabolites
+PA14_15890	0:Biosynthesis of secondary metabolites
+PA14_16070	0:Biosynthesis of secondary metabolites
+PA14_16090	0:Biosynthesis of secondary metabolites
+PA14_16700	0:Biosynthesis of secondary metabolites
+PA14_16860	0:Biosynthesis of secondary metabolites
+PA14_17110	0:Biosynthesis of secondary metabolites
+PA14_17120	0:Biosynthesis of secondary metabolites
+PA14_17130	0:Biosynthesis of secondary metabolites
+PA14_17270	0:Biosynthesis of secondary metabolites
+PA14_17320	0:Biosynthesis of secondary metabolites
+PA14_17340	0:Biosynthesis of secondary metabolites
+PA14_17400	0:Biosynthesis of secondary metabolites
+PA14_17420	0:Biosynthesis of secondary metabolites
+PA14_17450	0:Biosynthesis of secondary metabolites
+PA14_17675	0:Biosynthesis of secondary metabolites
+PA14_17880	0:Biosynthesis of secondary metabolites
+PA14_17930	0:Biosynthesis of secondary metabolites
+PA14_18380	0:Biosynthesis of secondary metabolites
+PA14_18610	0:Biosynthesis of secondary metabolites
+PA14_18740	0:Biosynthesis of secondary metabolites
+PA14_18830	0:Biosynthesis of secondary metabolites
+PA14_18850	0:Biosynthesis of secondary metabolites
+PA14_19140	0:Biosynthesis of secondary metabolites
+PA14_19370	0:Biosynthesis of secondary metabolites
+PA14_19430	0:Biosynthesis of secondary metabolites
+PA14_19470	0:Biosynthesis of secondary metabolites
+PA14_19740	0:Biosynthesis of secondary metabolites
+PA14_19870	0:Biosynthesis of secondary metabolites
+PA14_19900	0:Biosynthesis of secondary metabolites
+PA14_19910	0:Biosynthesis of secondary metabolites
+PA14_19920	0:Biosynthesis of secondary metabolites
+PA14_21110	0:Biosynthesis of secondary metabolites
+PA14_22510	0:Biosynthesis of secondary metabolites
+PA14_22890	0:Biosynthesis of secondary metabolites
+PA14_22930	0:Biosynthesis of secondary metabolites
+PA14_23070	0:Biosynthesis of secondary metabolites
+PA14_23080	0:Biosynthesis of secondary metabolites
+PA14_23210	0:Biosynthesis of secondary metabolites
+PA14_23220	0:Biosynthesis of secondary metabolites
+PA14_23280	0:Biosynthesis of secondary metabolites
+PA14_23290	0:Biosynthesis of secondary metabolites
+PA14_23500	0:Biosynthesis of secondary metabolites
+PA14_23560	0:Biosynthesis of secondary metabolites
+PA14_23750	0:Biosynthesis of secondary metabolites
+PA14_23760	0:Biosynthesis of secondary metabolites
+PA14_23790	0:Biosynthesis of secondary metabolites
+PA14_23800	0:Biosynthesis of secondary metabolites
+PA14_23850	0:Biosynthesis of secondary metabolites
+PA14_23860	0:Biosynthesis of secondary metabolites
+PA14_23920	0:Biosynthesis of secondary metabolites
+PA14_24950	0:Biosynthesis of secondary metabolites
+PA14_25080	0:Biosynthesis of secondary metabolites
+PA14_25090	0:Biosynthesis of secondary metabolites
+PA14_25250	0:Biosynthesis of secondary metabolites
+PA14_25590	0:Biosynthesis of secondary metabolites
+PA14_25640	0:Biosynthesis of secondary metabolites
+PA14_25980	0:Biosynthesis of secondary metabolites
+PA14_25990	0:Biosynthesis of secondary metabolites
+PA14_26010	0:Biosynthesis of secondary metabolites
+PA14_27330	0:Biosynthesis of secondary metabolites
+PA14_27500	0:Biosynthesis of secondary metabolites
+PA14_27960	0:Biosynthesis of secondary metabolites
+PA14_29110	0:Biosynthesis of secondary metabolites
+PA14_29410	0:Biosynthesis of secondary metabolites
+PA14_29420	0:Biosynthesis of secondary metabolites
+PA14_30050	0:Biosynthesis of secondary metabolites
+PA14_30110	0:Biosynthesis of secondary metabolites
+PA14_30180	0:Biosynthesis of secondary metabolites
+PA14_30190	0:Biosynthesis of secondary metabolites
+PA14_30340	0:Biosynthesis of secondary metabolites
+PA14_31500	0:Biosynthesis of secondary metabolites
+PA14_31530	0:Biosynthesis of secondary metabolites
+PA14_31580	0:Biosynthesis of secondary metabolites
+PA14_31760	0:Biosynthesis of secondary metabolites
+PA14_31820	0:Biosynthesis of secondary metabolites
+PA14_32985	0:Biosynthesis of secondary metabolites
+PA14_33000	0:Biosynthesis of secondary metabolites
+PA14_33010	0:Biosynthesis of secondary metabolites
+PA14_33030	0:Biosynthesis of secondary metabolites
+PA14_33040	0:Biosynthesis of secondary metabolites
+PA14_34640	0:Biosynthesis of secondary metabolites
+PA14_34970	0:Biosynthesis of secondary metabolites
+PA14_35440	0:Biosynthesis of secondary metabolites
+PA14_35490	0:Biosynthesis of secondary metabolites
+PA14_35500	0:Biosynthesis of secondary metabolites
+PA14_35520	0:Biosynthesis of secondary metabolites
+PA14_35530	0:Biosynthesis of secondary metabolites
+PA14_35790	0:Biosynthesis of secondary metabolites
+PA14_35970	0:Biosynthesis of secondary metabolites
+PA14_36310	0:Biosynthesis of secondary metabolites
+PA14_36320	0:Biosynthesis of secondary metabolites
+PA14_36330	0:Biosynthesis of secondary metabolites
+PA14_36570	0:Biosynthesis of secondary metabolites
+PA14_36580	0:Biosynthesis of secondary metabolites
+PA14_36605	0:Biosynthesis of secondary metabolites
+PA14_36630	0:Biosynthesis of secondary metabolites
+PA14_36710	0:Biosynthesis of secondary metabolites
+PA14_36810	0:Biosynthesis of secondary metabolites
+PA14_36840	0:Biosynthesis of secondary metabolites
+PA14_37560	0:Biosynthesis of secondary metabolites
+PA14_38200	0:Biosynthesis of secondary metabolites
+PA14_38630	0:Biosynthesis of secondary metabolites
+PA14_38840	0:Biosynthesis of secondary metabolites
+PA14_38860	0:Biosynthesis of secondary metabolites
+PA14_39590	0:Biosynthesis of secondary metabolites
+PA14_39945	0:Biosynthesis of secondary metabolites
+PA14_40670	0:Biosynthesis of secondary metabolites
+PA14_40980	0:Biosynthesis of secondary metabolites
+PA14_41470	0:Biosynthesis of secondary metabolites
+PA14_41563	0:Biosynthesis of secondary metabolites
+PA14_41830	0:Biosynthesis of secondary metabolites
+PA14_41900	0:Biosynthesis of secondary metabolites
+PA14_41920	0:Biosynthesis of secondary metabolites
+PA14_41950	0:Biosynthesis of secondary metabolites
+PA14_42080	0:Biosynthesis of secondary metabolites
+PA14_42090	0:Biosynthesis of secondary metabolites
+PA14_42230	0:Biosynthesis of secondary metabolites
+PA14_42760	0:Biosynthesis of secondary metabolites
+PA14_43640	0:Biosynthesis of secondary metabolites
+PA14_43830	0:Biosynthesis of secondary metabolites
+PA14_43940	0:Biosynthesis of secondary metabolites
+PA14_43950	0:Biosynthesis of secondary metabolites
+PA14_43970	0:Biosynthesis of secondary metabolites
+PA14_44000	0:Biosynthesis of secondary metabolites
+PA14_44010	0:Biosynthesis of secondary metabolites
+PA14_44020	0:Biosynthesis of secondary metabolites
+PA14_44030	0:Biosynthesis of secondary metabolites
+PA14_44050	0:Biosynthesis of secondary metabolites
+PA14_44060	0:Biosynthesis of secondary metabolites
+PA14_44070	0:Biosynthesis of secondary metabolites
+PA14_44290	0:Biosynthesis of secondary metabolites
+PA14_44590	0:Biosynthesis of secondary metabolites
+PA14_45050	0:Biosynthesis of secondary metabolites
+PA14_46120	0:Biosynthesis of secondary metabolites
+PA14_46970	0:Biosynthesis of secondary metabolites
+PA14_47100	0:Biosynthesis of secondary metabolites
+PA14_47150	0:Biosynthesis of secondary metabolites
+PA14_48440	0:Biosynthesis of secondary metabolites
+PA14_48570	0:Biosynthesis of secondary metabolites
+PA14_49080	0:Biosynthesis of secondary metabolites
+PA14_49340	0:Biosynthesis of secondary metabolites
+PA14_50660	0:Biosynthesis of secondary metabolites
+PA14_51050	0:Biosynthesis of secondary metabolites
+PA14_51120	0:Biosynthesis of secondary metabolites
+PA14_51240	0:Biosynthesis of secondary metabolites
+PA14_51270	0:Biosynthesis of secondary metabolites
+PA14_51350	0:Biosynthesis of secondary metabolites
+PA14_51360	0:Biosynthesis of secondary metabolites
+PA14_51770	0:Biosynthesis of secondary metabolites
+PA14_51990	0:Biosynthesis of secondary metabolites
+PA14_52040	0:Biosynthesis of secondary metabolites
+PA14_52050	0:Biosynthesis of secondary metabolites
+PA14_52210	0:Biosynthesis of secondary metabolites
+PA14_52580	0:Biosynthesis of secondary metabolites
+PA14_52610	0:Biosynthesis of secondary metabolites
+PA14_52800	0:Biosynthesis of secondary metabolites
+PA14_52900	0:Biosynthesis of secondary metabolites
+PA14_53010	0:Biosynthesis of secondary metabolites
+PA14_53220	0:Biosynthesis of secondary metabolites
+PA14_53260	0:Biosynthesis of secondary metabolites
+PA14_53360	0:Biosynthesis of secondary metabolites
+PA14_54170	0:Biosynthesis of secondary metabolites
+PA14_54880	0:Biosynthesis of secondary metabolites
+PA14_56240	0:Biosynthesis of secondary metabolites
+PA14_56300	0:Biosynthesis of secondary metabolites
+PA14_56570	0:Biosynthesis of secondary metabolites
+PA14_57160	0:Biosynthesis of secondary metabolites
+PA14_57210	0:Biosynthesis of secondary metabolites
+PA14_57770	0:Biosynthesis of secondary metabolites
+PA14_57780	0:Biosynthesis of secondary metabolites
+PA14_57800	0:Biosynthesis of secondary metabolites
+PA14_58030	0:Biosynthesis of secondary metabolites
+PA14_58630	0:Biosynthesis of secondary metabolites
+PA14_60330	0:Biosynthesis of secondary metabolites
+PA14_60380	0:Biosynthesis of secondary metabolites
+PA14_60470	0:Biosynthesis of secondary metabolites
+PA14_60890	0:Biosynthesis of secondary metabolites
+PA14_61040	0:Biosynthesis of secondary metabolites
+PA14_61210	0:Biosynthesis of secondary metabolites
+PA14_61400	0:Biosynthesis of secondary metabolites
+PA14_61460	0:Biosynthesis of secondary metabolites
+PA14_61580	0:Biosynthesis of secondary metabolites
+PA14_61710	0:Biosynthesis of secondary metabolites
+PA14_61750	0:Biosynthesis of secondary metabolites
+PA14_61770	0:Biosynthesis of secondary metabolites
+PA14_62120	0:Biosynthesis of secondary metabolites
+PA14_62130	0:Biosynthesis of secondary metabolites
+PA14_62150	0:Biosynthesis of secondary metabolites
+PA14_62160	0:Biosynthesis of secondary metabolites
+PA14_62580	0:Biosynthesis of secondary metabolites
+PA14_62590	0:Biosynthesis of secondary metabolites
+PA14_62600	0:Biosynthesis of secondary metabolites
+PA14_62620	0:Biosynthesis of secondary metabolites
+PA14_62630	0:Biosynthesis of secondary metabolites
+PA14_62830	0:Biosynthesis of secondary metabolites
+PA14_62940	0:Biosynthesis of secondary metabolites
+PA14_63250	0:Biosynthesis of secondary metabolites
+PA14_63850	0:Biosynthesis of secondary metabolites
+PA14_64090	0:Biosynthesis of secondary metabolites
+PA14_64100	0:Biosynthesis of secondary metabolites
+PA14_64110	0:Biosynthesis of secondary metabolites
+PA14_64200	0:Biosynthesis of secondary metabolites
+PA14_64220	0:Biosynthesis of secondary metabolites
+PA14_64740	0:Biosynthesis of secondary metabolites
+PA14_64850	0:Biosynthesis of secondary metabolites
+PA14_65250	0:Biosynthesis of secondary metabolites
+PA14_65320	0:Biosynthesis of secondary metabolites
+PA14_65500	0:Biosynthesis of secondary metabolites
+PA14_65760	0:Biosynthesis of secondary metabolites
+PA14_66040	0:Biosynthesis of secondary metabolites
+PA14_66260	0:Biosynthesis of secondary metabolites
+PA14_66290	0:Biosynthesis of secondary metabolites
+PA14_66310	0:Biosynthesis of secondary metabolites
+PA14_66350	0:Biosynthesis of secondary metabolites
+PA14_66550	0:Biosynthesis of secondary metabolites
+PA14_66560	0:Biosynthesis of secondary metabolites
+PA14_66570	0:Biosynthesis of secondary metabolites
+PA14_66600	0:Biosynthesis of secondary metabolites
+PA14_66610	0:Biosynthesis of secondary metabolites
+PA14_66900	0:Biosynthesis of secondary metabolites
+PA14_66940	0:Biosynthesis of secondary metabolites
+PA14_66950	0:Biosynthesis of secondary metabolites
+PA14_67490	0:Biosynthesis of secondary metabolites
+PA14_67770	0:Biosynthesis of secondary metabolites
+PA14_67880	0:Biosynthesis of secondary metabolites
+PA14_67890	0:Biosynthesis of secondary metabolites
+PA14_67920	0:Biosynthesis of secondary metabolites
+PA14_67930	0:Biosynthesis of secondary metabolites
+PA14_68330	0:Biosynthesis of secondary metabolites
+PA14_68340	0:Biosynthesis of secondary metabolites
+PA14_68390	0:Biosynthesis of secondary metabolites
+PA14_68480	0:Biosynthesis of secondary metabolites
+PA14_68580	0:Biosynthesis of secondary metabolites
+PA14_68740	0:Biosynthesis of secondary metabolites
+PA14_68770	0:Biosynthesis of secondary metabolites
+PA14_68850	0:Biosynthesis of secondary metabolites
+PA14_68860	0:Biosynthesis of secondary metabolites
+PA14_68870	0:Biosynthesis of secondary metabolites
+PA14_68955	0:Biosynthesis of secondary metabolites
+PA14_68980	0:Biosynthesis of secondary metabolites
+PA14_69150	0:Biosynthesis of secondary metabolites
+PA14_69240	0:Biosynthesis of secondary metabolites
+PA14_69430	0:Biosynthesis of secondary metabolites
+PA14_69440	0:Biosynthesis of secondary metabolites
+PA14_69450	0:Biosynthesis of secondary metabolites
+PA14_69500	0:Biosynthesis of secondary metabolites
+PA14_69670	0:Biosynthesis of secondary metabolites
+PA14_69690	0:Biosynthesis of secondary metabolites
+PA14_69720	0:Biosynthesis of secondary metabolites
+PA14_69940	0:Biosynthesis of secondary metabolites
+PA14_70270	0:Biosynthesis of secondary metabolites
+PA14_70280	0:Biosynthesis of secondary metabolites
+PA14_70670	0:Biosynthesis of secondary metabolites
+PA14_70680	0:Biosynthesis of secondary metabolites
+PA14_70690	0:Biosynthesis of secondary metabolites
+PA14_70720	0:Biosynthesis of secondary metabolites
+PA14_70730	0:Biosynthesis of secondary metabolites
+PA14_71060	0:Biosynthesis of secondary metabolites
+PA14_71180	0:Biosynthesis of secondary metabolites
+PA14_71440	0:Biosynthesis of secondary metabolites
+PA14_71460	0:Biosynthesis of secondary metabolites
+PA14_71570	0:Biosynthesis of secondary metabolites
+PA14_71600	0:Biosynthesis of secondary metabolites
+PA14_71620	0:Biosynthesis of secondary metabolites
+PA14_71630	0:Biosynthesis of secondary metabolites
+PA14_71800	0:Biosynthesis of secondary metabolites
+PA14_71890	0:Biosynthesis of secondary metabolites
+PA14_71970	0:Biosynthesis of secondary metabolites
+PA14_72510	0:Biosynthesis of secondary metabolites
+PA14_72870	0:Biosynthesis of secondary metabolites
+PA14_09210	0:Biosynthesis of siderophore group nonribosomal peptides
+PA14_09220	0:Biosynthesis of siderophore group nonribosomal peptides
+PA14_09240	0:Biosynthesis of siderophore group nonribosomal peptides
+PA14_09270	0:Biosynthesis of siderophore group nonribosomal peptides
+PA14_09280	0:Biosynthesis of siderophore group nonribosomal peptides
+PA14_09290	0:Biosynthesis of siderophore group nonribosomal peptides
+PA14_49340	0:Biosynthesis of siderophore group nonribosomal peptides
+PA14_54940	0:Biosynthesis of siderophore group nonribosomal peptides
+PA14_02300	0:Biosynthesis of unsaturated fatty acids
+PA14_11020	0:Biosynthesis of unsaturated fatty acids
+PA14_12870	0:Biosynthesis of unsaturated fatty acids
+PA14_25080	0:Biosynthesis of unsaturated fatty acids
+PA14_25660	0:Biosynthesis of unsaturated fatty acids
+PA14_27160	0:Biosynthesis of unsaturated fatty acids
+PA14_40900	0:Biosynthesis of unsaturated fatty acids
+PA14_42080	0:Biosynthesis of unsaturated fatty acids
+PA14_45430	0:Biosynthesis of unsaturated fatty acids
+PA14_57050	0:Biosynthesis of unsaturated fatty acids
+PA14_63270	0:Biosynthesis of unsaturated fatty acids
+PA14_70930	0:Biosynthesis of unsaturated fatty acids
+PA14_72880	0:Biosynthesis of unsaturated fatty acids
+PA14_01190	0:Biotin metabolism
+PA14_02300	0:Biotin metabolism
+PA14_05460	0:Biotin metabolism
+PA14_06500	0:Biotin metabolism
+PA14_06510	0:Biotin metabolism
+PA14_06530	0:Biotin metabolism
+PA14_06540	0:Biotin metabolism
+PA14_06570	0:Biotin metabolism
+PA14_08620	0:Biotin metabolism
+PA14_11020	0:Biotin metabolism
+PA14_17190	0:Biotin metabolism
+PA14_25660	0:Biotin metabolism
+PA14_25690	0:Biotin metabolism
+PA14_40900	0:Biotin metabolism
+PA14_41170	0:Biotin metabolism
+PA14_43690	0:Biotin metabolism
+PA14_45430	0:Biotin metabolism
+PA14_46490	0:Biotin metabolism
+PA14_57050	0:Biotin metabolism
+PA14_63270	0:Biotin metabolism
+PA14_72880	0:Biotin metabolism
+PA14_02760	0:Butanoate metabolism
+PA14_02770	0:Butanoate metabolism
+PA14_03430	0:Butanoate metabolism
+PA14_03450	0:Butanoate metabolism
+PA14_09820	0:Butanoate metabolism
+PA14_10230	0:Butanoate metabolism
+PA14_10280	0:Butanoate metabolism
+PA14_10900	0:Butanoate metabolism
+PA14_13090	0:Butanoate metabolism
+PA14_17860	0:Butanoate metabolism
+PA14_17880	0:Butanoate metabolism
+PA14_19740	0:Butanoate metabolism
+PA14_25080	0:Butanoate metabolism
+PA14_25900	0:Butanoate metabolism
+PA14_31530	0:Butanoate metabolism
+PA14_38200	0:Butanoate metabolism
+PA14_38490	0:Butanoate metabolism
+PA14_38590	0:Butanoate metabolism
+PA14_38630	0:Butanoate metabolism
+PA14_38640	0:Butanoate metabolism
+PA14_38660	0:Butanoate metabolism
+PA14_38690	0:Butanoate metabolism
+PA14_40980	0:Butanoate metabolism
+PA14_41950	0:Butanoate metabolism
+PA14_42080	0:Butanoate metabolism
+PA14_42090	0:Butanoate metabolism
+PA14_43460	0:Butanoate metabolism
+PA14_44020	0:Butanoate metabolism
+PA14_44030	0:Butanoate metabolism
+PA14_44050	0:Butanoate metabolism
+PA14_44060	0:Butanoate metabolism
+PA14_46120	0:Butanoate metabolism
+PA14_49580	0:Butanoate metabolism
+PA14_62150	0:Butanoate metabolism
+PA14_62160	0:Butanoate metabolism
+PA14_63250	0:Butanoate metabolism
+PA14_66350	0:Butanoate metabolism
+PA14_66820	0:Butanoate metabolism
+PA14_66840	0:Butanoate metabolism
+PA14_71890	0:Butanoate metabolism
+PA14_09820	0:C5-Branched dibasic acid metabolism
+PA14_23750	0:C5-Branched dibasic acid metabolism
+PA14_23760	0:C5-Branched dibasic acid metabolism
+PA14_23790	0:C5-Branched dibasic acid metabolism
+PA14_38200	0:C5-Branched dibasic acid metabolism
+PA14_43940	0:C5-Branched dibasic acid metabolism
+PA14_43950	0:C5-Branched dibasic acid metabolism
+PA14_46120	0:C5-Branched dibasic acid metabolism
+PA14_52850	0:C5-Branched dibasic acid metabolism
+PA14_52870	0:C5-Branched dibasic acid metabolism
+PA14_52910	0:C5-Branched dibasic acid metabolism
+PA14_62150	0:C5-Branched dibasic acid metabolism
+PA14_62160	0:C5-Branched dibasic acid metabolism
+PA14_19740	0:Caprolactam degradation
+PA14_25080	0:Caprolactam degradation
+PA14_30810	0:Caprolactam degradation
+PA14_40980	0:Caprolactam degradation
+PA14_41950	0:Caprolactam degradation
+PA14_42080	0:Caprolactam degradation
+PA14_43420	0:Caprolactam degradation
+PA14_44700	0:Caprolactam degradation
+PA14_12010	0:Carbapenem biosynthesis
+PA14_60420	0:Carbapenem biosynthesis
+PA14_01600	0:Carbon metabolism
+PA14_04110	0:Carbon metabolism
+PA14_04310	0:Carbon metabolism
+PA14_04320	0:Carbon metabolism
+PA14_05590	0:Carbon metabolism
+PA14_06290	0:Carbon metabolism
+PA14_06450	0:Carbon metabolism
+PA14_07130	0:Carbon metabolism
+PA14_07190	0:Carbon metabolism
+PA14_07230	0:Carbon metabolism
+PA14_07910	0:Carbon metabolism
+PA14_09150	0:Carbon metabolism
+PA14_10240	0:Carbon metabolism
+PA14_10250	0:Carbon metabolism
+PA14_10260	0:Carbon metabolism
+PA14_13090	0:Carbon metabolism
+PA14_14700	0:Carbon metabolism
+PA14_16690	0:Carbon metabolism
+PA14_17270	0:Carbon metabolism
+PA14_17320	0:Carbon metabolism
+PA14_17400	0:Carbon metabolism
+PA14_17410	0:Carbon metabolism
+PA14_17880	0:Carbon metabolism
+PA14_18120	0:Carbon metabolism
+PA14_19190	0:Carbon metabolism
+PA14_19470	0:Carbon metabolism
+PA14_19900	0:Carbon metabolism
+PA14_19910	0:Carbon metabolism
+PA14_19920	0:Carbon metabolism
+PA14_22890	0:Carbon metabolism
+PA14_22910	0:Carbon metabolism
+PA14_22930	0:Carbon metabolism
+PA14_23070	0:Carbon metabolism
+PA14_23080	0:Carbon metabolism
+PA14_23090	0:Carbon metabolism
+PA14_23270	0:Carbon metabolism
+PA14_23620	0:Carbon metabolism
+PA14_23860	0:Carbon metabolism
+PA14_25080	0:Carbon metabolism
+PA14_25250	0:Carbon metabolism
+PA14_25900	0:Carbon metabolism
+PA14_27960	0:Carbon metabolism
+PA14_29110	0:Carbon metabolism
+PA14_29410	0:Carbon metabolism
+PA14_30050	0:Carbon metabolism
+PA14_30180	0:Carbon metabolism
+PA14_30190	0:Carbon metabolism
+PA14_31500	0:Carbon metabolism
+PA14_31530	0:Carbon metabolism
+PA14_31580	0:Carbon metabolism
+PA14_33000	0:Carbon metabolism
+PA14_33010	0:Carbon metabolism
+PA14_33030	0:Carbon metabolism
+PA14_33040	0:Carbon metabolism
+PA14_34600	0:Carbon metabolism
+PA14_34640	0:Carbon metabolism
+PA14_35490	0:Carbon metabolism
+PA14_35970	0:Carbon metabolism
+PA14_36810	0:Carbon metabolism
+PA14_38630	0:Carbon metabolism
+PA14_41350	0:Carbon metabolism
+PA14_41470	0:Carbon metabolism
+PA14_41670	0:Carbon metabolism
+PA14_42080	0:Carbon metabolism
+PA14_42090	0:Carbon metabolism
+PA14_43940	0:Carbon metabolism
+PA14_43950	0:Carbon metabolism
+PA14_43970	0:Carbon metabolism
+PA14_44000	0:Carbon metabolism
+PA14_44010	0:Carbon metabolism
+PA14_44020	0:Carbon metabolism
+PA14_44030	0:Carbon metabolism
+PA14_44050	0:Carbon metabolism
+PA14_44060	0:Carbon metabolism
+PA14_44070	0:Carbon metabolism
+PA14_44290	0:Carbon metabolism
+PA14_44590	0:Carbon metabolism
+PA14_45030	0:Carbon metabolism
+PA14_45050	0:Carbon metabolism
+PA14_47100	0:Carbon metabolism
+PA14_49080	0:Carbon metabolism
+PA14_50660	0:Carbon metabolism
+PA14_51120	0:Carbon metabolism
+PA14_52210	0:Carbon metabolism
+PA14_52800	0:Carbon metabolism
+PA14_52900	0:Carbon metabolism
+PA14_53220	0:Carbon metabolism
+PA14_53260	0:Carbon metabolism
+PA14_53470	0:Carbon metabolism
+PA14_53480	0:Carbon metabolism
+PA14_54620	0:Carbon metabolism
+PA14_54880	0:Carbon metabolism
+PA14_56240	0:Carbon metabolism
+PA14_56300	0:Carbon metabolism
+PA14_58030	0:Carbon metabolism
+PA14_60890	0:Carbon metabolism
+PA14_61040	0:Carbon metabolism
+PA14_61210	0:Carbon metabolism
+PA14_61400	0:Carbon metabolism
+PA14_61770	0:Carbon metabolism
+PA14_62620	0:Carbon metabolism
+PA14_62630	0:Carbon metabolism
+PA14_62830	0:Carbon metabolism
+PA14_63250	0:Carbon metabolism
+PA14_63570	0:Carbon metabolism
+PA14_63580	0:Carbon metabolism
+PA14_63605	0:Carbon metabolism
+PA14_63850	0:Carbon metabolism
+PA14_64100	0:Carbon metabolism
+PA14_64110	0:Carbon metabolism
+PA14_65560	0:Carbon metabolism
+PA14_66040	0:Carbon metabolism
+PA14_66290	0:Carbon metabolism
+PA14_66310	0:Carbon metabolism
+PA14_66350	0:Carbon metabolism
+PA14_66680	0:Carbon metabolism
+PA14_67490	0:Carbon metabolism
+PA14_67770	0:Carbon metabolism
+PA14_68350	0:Carbon metabolism
+PA14_68580	0:Carbon metabolism
+PA14_68850	0:Carbon metabolism
+PA14_68870	0:Carbon metabolism
+PA14_71060	0:Carbon metabolism
+PA14_71460	0:Carbon metabolism
+PA14_71560	0:Carbon metabolism
+PA14_71720	0:Carbon metabolism
+PA14_71740	0:Carbon metabolism
+PA14_71800	0:Carbon metabolism
+PA14_71890	0:Carbon metabolism
+PA14_05530	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_05540	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_10330	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_16250	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_17210	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_18310	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_18320	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_18330	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_18340	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_18350	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_18360	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_18370	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_21210	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_22450	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_39020	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_41260	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_41270	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_48060	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_49170	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_49180	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_52350	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_54390	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_56880	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_56890	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_65370	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_65750	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_72450	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_73040	0:Cationic antimicrobial peptide (CAMP) resistance
+PA14_17400	0:Chloroalkane and chloroalkene degradation
+PA14_37530	0:Chloroalkane and chloroalkene degradation
+PA14_38860	0:Chloroalkane and chloroalkene degradation
+PA14_51050	0:Chloroalkane and chloroalkene degradation
+PA14_53790	0:Chloroalkane and chloroalkene degradation
+PA14_64740	0:Chloroalkane and chloroalkene degradation
+PA14_71560	0:Chloroalkane and chloroalkene degradation
+PA14_71630	0:Chloroalkane and chloroalkene degradation
+PA14_29420	0:Chlorocyclohexane and chlorobenzene degradation
+PA14_32220	0:Chlorocyclohexane and chlorobenzene degradation
+PA14_32240	0:Chlorocyclohexane and chlorobenzene degradation
+PA14_37530	0:Chlorocyclohexane and chlorobenzene degradation
+PA14_53790	0:Chlorocyclohexane and chlorobenzene degradation
+PA14_10240	0:Citrate cycle (TCA cycle)
+PA14_10250	0:Citrate cycle (TCA cycle)
+PA14_10260	0:Citrate cycle (TCA cycle)
+PA14_19470	0:Citrate cycle (TCA cycle)
+PA14_19900	0:Citrate cycle (TCA cycle)
+PA14_19910	0:Citrate cycle (TCA cycle)
+PA14_19920	0:Citrate cycle (TCA cycle)
+PA14_30180	0:Citrate cycle (TCA cycle)
+PA14_30190	0:Citrate cycle (TCA cycle)
+PA14_35490	0:Citrate cycle (TCA cycle)
+PA14_41470	0:Citrate cycle (TCA cycle)
+PA14_43940	0:Citrate cycle (TCA cycle)
+PA14_43950	0:Citrate cycle (TCA cycle)
+PA14_43970	0:Citrate cycle (TCA cycle)
+PA14_44000	0:Citrate cycle (TCA cycle)
+PA14_44010	0:Citrate cycle (TCA cycle)
+PA14_44020	0:Citrate cycle (TCA cycle)
+PA14_44030	0:Citrate cycle (TCA cycle)
+PA14_44050	0:Citrate cycle (TCA cycle)
+PA14_44060	0:Citrate cycle (TCA cycle)
+PA14_44070	0:Citrate cycle (TCA cycle)
+PA14_44290	0:Citrate cycle (TCA cycle)
+PA14_53220	0:Citrate cycle (TCA cycle)
+PA14_56300	0:Citrate cycle (TCA cycle)
+PA14_58030	0:Citrate cycle (TCA cycle)
+PA14_61400	0:Citrate cycle (TCA cycle)
+PA14_63850	0:Citrate cycle (TCA cycle)
+PA14_66290	0:Citrate cycle (TCA cycle)
+PA14_66310	0:Citrate cycle (TCA cycle)
+PA14_68580	0:Citrate cycle (TCA cycle)
+PA14_71720	0:Citrate cycle (TCA cycle)
+PA14_71740	0:Citrate cycle (TCA cycle)
+PA14_71890	0:Citrate cycle (TCA cycle)
+PA14_02050	0:Cyanoamino acid metabolism
+PA14_04730	0:Cyanoamino acid metabolism
+PA14_33010	0:Cyanoamino acid metabolism
+PA14_35440	0:Cyanoamino acid metabolism
+PA14_36310	0:Cyanoamino acid metabolism
+PA14_36320	0:Cyanoamino acid metabolism
+PA14_36330	0:Cyanoamino acid metabolism
+PA14_42230	0:Cyanoamino acid metabolism
+PA14_46960	0:Cyanoamino acid metabolism
+PA14_60890	0:Cyanoamino acid metabolism
+PA14_71460	0:Cyanoamino acid metabolism
+PA14_05080	0:Cysteine and methionine metabolism
+PA14_05220	0:Cysteine and methionine metabolism
+PA14_05230	0:Cysteine and methionine metabolism
+PA14_05310	0:Cysteine and methionine metabolism
+PA14_05620	0:Cysteine and methionine metabolism
+PA14_07090	0:Cysteine and methionine metabolism
+PA14_08390	0:Cysteine and methionine metabolism
+PA14_14700	0:Cysteine and methionine metabolism
+PA14_16070	0:Cysteine and methionine metabolism
+PA14_19130	0:Cysteine and methionine metabolism
+PA14_23240	0:Cysteine and methionine metabolism
+PA14_23250	0:Cysteine and methionine metabolism
+PA14_23500	0:Cysteine and methionine metabolism
+PA14_23800	0:Cysteine and methionine metabolism
+PA14_23930	0:Cysteine and methionine metabolism
+PA14_24190	0:Cysteine and methionine metabolism
+PA14_25210	0:Cysteine and methionine metabolism
+PA14_27570	0:Cysteine and methionine metabolism
+PA14_29110	0:Cysteine and methionine metabolism
+PA14_33030	0:Cysteine and methionine metabolism
+PA14_39590	0:Cysteine and methionine metabolism
+PA14_40670	0:Cysteine and methionine metabolism
+PA14_42690	0:Cysteine and methionine metabolism
+PA14_42720	0:Cysteine and methionine metabolism
+PA14_42730	0:Cysteine and methionine metabolism
+PA14_42740	0:Cysteine and methionine metabolism
+PA14_45940	0:Cysteine and methionine metabolism
+PA14_47500	0:Cysteine and methionine metabolism
+PA14_50660	0:Cysteine and methionine metabolism
+PA14_52210	0:Cysteine and methionine metabolism
+PA14_52580	0:Cysteine and methionine metabolism
+PA14_53010	0:Cysteine and methionine metabolism
+PA14_54880	0:Cysteine and methionine metabolism
+PA14_63110	0:Cysteine and methionine metabolism
+PA14_63120	0:Cysteine and methionine metabolism
+PA14_65480	0:Cysteine and methionine metabolism
+PA14_66260	0:Cysteine and methionine metabolism
+PA14_66440	0:Cysteine and methionine metabolism
+PA14_68730	0:Cysteine and methionine metabolism
+PA14_71060	0:Cysteine and methionine metabolism
+PA14_09600	0:D-Alanine metabolism
+PA14_57320	0:D-Alanine metabolism
+PA14_65110	0:D-Alanine metabolism
+PA14_69990	0:D-Alanine metabolism
+PA14_14010	0:D-Arginine and D-ornithine metabolism
+PA14_14020	0:D-Arginine and D-ornithine metabolism
+PA14_43320	0:D-Glutamine and D-glutamate metabolism
+PA14_46970	0:D-Glutamine and D-glutamate metabolism
+PA14_57330	0:D-Glutamine and D-glutamate metabolism
+PA14_57370	0:D-Glutamine and D-glutamate metabolism
+PA14_61660	0:D-Glutamine and D-glutamate metabolism
+PA14_01900	0:Degradation of aromatic compounds
+PA14_01910	0:Degradation of aromatic compounds
+PA14_02830	0:Degradation of aromatic compounds
+PA14_02840	0:Degradation of aromatic compounds
+PA14_02850	0:Degradation of aromatic compounds
+PA14_03050	0:Degradation of aromatic compounds
+PA14_06270	0:Degradation of aromatic compounds
+PA14_10610	0:Degradation of aromatic compounds
+PA14_10620	0:Degradation of aromatic compounds
+PA14_10630	0:Degradation of aromatic compounds
+PA14_10640	0:Degradation of aromatic compounds
+PA14_10650	0:Degradation of aromatic compounds
+PA14_10990	0:Degradation of aromatic compounds
+PA14_11000	0:Degradation of aromatic compounds
+PA14_17400	0:Degradation of aromatic compounds
+PA14_32080	0:Degradation of aromatic compounds
+PA14_32100	0:Degradation of aromatic compounds
+PA14_32110	0:Degradation of aromatic compounds
+PA14_32130	0:Degradation of aromatic compounds
+PA14_32220	0:Degradation of aromatic compounds
+PA14_32230	0:Degradation of aromatic compounds
+PA14_32240	0:Degradation of aromatic compounds
+PA14_37570	0:Degradation of aromatic compounds
+PA14_39100	0:Degradation of aromatic compounds
+PA14_58220	0:Degradation of aromatic compounds
+PA14_71630	0:Degradation of aromatic compounds
+PA14_00020	0:DNA replication
+PA14_07530	0:DNA replication
+PA14_09200	0:DNA replication
+PA14_12200	0:DNA replication
+PA14_14460	0:DNA replication
+PA14_17230	0:DNA replication
+PA14_17260	0:DNA replication
+PA14_22380	0:DNA replication
+PA14_25760	0:DNA replication
+PA14_41050	0:DNA replication
+PA14_41060	0:DNA replication
+PA14_44630	0:DNA replication
+PA14_44660	0:DNA replication
+PA14_58990	0:DNA replication
+PA14_59150	0:DNA replication
+PA14_65130	0:DNA replication
+PA14_72490	0:DNA replication
+PA14_21110	0:Ether lipid metabolism
+PA14_24940	0:Ether lipid metabolism
+PA14_53360	0:Ether lipid metabolism
+PA14_01190	0:Fatty acid biosynthesis
+PA14_02300	0:Fatty acid biosynthesis
+PA14_06450	0:Fatty acid biosynthesis
+PA14_11020	0:Fatty acid biosynthesis
+PA14_17190	0:Fatty acid biosynthesis
+PA14_17270	0:Fatty acid biosynthesis
+PA14_20950	0:Fatty acid biosynthesis
+PA14_21340	0:Fatty acid biosynthesis
+PA14_21370	0:Fatty acid biosynthesis
+PA14_23860	0:Fatty acid biosynthesis
+PA14_25650	0:Fatty acid biosynthesis
+PA14_25660	0:Fatty acid biosynthesis
+PA14_25690	0:Fatty acid biosynthesis
+PA14_25900	0:Fatty acid biosynthesis
+PA14_40900	0:Fatty acid biosynthesis
+PA14_41170	0:Fatty acid biosynthesis
+PA14_43680	0:Fatty acid biosynthesis
+PA14_43690	0:Fatty acid biosynthesis
+PA14_45430	0:Fatty acid biosynthesis
+PA14_46490	0:Fatty acid biosynthesis
+PA14_57050	0:Fatty acid biosynthesis
+PA14_63270	0:Fatty acid biosynthesis
+PA14_64100	0:Fatty acid biosynthesis
+PA14_64110	0:Fatty acid biosynthesis
+PA14_68360	0:Fatty acid biosynthesis
+PA14_72880	0:Fatty acid biosynthesis
+PA14_05840	0:Fatty acid degradation
+PA14_13090	0:Fatty acid degradation
+PA14_17400	0:Fatty acid degradation
+PA14_17880	0:Fatty acid degradation
+PA14_19430	0:Fatty acid degradation
+PA14_19740	0:Fatty acid degradation
+PA14_21340	0:Fatty acid degradation
+PA14_21370	0:Fatty acid degradation
+PA14_25080	0:Fatty acid degradation
+PA14_25090	0:Fatty acid degradation
+PA14_26010	0:Fatty acid degradation
+PA14_27730	0:Fatty acid degradation
+PA14_30810	0:Fatty acid degradation
+PA14_31530	0:Fatty acid degradation
+PA14_31580	0:Fatty acid degradation
+PA14_35970	0:Fatty acid degradation
+PA14_38630	0:Fatty acid degradation
+PA14_40980	0:Fatty acid degradation
+PA14_41950	0:Fatty acid degradation
+PA14_42080	0:Fatty acid degradation
+PA14_42090	0:Fatty acid degradation
+PA14_44590	0:Fatty acid degradation
+PA14_44700	0:Fatty acid degradation
+PA14_49080	0:Fatty acid degradation
+PA14_51050	0:Fatty acid degradation
+PA14_51120	0:Fatty acid degradation
+PA14_52900	0:Fatty acid degradation
+PA14_63250	0:Fatty acid degradation
+PA14_64740	0:Fatty acid degradation
+PA14_66040	0:Fatty acid degradation
+PA14_66350	0:Fatty acid degradation
+PA14_70620	0:Fatty acid degradation
+PA14_71630	0:Fatty acid degradation
+PA14_01190	0:Fatty acid metabolism
+PA14_02300	0:Fatty acid metabolism
+PA14_06450	0:Fatty acid metabolism
+PA14_11020	0:Fatty acid metabolism
+PA14_13090	0:Fatty acid metabolism
+PA14_17190	0:Fatty acid metabolism
+PA14_17270	0:Fatty acid metabolism
+PA14_17880	0:Fatty acid metabolism
+PA14_19430	0:Fatty acid metabolism
+PA14_19740	0:Fatty acid metabolism
+PA14_20950	0:Fatty acid metabolism
+PA14_21340	0:Fatty acid metabolism
+PA14_21370	0:Fatty acid metabolism
+PA14_23860	0:Fatty acid metabolism
+PA14_25080	0:Fatty acid metabolism
+PA14_25090	0:Fatty acid metabolism
+PA14_25650	0:Fatty acid metabolism
+PA14_25660	0:Fatty acid metabolism
+PA14_25690	0:Fatty acid metabolism
+PA14_25900	0:Fatty acid metabolism
+PA14_26010	0:Fatty acid metabolism
+PA14_27730	0:Fatty acid metabolism
+PA14_31530	0:Fatty acid metabolism
+PA14_31580	0:Fatty acid metabolism
+PA14_35970	0:Fatty acid metabolism
+PA14_38630	0:Fatty acid metabolism
+PA14_40900	0:Fatty acid metabolism
+PA14_40980	0:Fatty acid metabolism
+PA14_41170	0:Fatty acid metabolism
+PA14_41950	0:Fatty acid metabolism
+PA14_42080	0:Fatty acid metabolism
+PA14_42090	0:Fatty acid metabolism
+PA14_43680	0:Fatty acid metabolism
+PA14_43690	0:Fatty acid metabolism
+PA14_44590	0:Fatty acid metabolism
+PA14_45430	0:Fatty acid metabolism
+PA14_46490	0:Fatty acid metabolism
+PA14_49080	0:Fatty acid metabolism
+PA14_51120	0:Fatty acid metabolism
+PA14_52900	0:Fatty acid metabolism
+PA14_57050	0:Fatty acid metabolism
+PA14_63250	0:Fatty acid metabolism
+PA14_63270	0:Fatty acid metabolism
+PA14_64100	0:Fatty acid metabolism
+PA14_64110	0:Fatty acid metabolism
+PA14_66040	0:Fatty acid metabolism
+PA14_66350	0:Fatty acid metabolism
+PA14_68360	0:Fatty acid metabolism
+PA14_72880	0:Fatty acid metabolism
+PA14_20720	0:Flagellar assembly
+PA14_20730	0:Flagellar assembly
+PA14_20740	0:Flagellar assembly
+PA14_45540	0:Flagellar assembly
+PA14_45560	0:Flagellar assembly
+PA14_45680	0:Flagellar assembly
+PA14_45720	0:Flagellar assembly
+PA14_45740	0:Flagellar assembly
+PA14_45760	0:Flagellar assembly
+PA14_45770	0:Flagellar assembly
+PA14_45780	0:Flagellar assembly
+PA14_45790	0:Flagellar assembly
+PA14_45800	0:Flagellar assembly
+PA14_45830	0:Flagellar assembly
+PA14_50080	0:Flagellar assembly
+PA14_50100	0:Flagellar assembly
+PA14_50110	0:Flagellar assembly
+PA14_50130	0:Flagellar assembly
+PA14_50140	0:Flagellar assembly
+PA14_50160	0:Flagellar assembly
+PA14_50250	0:Flagellar assembly
+PA14_50270	0:Flagellar assembly
+PA14_50290	0:Flagellar assembly
+PA14_50340	0:Flagellar assembly
+PA14_50360	0:Flagellar assembly
+PA14_50410	0:Flagellar assembly
+PA14_50420	0:Flagellar assembly
+PA14_50430	0:Flagellar assembly
+PA14_50440	0:Flagellar assembly
+PA14_50450	0:Flagellar assembly
+PA14_50460	0:Flagellar assembly
+PA14_50470	0:Flagellar assembly
+PA14_50480	0:Flagellar assembly
+PA14_65430	0:Flagellar assembly
+PA14_65450	0:Flagellar assembly
+PA14_29420	0:Fluorobenzoate degradation
+PA14_32080	0:Fluorobenzoate degradation
+PA14_32100	0:Fluorobenzoate degradation
+PA14_32110	0:Fluorobenzoate degradation
+PA14_32130	0:Fluorobenzoate degradation
+PA14_32220	0:Fluorobenzoate degradation
+PA14_32240	0:Fluorobenzoate degradation
+PA14_37570	0:Fluorobenzoate degradation
+PA14_04580	0:Folate biosynthesis
+PA14_07590	0:Folate biosynthesis
+PA14_07600	0:Folate biosynthesis
+PA14_13230	0:Folate biosynthesis
+PA14_13240	0:Folate biosynthesis
+PA14_13250	0:Folate biosynthesis
+PA14_13280	0:Folate biosynthesis
+PA14_13330	0:Folate biosynthesis
+PA14_13850	0:Folate biosynthesis
+PA14_19630	0:Folate biosynthesis
+PA14_19640	0:Folate biosynthesis
+PA14_21410	0:Folate biosynthesis
+PA14_23880	0:Folate biosynthesis
+PA14_24910	0:Folate biosynthesis
+PA14_25710	0:Folate biosynthesis
+PA14_27850	0:Folate biosynthesis
+PA14_29600	0:Folate biosynthesis
+PA14_41820	0:Folate biosynthesis
+PA14_42850	0:Folate biosynthesis
+PA14_44970	0:Folate biosynthesis
+PA14_51670	0:Folate biosynthesis
+PA14_51680	0:Folate biosynthesis
+PA14_62570	0:Folate biosynthesis
+PA14_62850	0:Folate biosynthesis
+PA14_73050	0:Folate biosynthesis
+PA14_07230	0:Fructose and mannose metabolism
+PA14_18250	0:Fructose and mannose metabolism
+PA14_18260	0:Fructose and mannose metabolism
+PA14_18275	0:Fructose and mannose metabolism
+PA14_18380	0:Fructose and mannose metabolism
+PA14_18470	0:Fructose and mannose metabolism
+PA14_18500	0:Fructose and mannose metabolism
+PA14_18550	0:Fructose and mannose metabolism
+PA14_18565	0:Fructose and mannose metabolism
+PA14_18580	0:Fructose and mannose metabolism
+PA14_34340	0:Fructose and mannose metabolism
+PA14_34360	0:Fructose and mannose metabolism
+PA14_62830	0:Fructose and mannose metabolism
+PA14_67490	0:Fructose and mannose metabolism
+PA14_70270	0:Fructose and mannose metabolism
+PA14_71970	0:Fructose and mannose metabolism
+PA14_71990	0:Fructose and mannose metabolism
+PA14_72000	0:Fructose and mannose metabolism
+PA14_11260	0:Galactose metabolism
+PA14_22930	0:Galactose metabolism
+PA14_38350	0:Galactose metabolism
+PA14_70270	0:Galactose metabolism
+PA14_19430	0:Geraniol degradation
+PA14_19740	0:Geraniol degradation
+PA14_25080	0:Geraniol degradation
+PA14_25090	0:Geraniol degradation
+PA14_26010	0:Geraniol degradation
+PA14_26640	0:Geraniol degradation
+PA14_26650	0:Geraniol degradation
+PA14_26670	0:Geraniol degradation
+PA14_26690	0:Geraniol degradation
+PA14_26700	0:Geraniol degradation
+PA14_26720	0:Geraniol degradation
+PA14_26730	0:Geraniol degradation
+PA14_38490	0:Geraniol degradation
+PA14_40980	0:Geraniol degradation
+PA14_41950	0:Geraniol degradation
+PA14_42080	0:Geraniol degradation
+PA14_02050	0:Glutathione metabolism
+PA14_04730	0:Glutathione metabolism
+PA14_05310	0:Glutathione metabolism
+PA14_14170	0:Glutathione metabolism
+PA14_14470	0:Glutathione metabolism
+PA14_22530	0:Glutathione metabolism
+PA14_23070	0:Glutathione metabolism
+PA14_24270	0:Glutathione metabolism
+PA14_24830	0:Glutathione metabolism
+PA14_27520	0:Glutathione metabolism
+PA14_27755	0:Glutathione metabolism
+PA14_30180	0:Glutathione metabolism
+PA14_30190	0:Glutathione metabolism
+PA14_35320	0:Glutathione metabolism
+PA14_38330	0:Glutathione metabolism
+PA14_40070	0:Glutathione metabolism
+PA14_42690	0:Glutathione metabolism
+PA14_43110	0:Glutathione metabolism
+PA14_45470	0:Glutathione metabolism
+PA14_46960	0:Glutathione metabolism
+PA14_47550	0:Glutathione metabolism
+PA14_53420	0:Glutathione metabolism
+PA14_57200	0:Glutathione metabolism
+PA14_58630	0:Glutathione metabolism
+PA14_63120	0:Glutathione metabolism
+PA14_68730	0:Glutathione metabolism
+PA14_71800	0:Glutathione metabolism
+PA14_00060	0:Glycerolipid metabolism
+PA14_07580	0:Glycerolipid metabolism
+PA14_16860	0:Glycerolipid metabolism
+PA14_17675	0:Glycerolipid metabolism
+PA14_17960	0:Glycerolipid metabolism
+PA14_18010	0:Glycerolipid metabolism
+PA14_25640	0:Glycerolipid metabolism
+PA14_27100	0:Glycerolipid metabolism
+PA14_45030	0:Glycerolipid metabolism
+PA14_45190	0:Glycerolipid metabolism
+PA14_50760	0:Glycerolipid metabolism
+PA14_51050	0:Glycerolipid metabolism
+PA14_56570	0:Glycerolipid metabolism
+PA14_64740	0:Glycerolipid metabolism
+PA14_00060	0:Glycerophospholipid metabolism
+PA14_04550	0:Glycerophospholipid metabolism
+PA14_07580	0:Glycerophospholipid metabolism
+PA14_11470	0:Glycerophospholipid metabolism
+PA14_11760	0:Glycerophospholipid metabolism
+PA14_11770	0:Glycerophospholipid metabolism
+PA14_14110	0:Glycerophospholipid metabolism
+PA14_16860	0:Glycerophospholipid metabolism
+PA14_17120	0:Glycerophospholipid metabolism
+PA14_17675	0:Glycerophospholipid metabolism
+PA14_17930	0:Glycerophospholipid metabolism
+PA14_21110	0:Glycerophospholipid metabolism
+PA14_24950	0:Glycerophospholipid metabolism
+PA14_25400	0:Glycerophospholipid metabolism
+PA14_25640	0:Glycerophospholipid metabolism
+PA14_30670	0:Glycerophospholipid metabolism
+PA14_31700	0:Glycerophospholipid metabolism
+PA14_31760	0:Glycerophospholipid metabolism
+PA14_34250	0:Glycerophospholipid metabolism
+PA14_36690	0:Glycerophospholipid metabolism
+PA14_43640	0:Glycerophospholipid metabolism
+PA14_53360	0:Glycerophospholipid metabolism
+PA14_56570	0:Glycerophospholipid metabolism
+PA14_62120	0:Glycerophospholipid metabolism
+PA14_63330	0:Glycerophospholipid metabolism
+PA14_65500	0:Glycerophospholipid metabolism
+PA14_70110	0:Glycerophospholipid metabolism
+PA14_71220	0:Glycerophospholipid metabolism
+PA14_00440	0:Glycine, serine and threonine metabolism
+PA14_00450	0:Glycine, serine and threonine metabolism
+PA14_04110	0:Glycine, serine and threonine metabolism
+PA14_04320	0:Glycine, serine and threonine metabolism
+PA14_05220	0:Glycine, serine and threonine metabolism
+PA14_05230	0:Glycine, serine and threonine metabolism
+PA14_05480	0:Glycine, serine and threonine metabolism
+PA14_16070	0:Glycine, serine and threonine metabolism
+PA14_16090	0:Glycine, serine and threonine metabolism
+PA14_16390	0:Glycine, serine and threonine metabolism
+PA14_20650	0:Glycine, serine and threonine metabolism
+PA14_22510	0:Glycine, serine and threonine metabolism
+PA14_23270	0:Glycine, serine and threonine metabolism
+PA14_23800	0:Glycine, serine and threonine metabolism
+PA14_29410	0:Glycine, serine and threonine metabolism
+PA14_32985	0:Glycine, serine and threonine metabolism
+PA14_33000	0:Glycine, serine and threonine metabolism
+PA14_33010	0:Glycine, serine and threonine metabolism
+PA14_33030	0:Glycine, serine and threonine metabolism
+PA14_33040	0:Glycine, serine and threonine metabolism
+PA14_33500	0:Glycine, serine and threonine metabolism
+PA14_35490	0:Glycine, serine and threonine metabolism
+PA14_35890	0:Glycine, serine and threonine metabolism
+PA14_41830	0:Glycine, serine and threonine metabolism
+PA14_43970	0:Glycine, serine and threonine metabolism
+PA14_45030	0:Glycine, serine and threonine metabolism
+PA14_47100	0:Glycine, serine and threonine metabolism
+PA14_50760	0:Glycine, serine and threonine metabolism
+PA14_52580	0:Glycine, serine and threonine metabolism
+PA14_52610	0:Glycine, serine and threonine metabolism
+PA14_53260	0:Glycine, serine and threonine metabolism
+PA14_60890	0:Glycine, serine and threonine metabolism
+PA14_61210	0:Glycine, serine and threonine metabolism
+PA14_62120	0:Glycine, serine and threonine metabolism
+PA14_63850	0:Glycine, serine and threonine metabolism
+PA14_65560	0:Glycine, serine and threonine metabolism
+PA14_67770	0:Glycine, serine and threonine metabolism
+PA14_68850	0:Glycine, serine and threonine metabolism
+PA14_68860	0:Glycine, serine and threonine metabolism
+PA14_68870	0:Glycine, serine and threonine metabolism
+PA14_70940	0:Glycine, serine and threonine metabolism
+PA14_70950	0:Glycine, serine and threonine metabolism
+PA14_71060	0:Glycine, serine and threonine metabolism
+PA14_71440	0:Glycine, serine and threonine metabolism
+PA14_71460	0:Glycine, serine and threonine metabolism
+PA14_71470	0:Glycine, serine and threonine metabolism
+PA14_71490	0:Glycine, serine and threonine metabolism
+PA14_71500	0:Glycine, serine and threonine metabolism
+PA14_71510	0:Glycine, serine and threonine metabolism
+PA14_72510	0:Glycine, serine and threonine metabolism
+PA14_07190	0:Glycolysis / Gluconeogenesis
+PA14_07230	0:Glycolysis / Gluconeogenesis
+PA14_10240	0:Glycolysis / Gluconeogenesis
+PA14_10250	0:Glycolysis / Gluconeogenesis
+PA14_10260	0:Glycolysis / Gluconeogenesis
+PA14_11810	0:Glycolysis / Gluconeogenesis
+PA14_17320	0:Glycolysis / Gluconeogenesis
+PA14_17400	0:Glycolysis / Gluconeogenesis
+PA14_19900	0:Glycolysis / Gluconeogenesis
+PA14_19910	0:Glycolysis / Gluconeogenesis
+PA14_19920	0:Glycolysis / Gluconeogenesis
+PA14_22890	0:Glycolysis / Gluconeogenesis
+PA14_22930	0:Glycolysis / Gluconeogenesis
+PA14_25250	0:Glycolysis / Gluconeogenesis
+PA14_31500	0:Glycolysis / Gluconeogenesis
+PA14_34600	0:Glycolysis / Gluconeogenesis
+PA14_35490	0:Glycolysis / Gluconeogenesis
+PA14_38840	0:Glycolysis / Gluconeogenesis
+PA14_38860	0:Glycolysis / Gluconeogenesis
+PA14_43970	0:Glycolysis / Gluconeogenesis
+PA14_45050	0:Glycolysis / Gluconeogenesis
+PA14_51050	0:Glycolysis / Gluconeogenesis
+PA14_52800	0:Glycolysis / Gluconeogenesis
+PA14_56240	0:Glycolysis / Gluconeogenesis
+PA14_62620	0:Glycolysis / Gluconeogenesis
+PA14_62630	0:Glycolysis / Gluconeogenesis
+PA14_62830	0:Glycolysis / Gluconeogenesis
+PA14_63850	0:Glycolysis / Gluconeogenesis
+PA14_64740	0:Glycolysis / Gluconeogenesis
+PA14_66290	0:Glycolysis / Gluconeogenesis
+PA14_66310	0:Glycolysis / Gluconeogenesis
+PA14_67490	0:Glycolysis / Gluconeogenesis
+PA14_67770	0:Glycolysis / Gluconeogenesis
+PA14_68580	0:Glycolysis / Gluconeogenesis
+PA14_70270	0:Glycolysis / Gluconeogenesis
+PA14_71570	0:Glycolysis / Gluconeogenesis
+PA14_71630	0:Glycolysis / Gluconeogenesis
+PA14_00770	0:Glyoxylate and dicarboxylate metabolism
+PA14_03860	0:Glyoxylate and dicarboxylate metabolism
+PA14_03880	0:Glyoxylate and dicarboxylate metabolism
+PA14_06290	0:Glyoxylate and dicarboxylate metabolism
+PA14_07150	0:Glyoxylate and dicarboxylate metabolism
+PA14_07930	0:Glyoxylate and dicarboxylate metabolism
+PA14_09150	0:Glyoxylate and dicarboxylate metabolism
+PA14_13090	0:Glyoxylate and dicarboxylate metabolism
+PA14_17880	0:Glyoxylate and dicarboxylate metabolism
+PA14_20670	0:Glyoxylate and dicarboxylate metabolism
+PA14_22510	0:Glyoxylate and dicarboxylate metabolism
+PA14_23090	0:Glyoxylate and dicarboxylate metabolism
+PA14_23210	0:Glyoxylate and dicarboxylate metabolism
+PA14_23620	0:Glyoxylate and dicarboxylate metabolism
+PA14_25590	0:Glyoxylate and dicarboxylate metabolism
+PA14_30050	0:Glyoxylate and dicarboxylate metabolism
+PA14_31530	0:Glyoxylate and dicarboxylate metabolism
+PA14_32985	0:Glyoxylate and dicarboxylate metabolism
+PA14_33000	0:Glyoxylate and dicarboxylate metabolism
+PA14_33010	0:Glyoxylate and dicarboxylate metabolism
+PA14_33040	0:Glyoxylate and dicarboxylate metabolism
+PA14_35490	0:Glyoxylate and dicarboxylate metabolism
+PA14_36810	0:Glyoxylate and dicarboxylate metabolism
+PA14_37590	0:Glyoxylate and dicarboxylate metabolism
+PA14_38140	0:Glyoxylate and dicarboxylate metabolism
+PA14_38630	0:Glyoxylate and dicarboxylate metabolism
+PA14_41470	0:Glyoxylate and dicarboxylate metabolism
+PA14_42090	0:Glyoxylate and dicarboxylate metabolism
+PA14_43970	0:Glyoxylate and dicarboxylate metabolism
+PA14_44070	0:Glyoxylate and dicarboxylate metabolism
+PA14_44240	0:Glyoxylate and dicarboxylate metabolism
+PA14_44290	0:Glyoxylate and dicarboxylate metabolism
+PA14_45000	0:Glyoxylate and dicarboxylate metabolism
+PA14_45010	0:Glyoxylate and dicarboxylate metabolism
+PA14_45020	0:Glyoxylate and dicarboxylate metabolism
+PA14_45030	0:Glyoxylate and dicarboxylate metabolism
+PA14_50760	0:Glyoxylate and dicarboxylate metabolism
+PA14_56060	0:Glyoxylate and dicarboxylate metabolism
+PA14_60890	0:Glyoxylate and dicarboxylate metabolism
+PA14_61040	0:Glyoxylate and dicarboxylate metabolism
+PA14_61210	0:Glyoxylate and dicarboxylate metabolism
+PA14_63250	0:Glyoxylate and dicarboxylate metabolism
+PA14_63570	0:Glyoxylate and dicarboxylate metabolism
+PA14_63580	0:Glyoxylate and dicarboxylate metabolism
+PA14_63605	0:Glyoxylate and dicarboxylate metabolism
+PA14_63850	0:Glyoxylate and dicarboxylate metabolism
+PA14_67600	0:Glyoxylate and dicarboxylate metabolism
+PA14_68850	0:Glyoxylate and dicarboxylate metabolism
+PA14_68860	0:Glyoxylate and dicarboxylate metabolism
+PA14_68870	0:Glyoxylate and dicarboxylate metabolism
+PA14_70670	0:Glyoxylate and dicarboxylate metabolism
+PA14_70680	0:Glyoxylate and dicarboxylate metabolism
+PA14_70690	0:Glyoxylate and dicarboxylate metabolism
+PA14_71460	0:Glyoxylate and dicarboxylate metabolism
+PA14_71530	0:Glyoxylate and dicarboxylate metabolism
+PA14_72690	0:Glyoxylate and dicarboxylate metabolism
+PA14_72850	0:Glyoxylate and dicarboxylate metabolism
+PA14_03330	0:Histidine metabolism
+PA14_05480	0:Histidine metabolism
+PA14_23170	0:Histidine metabolism
+PA14_23290	0:Histidine metabolism
+PA14_31820	0:Histidine metabolism
+PA14_51050	0:Histidine metabolism
+PA14_57770	0:Histidine metabolism
+PA14_57780	0:Histidine metabolism
+PA14_57800	0:Histidine metabolism
+PA14_64740	0:Histidine metabolism
+PA14_65250	0:Histidine metabolism
+PA14_66940	0:Histidine metabolism
+PA14_66950	0:Histidine metabolism
+PA14_67240	0:Histidine metabolism
+PA14_67250	0:Histidine metabolism
+PA14_67260	0:Histidine metabolism
+PA14_67320	0:Histidine metabolism
+PA14_67350	0:Histidine metabolism
+PA14_67440	0:Histidine metabolism
+PA14_67880	0:Histidine metabolism
+PA14_67890	0:Histidine metabolism
+PA14_67920	0:Histidine metabolism
+PA14_67930	0:Histidine metabolism
+PA14_00020	0:Homologous recombination
+PA14_00030	0:Homologous recombination
+PA14_09200	0:Homologous recombination
+PA14_12200	0:Homologous recombination
+PA14_14460	0:Homologous recombination
+PA14_16220	0:Homologous recombination
+PA14_17260	0:Homologous recombination
+PA14_17530	0:Homologous recombination
+PA14_22380	0:Homologous recombination
+PA14_25760	0:Homologous recombination
+PA14_41050	0:Homologous recombination
+PA14_44610	0:Homologous recombination
+PA14_44630	0:Homologous recombination
+PA14_51780	0:Homologous recombination
+PA14_51790	0:Homologous recombination
+PA14_51800	0:Homologous recombination
+PA14_54300	0:Homologous recombination
+PA14_55660	0:Homologous recombination
+PA14_55670	0:Homologous recombination
+PA14_55690	0:Homologous recombination
+PA14_59150	0:Homologous recombination
+PA14_66720	0:Homologous recombination
+PA14_70570	0:Homologous recombination
+PA14_72490	0:Homologous recombination
+PA14_01600	0:Inositol phosphate metabolism
+PA14_14680	0:Inositol phosphate metabolism
+PA14_18120	0:Inositol phosphate metabolism
+PA14_21110	0:Inositol phosphate metabolism
+PA14_53360	0:Inositol phosphate metabolism
+PA14_54620	0:Inositol phosphate metabolism
+PA14_62830	0:Inositol phosphate metabolism
+PA14_19740	0:Limonene and pinene degradation
+PA14_25080	0:Limonene and pinene degradation
+PA14_40980	0:Limonene and pinene degradation
+PA14_41950	0:Limonene and pinene degradation
+PA14_42080	0:Limonene and pinene degradation
+PA14_51050	0:Limonene and pinene degradation
+PA14_64740	0:Limonene and pinene degradation
+PA14_12120	0:Lipoic acid metabolism
+PA14_12130	0:Lipoic acid metabolism
+PA14_00070	0:Lipopolysaccharide biosynthesis
+PA14_00120	0:Lipopolysaccharide biosynthesis
+PA14_17180	0:Lipopolysaccharide biosynthesis
+PA14_17210	0:Lipopolysaccharide biosynthesis
+PA14_17220	0:Lipopolysaccharide biosynthesis
+PA14_17310	0:Lipopolysaccharide biosynthesis
+PA14_20890	0:Lipopolysaccharide biosynthesis
+PA14_22050	0:Lipopolysaccharide biosynthesis
+PA14_25510	0:Lipopolysaccharide biosynthesis
+PA14_25530	0:Lipopolysaccharide biosynthesis
+PA14_41400	0:Lipopolysaccharide biosynthesis
+PA14_57260	0:Lipopolysaccharide biosynthesis
+PA14_57500	0:Lipopolysaccharide biosynthesis
+PA14_57890	0:Lipopolysaccharide biosynthesis
+PA14_57900	0:Lipopolysaccharide biosynthesis
+PA14_58610	0:Lipopolysaccharide biosynthesis
+PA14_65960	0:Lipopolysaccharide biosynthesis
+PA14_66060	0:Lipopolysaccharide biosynthesis
+PA14_66220	0:Lipopolysaccharide biosynthesis
+PA14_66230	0:Lipopolysaccharide biosynthesis
+PA14_66240	0:Lipopolysaccharide biosynthesis
+PA14_66250	0:Lipopolysaccharide biosynthesis
+PA14_02730	0:Lysine biosynthesis
+PA14_06920	0:Lysine biosynthesis
+PA14_09730	0:Lysine biosynthesis
+PA14_16070	0:Lysine biosynthesis
+PA14_16950	0:Lysine biosynthesis
+PA14_17030	0:Lysine biosynthesis
+PA14_23800	0:Lysine biosynthesis
+PA14_49380	0:Lysine biosynthesis
+PA14_51270	0:Lysine biosynthesis
+PA14_52580	0:Lysine biosynthesis
+PA14_57390	0:Lysine biosynthesis
+PA14_57410	0:Lysine biosynthesis
+PA14_62940	0:Lysine biosynthesis
+PA14_69670	0:Lysine biosynthesis
+PA14_69690	0:Lysine biosynthesis
+PA14_03430	0:Lysine degradation
+PA14_03450	0:Lysine degradation
+PA14_05840	0:Lysine degradation
+PA14_13090	0:Lysine degradation
+PA14_17880	0:Lysine degradation
+PA14_19740	0:Lysine degradation
+PA14_25080	0:Lysine degradation
+PA14_31530	0:Lysine degradation
+PA14_38630	0:Lysine degradation
+PA14_40980	0:Lysine degradation
+PA14_41950	0:Lysine degradation
+PA14_42080	0:Lysine degradation
+PA14_42090	0:Lysine degradation
+PA14_44000	0:Lysine degradation
+PA14_44010	0:Lysine degradation
+PA14_48020	0:Lysine degradation
+PA14_51050	0:Lysine degradation
+PA14_63250	0:Lysine degradation
+PA14_64740	0:Lysine degradation
+PA14_00020	0:Metabolic pathways
+PA14_00060	0:Metabolic pathways
+PA14_00070	0:Metabolic pathways
+PA14_00120	0:Metabolic pathways
+PA14_00280	0:Metabolic pathways
+PA14_00290	0:Metabolic pathways
+PA14_00440	0:Metabolic pathways
+PA14_00450	0:Metabolic pathways
+PA14_00640	0:Metabolic pathways
+PA14_00770	0:Metabolic pathways
+PA14_01190	0:Metabolic pathways
+PA14_01290	0:Metabolic pathways
+PA14_01300	0:Metabolic pathways
+PA14_01310	0:Metabolic pathways
+PA14_01320	0:Metabolic pathways
+PA14_01360	0:Metabolic pathways
+PA14_01380	0:Metabolic pathways
+PA14_01600	0:Metabolic pathways
+PA14_01620	0:Metabolic pathways
+PA14_01660	0:Metabolic pathways
+PA14_01760	0:Metabolic pathways
+PA14_01830	0:Metabolic pathways
+PA14_01900	0:Metabolic pathways
+PA14_01910	0:Metabolic pathways
+PA14_02050	0:Metabolic pathways
+PA14_02300	0:Metabolic pathways
+PA14_02450	0:Metabolic pathways
+PA14_02460	0:Metabolic pathways
+PA14_02470	0:Metabolic pathways
+PA14_02680	0:Metabolic pathways
+PA14_02730	0:Metabolic pathways
+PA14_02830	0:Metabolic pathways
+PA14_02840	0:Metabolic pathways
+PA14_02850	0:Metabolic pathways
+PA14_03000	0:Metabolic pathways
+PA14_03020	0:Metabolic pathways
+PA14_03030	0:Metabolic pathways
+PA14_03050	0:Metabolic pathways
+PA14_03130	0:Metabolic pathways
+PA14_03330	0:Metabolic pathways
+PA14_03430	0:Metabolic pathways
+PA14_03450	0:Metabolic pathways
+PA14_03810	0:Metabolic pathways
+PA14_03830	0:Metabolic pathways
+PA14_03860	0:Metabolic pathways
+PA14_03880	0:Metabolic pathways
+PA14_03900	0:Metabolic pathways
+PA14_04110	0:Metabolic pathways
+PA14_04310	0:Metabolic pathways
+PA14_04320	0:Metabolic pathways
+PA14_04480	0:Metabolic pathways
+PA14_04580	0:Metabolic pathways
+PA14_04630	0:Metabolic pathways
+PA14_04730	0:Metabolic pathways
+PA14_04760	0:Metabolic pathways
+PA14_04980	0:Metabolic pathways
+PA14_05080	0:Metabolic pathways
+PA14_05150	0:Metabolic pathways
+PA14_05220	0:Metabolic pathways
+PA14_05230	0:Metabolic pathways
+PA14_05250	0:Metabolic pathways
+PA14_05260	0:Metabolic pathways
+PA14_05270	0:Metabolic pathways
+PA14_05310	0:Metabolic pathways
+PA14_05460	0:Metabolic pathways
+PA14_05480	0:Metabolic pathways
+PA14_05590	0:Metabolic pathways
+PA14_05620	0:Metabolic pathways
+PA14_05690	0:Metabolic pathways
+PA14_05740	0:Metabolic pathways
+PA14_05750	0:Metabolic pathways
+PA14_05770	0:Metabolic pathways
+PA14_05810	0:Metabolic pathways
+PA14_05840	0:Metabolic pathways
+PA14_06270	0:Metabolic pathways
+PA14_06290	0:Metabolic pathways
+PA14_06450	0:Metabolic pathways
+PA14_06500	0:Metabolic pathways
+PA14_06510	0:Metabolic pathways
+PA14_06530	0:Metabolic pathways
+PA14_06540	0:Metabolic pathways
+PA14_06570	0:Metabolic pathways
+PA14_06660	0:Metabolic pathways
+PA14_06740	0:Metabolic pathways
+PA14_06920	0:Metabolic pathways
+PA14_07090	0:Metabolic pathways
+PA14_07130	0:Metabolic pathways
+PA14_07150	0:Metabolic pathways
+PA14_07170	0:Metabolic pathways
+PA14_07190	0:Metabolic pathways
+PA14_07230	0:Metabolic pathways
+PA14_07580	0:Metabolic pathways
+PA14_07590	0:Metabolic pathways
+PA14_07600	0:Metabolic pathways
+PA14_07740	0:Metabolic pathways
+PA14_07780	0:Metabolic pathways
+PA14_07790	0:Metabolic pathways
+PA14_07910	0:Metabolic pathways
+PA14_07930	0:Metabolic pathways
+PA14_07940	0:Metabolic pathways
+PA14_08340	0:Metabolic pathways
+PA14_08350	0:Metabolic pathways
+PA14_08360	0:Metabolic pathways
+PA14_08390	0:Metabolic pathways
+PA14_08400	0:Metabolic pathways
+PA14_08480	0:Metabolic pathways
+PA14_08620	0:Metabolic pathways
+PA14_08630	0:Metabolic pathways
+PA14_08760	0:Metabolic pathways
+PA14_08780	0:Metabolic pathways
+PA14_09115	0:Metabolic pathways
+PA14_09210	0:Metabolic pathways
+PA14_09460	0:Metabolic pathways
+PA14_09600	0:Metabolic pathways
+PA14_09710	0:Metabolic pathways
+PA14_09730	0:Metabolic pathways
+PA14_09820	0:Metabolic pathways
+PA14_10240	0:Metabolic pathways
+PA14_10250	0:Metabolic pathways
+PA14_10260	0:Metabolic pathways
+PA14_10500	0:Metabolic pathways
+PA14_10550	0:Metabolic pathways
+PA14_10740	0:Metabolic pathways
+PA14_11020	0:Metabolic pathways
+PA14_11030	0:Metabolic pathways
+PA14_11190	0:Metabolic pathways
+PA14_11250	0:Metabolic pathways
+PA14_11260	0:Metabolic pathways
+PA14_11400	0:Metabolic pathways
+PA14_11410	0:Metabolic pathways
+PA14_11420	0:Metabolic pathways
+PA14_11430	0:Metabolic pathways
+PA14_11460	0:Metabolic pathways
+PA14_11470	0:Metabolic pathways
+PA14_11510	0:Metabolic pathways
+PA14_11550	0:Metabolic pathways
+PA14_11560	0:Metabolic pathways
+PA14_11760	0:Metabolic pathways
+PA14_11770	0:Metabolic pathways
+PA14_11810	0:Metabolic pathways
+PA14_11860	0:Metabolic pathways
+PA14_12010	0:Metabolic pathways
+PA14_12020	0:Metabolic pathways
+PA14_12100	0:Metabolic pathways
+PA14_12120	0:Metabolic pathways
+PA14_12130	0:Metabolic pathways
+PA14_12200	0:Metabolic pathways
+PA14_12390	0:Metabolic pathways
+PA14_12400	0:Metabolic pathways
+PA14_12410	0:Metabolic pathways
+PA14_13030	0:Metabolic pathways
+PA14_13040	0:Metabolic pathways
+PA14_13090	0:Metabolic pathways
+PA14_13230	0:Metabolic pathways
+PA14_13240	0:Metabolic pathways
+PA14_13250	0:Metabolic pathways
+PA14_13280	0:Metabolic pathways
+PA14_13330	0:Metabolic pathways
+PA14_13500	0:Metabolic pathways
+PA14_13850	0:Metabolic pathways
+PA14_14010	0:Metabolic pathways
+PA14_14020	0:Metabolic pathways
+PA14_14460	0:Metabolic pathways
+PA14_14470	0:Metabolic pathways
+PA14_14680	0:Metabolic pathways
+PA14_14700	0:Metabolic pathways
+PA14_14730	0:Metabolic pathways
+PA14_14820	0:Metabolic pathways
+PA14_14880	0:Metabolic pathways
+PA14_15030	0:Metabolic pathways
+PA14_15310	0:Metabolic pathways
+PA14_15340	0:Metabolic pathways
+PA14_15740	0:Metabolic pathways
+PA14_15810	0:Metabolic pathways
+PA14_15890	0:Metabolic pathways
+PA14_16070	0:Metabolic pathways
+PA14_16090	0:Metabolic pathways
+PA14_16360	0:Metabolic pathways
+PA14_16390	0:Metabolic pathways
+PA14_16690	0:Metabolic pathways
+PA14_16700	0:Metabolic pathways
+PA14_16740	0:Metabolic pathways
+PA14_16860	0:Metabolic pathways
+PA14_16950	0:Metabolic pathways
+PA14_17030	0:Metabolic pathways
+PA14_17080	0:Metabolic pathways
+PA14_17120	0:Metabolic pathways
+PA14_17130	0:Metabolic pathways
+PA14_17180	0:Metabolic pathways
+PA14_17190	0:Metabolic pathways
+PA14_17210	0:Metabolic pathways
+PA14_17220	0:Metabolic pathways
+PA14_17260	0:Metabolic pathways
+PA14_17270	0:Metabolic pathways
+PA14_17290	0:Metabolic pathways
+PA14_17310	0:Metabolic pathways
+PA14_17320	0:Metabolic pathways
+PA14_17340	0:Metabolic pathways
+PA14_17400	0:Metabolic pathways
+PA14_17420	0:Metabolic pathways
+PA14_17450	0:Metabolic pathways
+PA14_17675	0:Metabolic pathways
+PA14_17860	0:Metabolic pathways
+PA14_17880	0:Metabolic pathways
+PA14_17960	0:Metabolic pathways
+PA14_18010	0:Metabolic pathways
+PA14_18120	0:Metabolic pathways
+PA14_18140	0:Metabolic pathways
+PA14_18150	0:Metabolic pathways
+PA14_18250	0:Metabolic pathways
+PA14_18275	0:Metabolic pathways
+PA14_18300	0:Metabolic pathways
+PA14_18380	0:Metabolic pathways
+PA14_18610	0:Metabolic pathways
+PA14_18710	0:Metabolic pathways
+PA14_18740	0:Metabolic pathways
+PA14_18830	0:Metabolic pathways
+PA14_18850	0:Metabolic pathways
+PA14_19090	0:Metabolic pathways
+PA14_19130	0:Metabolic pathways
+PA14_19140	0:Metabolic pathways
+PA14_19370	0:Metabolic pathways
+PA14_19430	0:Metabolic pathways
+PA14_19470	0:Metabolic pathways
+PA14_19530	0:Metabolic pathways
+PA14_19630	0:Metabolic pathways
+PA14_19640	0:Metabolic pathways
+PA14_19740	0:Metabolic pathways
+PA14_19870	0:Metabolic pathways
+PA14_19900	0:Metabolic pathways
+PA14_19910	0:Metabolic pathways
+PA14_19920	0:Metabolic pathways
+PA14_20670	0:Metabolic pathways
+PA14_20890	0:Metabolic pathways
+PA14_20950	0:Metabolic pathways
+PA14_21110	0:Metabolic pathways
+PA14_21180	0:Metabolic pathways
+PA14_21340	0:Metabolic pathways
+PA14_21370	0:Metabolic pathways
+PA14_21410	0:Metabolic pathways
+PA14_22050	0:Metabolic pathways
+PA14_22380	0:Metabolic pathways
+PA14_22510	0:Metabolic pathways
+PA14_22890	0:Metabolic pathways
+PA14_22910	0:Metabolic pathways
+PA14_22930	0:Metabolic pathways
+PA14_23070	0:Metabolic pathways
+PA14_23080	0:Metabolic pathways
+PA14_23090	0:Metabolic pathways
+PA14_23170	0:Metabolic pathways
+PA14_23210	0:Metabolic pathways
+PA14_23220	0:Metabolic pathways
+PA14_23240	0:Metabolic pathways
+PA14_23250	0:Metabolic pathways
+PA14_23270	0:Metabolic pathways
+PA14_23280	0:Metabolic pathways
+PA14_23290	0:Metabolic pathways
+PA14_23320	0:Metabolic pathways
+PA14_23370	0:Metabolic pathways
+PA14_23500	0:Metabolic pathways
+PA14_23560	0:Metabolic pathways
+PA14_23620	0:Metabolic pathways
+PA14_23750	0:Metabolic pathways
+PA14_23760	0:Metabolic pathways
+PA14_23790	0:Metabolic pathways
+PA14_23800	0:Metabolic pathways
+PA14_23850	0:Metabolic pathways
+PA14_23860	0:Metabolic pathways
+PA14_23880	0:Metabolic pathways
+PA14_23920	0:Metabolic pathways
+PA14_23930	0:Metabolic pathways
+PA14_24220	0:Metabolic pathways
+PA14_24270	0:Metabolic pathways
+PA14_24445	0:Metabolic pathways
+PA14_24640	0:Metabolic pathways
+PA14_24910	0:Metabolic pathways
+PA14_24940	0:Metabolic pathways
+PA14_25080	0:Metabolic pathways
+PA14_25090	0:Metabolic pathways
+PA14_25195	0:Metabolic pathways
+PA14_25210	0:Metabolic pathways
+PA14_25250	0:Metabolic pathways
+PA14_25390	0:Metabolic pathways
+PA14_25510	0:Metabolic pathways
+PA14_25530	0:Metabolic pathways
+PA14_25550	0:Metabolic pathways
+PA14_25590	0:Metabolic pathways
+PA14_25640	0:Metabolic pathways
+PA14_25650	0:Metabolic pathways
+PA14_25660	0:Metabolic pathways
+PA14_25690	0:Metabolic pathways
+PA14_25740	0:Metabolic pathways
+PA14_25760	0:Metabolic pathways
+PA14_25900	0:Metabolic pathways
+PA14_25920	0:Metabolic pathways
+PA14_25930	0:Metabolic pathways
+PA14_25970	0:Metabolic pathways
+PA14_25980	0:Metabolic pathways
+PA14_25990	0:Metabolic pathways
+PA14_26010	0:Metabolic pathways
+PA14_26460	0:Metabolic pathways
+PA14_26470	0:Metabolic pathways
+PA14_26480	0:Metabolic pathways
+PA14_26485	0:Metabolic pathways
+PA14_26500	0:Metabolic pathways
+PA14_26510	0:Metabolic pathways
+PA14_26530	0:Metabolic pathways
+PA14_26890	0:Metabolic pathways
+PA14_27100	0:Metabolic pathways
+PA14_27330	0:Metabolic pathways
+PA14_27500	0:Metabolic pathways
+PA14_27730	0:Metabolic pathways
+PA14_27850	0:Metabolic pathways
+PA14_27960	0:Metabolic pathways
+PA14_28180	0:Metabolic pathways
+PA14_29110	0:Metabolic pathways
+PA14_29410	0:Metabolic pathways
+PA14_29420	0:Metabolic pathways
+PA14_29600	0:Metabolic pathways
+PA14_29850	0:Metabolic pathways
+PA14_29860	0:Metabolic pathways
+PA14_29880	0:Metabolic pathways
+PA14_29890	0:Metabolic pathways
+PA14_29900	0:Metabolic pathways
+PA14_29920	0:Metabolic pathways
+PA14_29930	0:Metabolic pathways
+PA14_29940	0:Metabolic pathways
+PA14_29970	0:Metabolic pathways
+PA14_29980	0:Metabolic pathways
+PA14_29990	0:Metabolic pathways
+PA14_30010	0:Metabolic pathways
+PA14_30020	0:Metabolic pathways
+PA14_30050	0:Metabolic pathways
+PA14_30110	0:Metabolic pathways
+PA14_30180	0:Metabolic pathways
+PA14_30190	0:Metabolic pathways
+PA14_30340	0:Metabolic pathways
+PA14_30670	0:Metabolic pathways
+PA14_30750	0:Metabolic pathways
+PA14_31500	0:Metabolic pathways
+PA14_31530	0:Metabolic pathways
+PA14_31580	0:Metabolic pathways
+PA14_31700	0:Metabolic pathways
+PA14_31760	0:Metabolic pathways
+PA14_31820	0:Metabolic pathways
+PA14_32080	0:Metabolic pathways
+PA14_32100	0:Metabolic pathways
+PA14_32110	0:Metabolic pathways
+PA14_32130	0:Metabolic pathways
+PA14_32220	0:Metabolic pathways
+PA14_32230	0:Metabolic pathways
+PA14_32240	0:Metabolic pathways
+PA14_32650	0:Metabolic pathways
+PA14_32670	0:Metabolic pathways
+PA14_32690	0:Metabolic pathways
+PA14_32985	0:Metabolic pathways
+PA14_33000	0:Metabolic pathways
+PA14_33010	0:Metabolic pathways
+PA14_33030	0:Metabolic pathways
+PA14_33040	0:Metabolic pathways
+PA14_33450	0:Metabolic pathways
+PA14_33500	0:Metabolic pathways
+PA14_33860	0:Metabolic pathways
+PA14_34180	0:Metabolic pathways
+PA14_34340	0:Metabolic pathways
+PA14_34350	0:Metabolic pathways
+PA14_34600	0:Metabolic pathways
+PA14_34640	0:Metabolic pathways
+PA14_34680	0:Metabolic pathways
+PA14_34970	0:Metabolic pathways
+PA14_35290	0:Metabolic pathways
+PA14_35300	0:Metabolic pathways
+PA14_35320	0:Metabolic pathways
+PA14_35340	0:Metabolic pathways
+PA14_35440	0:Metabolic pathways
+PA14_35490	0:Metabolic pathways
+PA14_35500	0:Metabolic pathways
+PA14_35520	0:Metabolic pathways
+PA14_35530	0:Metabolic pathways
+PA14_35880	0:Metabolic pathways
+PA14_35890	0:Metabolic pathways
+PA14_35970	0:Metabolic pathways
+PA14_36100	0:Metabolic pathways
+PA14_36570	0:Metabolic pathways
+PA14_36580	0:Metabolic pathways
+PA14_36590	0:Metabolic pathways
+PA14_36605	0:Metabolic pathways
+PA14_36630	0:Metabolic pathways
+PA14_36690	0:Metabolic pathways
+PA14_36710	0:Metabolic pathways
+PA14_36730	0:Metabolic pathways
+PA14_36740	0:Metabolic pathways
+PA14_36840	0:Metabolic pathways
+PA14_37530	0:Metabolic pathways
+PA14_37560	0:Metabolic pathways
+PA14_37570	0:Metabolic pathways
+PA14_37590	0:Metabolic pathways
+PA14_37610	0:Metabolic pathways
+PA14_37830	0:Metabolic pathways
+PA14_38140	0:Metabolic pathways
+PA14_38200	0:Metabolic pathways
+PA14_38350	0:Metabolic pathways
+PA14_38360	0:Metabolic pathways
+PA14_38440	0:Metabolic pathways
+PA14_38460	0:Metabolic pathways
+PA14_38470	0:Metabolic pathways
+PA14_38480	0:Metabolic pathways
+PA14_38490	0:Metabolic pathways
+PA14_38510	0:Metabolic pathways
+PA14_38530	0:Metabolic pathways
+PA14_38550	0:Metabolic pathways
+PA14_38590	0:Metabolic pathways
+PA14_38630	0:Metabolic pathways
+PA14_38840	0:Metabolic pathways
+PA14_38860	0:Metabolic pathways
+PA14_39520	0:Metabolic pathways
+PA14_39530	0:Metabolic pathways
+PA14_39540	0:Metabolic pathways
+PA14_39590	0:Metabolic pathways
+PA14_39640	0:Metabolic pathways
+PA14_39690	0:Metabolic pathways
+PA14_39945	0:Metabolic pathways
+PA14_40160	0:Metabolic pathways
+PA14_40510	0:Metabolic pathways
+PA14_40670	0:Metabolic pathways
+PA14_40770	0:Metabolic pathways
+PA14_40900	0:Metabolic pathways
+PA14_40950	0:Metabolic pathways
+PA14_40980	0:Metabolic pathways
+PA14_41020	0:Metabolic pathways
+PA14_41050	0:Metabolic pathways
+PA14_41170	0:Metabolic pathways
+PA14_41350	0:Metabolic pathways
+PA14_41380	0:Metabolic pathways
+PA14_41400	0:Metabolic pathways
+PA14_41470	0:Metabolic pathways
+PA14_41563	0:Metabolic pathways
+PA14_41670	0:Metabolic pathways
+PA14_41830	0:Metabolic pathways
+PA14_41840	0:Metabolic pathways
+PA14_41900	0:Metabolic pathways
+PA14_41920	0:Metabolic pathways
+PA14_41950	0:Metabolic pathways
+PA14_42080	0:Metabolic pathways
+PA14_42090	0:Metabolic pathways
+PA14_42230	0:Metabolic pathways
+PA14_42690	0:Metabolic pathways
+PA14_42720	0:Metabolic pathways
+PA14_42730	0:Metabolic pathways
+PA14_42740	0:Metabolic pathways
+PA14_42760	0:Metabolic pathways
+PA14_42850	0:Metabolic pathways
+PA14_43280	0:Metabolic pathways
+PA14_43320	0:Metabolic pathways
+PA14_43420	0:Metabolic pathways
+PA14_43460	0:Metabolic pathways
+PA14_43680	0:Metabolic pathways
+PA14_43690	0:Metabolic pathways
+PA14_43830	0:Metabolic pathways
+PA14_43940	0:Metabolic pathways
+PA14_43950	0:Metabolic pathways
+PA14_43970	0:Metabolic pathways
+PA14_44000	0:Metabolic pathways
+PA14_44010	0:Metabolic pathways
+PA14_44020	0:Metabolic pathways
+PA14_44030	0:Metabolic pathways
+PA14_44050	0:Metabolic pathways
+PA14_44060	0:Metabolic pathways
+PA14_44070	0:Metabolic pathways
+PA14_44240	0:Metabolic pathways
+PA14_44290	0:Metabolic pathways
+PA14_44340	0:Metabolic pathways
+PA14_44350	0:Metabolic pathways
+PA14_44360	0:Metabolic pathways
+PA14_44370	0:Metabolic pathways
+PA14_44380	0:Metabolic pathways
+PA14_44390	0:Metabolic pathways
+PA14_44400	0:Metabolic pathways
+PA14_44500	0:Metabolic pathways
+PA14_44590	0:Metabolic pathways
+PA14_44630	0:Metabolic pathways
+PA14_44710	0:Metabolic pathways
+PA14_44740	0:Metabolic pathways
+PA14_44770	0:Metabolic pathways
+PA14_44820	0:Metabolic pathways
+PA14_44850	0:Metabolic pathways
+PA14_44860	0:Metabolic pathways
+PA14_44970	0:Metabolic pathways
+PA14_45000	0:Metabolic pathways
+PA14_45010	0:Metabolic pathways
+PA14_45020	0:Metabolic pathways
+PA14_45030	0:Metabolic pathways
+PA14_45050	0:Metabolic pathways
+PA14_45190	0:Metabolic pathways
+PA14_45430	0:Metabolic pathways
+PA14_45940	0:Metabolic pathways
+PA14_46070	0:Metabolic pathways
+PA14_46120	0:Metabolic pathways
+PA14_46470	0:Metabolic pathways
+PA14_46490	0:Metabolic pathways
+PA14_46960	0:Metabolic pathways
+PA14_46970	0:Metabolic pathways
+PA14_47100	0:Metabolic pathways
+PA14_47150	0:Metabolic pathways
+PA14_47160	0:Metabolic pathways
+PA14_47180	0:Metabolic pathways
+PA14_47190	0:Metabolic pathways
+PA14_47210	0:Metabolic pathways
+PA14_47280	0:Metabolic pathways
+PA14_47300	0:Metabolic pathways
+PA14_47500	0:Metabolic pathways
+PA14_47650	0:Metabolic pathways
+PA14_47660	0:Metabolic pathways
+PA14_47670	0:Metabolic pathways
+PA14_47680	0:Metabolic pathways
+PA14_47690	0:Metabolic pathways
+PA14_47720	0:Metabolic pathways
+PA14_47730	0:Metabolic pathways
+PA14_47750	0:Metabolic pathways
+PA14_47760	0:Metabolic pathways
+PA14_47790	0:Metabolic pathways
+PA14_48020	0:Metabolic pathways
+PA14_48450	0:Metabolic pathways
+PA14_48470	0:Metabolic pathways
+PA14_48490	0:Metabolic pathways
+PA14_48570	0:Metabolic pathways
+PA14_49080	0:Metabolic pathways
+PA14_49300	0:Metabolic pathways
+PA14_49380	0:Metabolic pathways
+PA14_49460	0:Metabolic pathways
+PA14_49470	0:Metabolic pathways
+PA14_50660	0:Metabolic pathways
+PA14_50760	0:Metabolic pathways
+PA14_50800	0:Metabolic pathways
+PA14_51050	0:Metabolic pathways
+PA14_51120	0:Metabolic pathways
+PA14_51240	0:Metabolic pathways
+PA14_51270	0:Metabolic pathways
+PA14_51330	0:Metabolic pathways
+PA14_51350	0:Metabolic pathways
+PA14_51360	0:Metabolic pathways
+PA14_51670	0:Metabolic pathways
+PA14_51680	0:Metabolic pathways
+PA14_51770	0:Metabolic pathways
+PA14_52040	0:Metabolic pathways
+PA14_52050	0:Metabolic pathways
+PA14_52160	0:Metabolic pathways
+PA14_52210	0:Metabolic pathways
+PA14_52580	0:Metabolic pathways
+PA14_52610	0:Metabolic pathways
+PA14_52630	0:Metabolic pathways
+PA14_52660	0:Metabolic pathways
+PA14_52670	0:Metabolic pathways
+PA14_52690	0:Metabolic pathways
+PA14_52700	0:Metabolic pathways
+PA14_52720	0:Metabolic pathways
+PA14_52800	0:Metabolic pathways
+PA14_52850	0:Metabolic pathways
+PA14_52900	0:Metabolic pathways
+PA14_52990	0:Metabolic pathways
+PA14_53010	0:Metabolic pathways
+PA14_53070	0:Metabolic pathways
+PA14_53220	0:Metabolic pathways
+PA14_53260	0:Metabolic pathways
+PA14_53340	0:Metabolic pathways
+PA14_53360	0:Metabolic pathways
+PA14_53470	0:Metabolic pathways
+PA14_53480	0:Metabolic pathways
+PA14_53790	0:Metabolic pathways
+PA14_54170	0:Metabolic pathways
+PA14_54290	0:Metabolic pathways
+PA14_54450	0:Metabolic pathways
+PA14_54620	0:Metabolic pathways
+PA14_54880	0:Metabolic pathways
+PA14_56240	0:Metabolic pathways
+PA14_56300	0:Metabolic pathways
+PA14_56570	0:Metabolic pathways
+PA14_56900	0:Metabolic pathways
+PA14_57050	0:Metabolic pathways
+PA14_57160	0:Metabolic pathways
+PA14_57180	0:Metabolic pathways
+PA14_57210	0:Metabolic pathways
+PA14_57260	0:Metabolic pathways
+PA14_57320	0:Metabolic pathways
+PA14_57330	0:Metabolic pathways
+PA14_57340	0:Metabolic pathways
+PA14_57370	0:Metabolic pathways
+PA14_57380	0:Metabolic pathways
+PA14_57390	0:Metabolic pathways
+PA14_57500	0:Metabolic pathways
+PA14_57540	0:Metabolic pathways
+PA14_57560	0:Metabolic pathways
+PA14_57570	0:Metabolic pathways
+PA14_57710	0:Metabolic pathways
+PA14_57720	0:Metabolic pathways
+PA14_57770	0:Metabolic pathways
+PA14_57780	0:Metabolic pathways
+PA14_57800	0:Metabolic pathways
+PA14_57810	0:Metabolic pathways
+PA14_57890	0:Metabolic pathways
+PA14_57900	0:Metabolic pathways
+PA14_58030	0:Metabolic pathways
+PA14_58170	0:Metabolic pathways
+PA14_58180	0:Metabolic pathways
+PA14_58190	0:Metabolic pathways
+PA14_58220	0:Metabolic pathways
+PA14_58560	0:Metabolic pathways
+PA14_58630	0:Metabolic pathways
+PA14_58700	0:Metabolic pathways
+PA14_58780	0:Metabolic pathways
+PA14_60270	0:Metabolic pathways
+PA14_60330	0:Metabolic pathways
+PA14_60380	0:Metabolic pathways
+PA14_60420	0:Metabolic pathways
+PA14_60710	0:Metabolic pathways
+PA14_60890	0:Metabolic pathways
+PA14_61210	0:Metabolic pathways
+PA14_61400	0:Metabolic pathways
+PA14_61460	0:Metabolic pathways
+PA14_61470	0:Metabolic pathways
+PA14_61580	0:Metabolic pathways
+PA14_61660	0:Metabolic pathways
+PA14_61710	0:Metabolic pathways
+PA14_61750	0:Metabolic pathways
+PA14_61770	0:Metabolic pathways
+PA14_62120	0:Metabolic pathways
+PA14_62130	0:Metabolic pathways
+PA14_62150	0:Metabolic pathways
+PA14_62160	0:Metabolic pathways
+PA14_62570	0:Metabolic pathways
+PA14_62580	0:Metabolic pathways
+PA14_62590	0:Metabolic pathways
+PA14_62600	0:Metabolic pathways
+PA14_62620	0:Metabolic pathways
+PA14_62630	0:Metabolic pathways
+PA14_62830	0:Metabolic pathways
+PA14_62840	0:Metabolic pathways
+PA14_62850	0:Metabolic pathways
+PA14_62910	0:Metabolic pathways
+PA14_62930	0:Metabolic pathways
+PA14_62940	0:Metabolic pathways
+PA14_63090	0:Metabolic pathways
+PA14_63110	0:Metabolic pathways
+PA14_63120	0:Metabolic pathways
+PA14_63250	0:Metabolic pathways
+PA14_63270	0:Metabolic pathways
+PA14_63570	0:Metabolic pathways
+PA14_63580	0:Metabolic pathways
+PA14_63605	0:Metabolic pathways
+PA14_63850	0:Metabolic pathways
+PA14_63990	0:Metabolic pathways
+PA14_64090	0:Metabolic pathways
+PA14_64100	0:Metabolic pathways
+PA14_64110	0:Metabolic pathways
+PA14_64200	0:Metabolic pathways
+PA14_64220	0:Metabolic pathways
+PA14_64350	0:Metabolic pathways
+PA14_64370	0:Metabolic pathways
+PA14_64390	0:Metabolic pathways
+PA14_64440	0:Metabolic pathways
+PA14_64740	0:Metabolic pathways
+PA14_64950	0:Metabolic pathways
+PA14_64960	0:Metabolic pathways
+PA14_64980	0:Metabolic pathways
+PA14_65110	0:Metabolic pathways
+PA14_65230	0:Metabolic pathways
+PA14_65250	0:Metabolic pathways
+PA14_65320	0:Metabolic pathways
+PA14_65420	0:Metabolic pathways
+PA14_65480	0:Metabolic pathways
+PA14_65500	0:Metabolic pathways
+PA14_65560	0:Metabolic pathways
+PA14_65740	0:Metabolic pathways
+PA14_65770	0:Metabolic pathways
+PA14_65795	0:Metabolic pathways
+PA14_65960	0:Metabolic pathways
+PA14_66040	0:Metabolic pathways
+PA14_66060	0:Metabolic pathways
+PA14_66220	0:Metabolic pathways
+PA14_66230	0:Metabolic pathways
+PA14_66240	0:Metabolic pathways
+PA14_66250	0:Metabolic pathways
+PA14_66260	0:Metabolic pathways
+PA14_66290	0:Metabolic pathways
+PA14_66310	0:Metabolic pathways
+PA14_66350	0:Metabolic pathways
+PA14_66440	0:Metabolic pathways
+PA14_66550	0:Metabolic pathways
+PA14_66560	0:Metabolic pathways
+PA14_66570	0:Metabolic pathways
+PA14_66600	0:Metabolic pathways
+PA14_66610	0:Metabolic pathways
+PA14_66670	0:Metabolic pathways
+PA14_66680	0:Metabolic pathways
+PA14_66900	0:Metabolic pathways
+PA14_66940	0:Metabolic pathways
+PA14_66950	0:Metabolic pathways
+PA14_67240	0:Metabolic pathways
+PA14_67250	0:Metabolic pathways
+PA14_67260	0:Metabolic pathways
+PA14_67320	0:Metabolic pathways
+PA14_67350	0:Metabolic pathways
+PA14_67490	0:Metabolic pathways
+PA14_67580	0:Metabolic pathways
+PA14_67600	0:Metabolic pathways
+PA14_67770	0:Metabolic pathways
+PA14_67880	0:Metabolic pathways
+PA14_67890	0:Metabolic pathways
+PA14_67920	0:Metabolic pathways
+PA14_67930	0:Metabolic pathways
+PA14_68170	0:Metabolic pathways
+PA14_68190	0:Metabolic pathways
+PA14_68200	0:Metabolic pathways
+PA14_68210	0:Metabolic pathways
+PA14_68330	0:Metabolic pathways
+PA14_68340	0:Metabolic pathways
+PA14_68350	0:Metabolic pathways
+PA14_68360	0:Metabolic pathways
+PA14_68370	0:Metabolic pathways
+PA14_68390	0:Metabolic pathways
+PA14_68480	0:Metabolic pathways
+PA14_68580	0:Metabolic pathways
+PA14_68730	0:Metabolic pathways
+PA14_68740	0:Metabolic pathways
+PA14_68770	0:Metabolic pathways
+PA14_68850	0:Metabolic pathways
+PA14_68860	0:Metabolic pathways
+PA14_68870	0:Metabolic pathways
+PA14_68955	0:Metabolic pathways
+PA14_68980	0:Metabolic pathways
+PA14_69040	0:Metabolic pathways
+PA14_69150	0:Metabolic pathways
+PA14_69240	0:Metabolic pathways
+PA14_69430	0:Metabolic pathways
+PA14_69440	0:Metabolic pathways
+PA14_69450	0:Metabolic pathways
+PA14_69500	0:Metabolic pathways
+PA14_69670	0:Metabolic pathways
+PA14_69690	0:Metabolic pathways
+PA14_69720	0:Metabolic pathways
+PA14_69940	0:Metabolic pathways
+PA14_69990	0:Metabolic pathways
+PA14_70110	0:Metabolic pathways
+PA14_70140	0:Metabolic pathways
+PA14_70160	0:Metabolic pathways
+PA14_70240	0:Metabolic pathways
+PA14_70260	0:Metabolic pathways
+PA14_70270	0:Metabolic pathways
+PA14_70280	0:Metabolic pathways
+PA14_70370	0:Metabolic pathways
+PA14_70440	0:Metabolic pathways
+PA14_70450	0:Metabolic pathways
+PA14_70670	0:Metabolic pathways
+PA14_70680	0:Metabolic pathways
+PA14_70690	0:Metabolic pathways
+PA14_70720	0:Metabolic pathways
+PA14_70730	0:Metabolic pathways
+PA14_70940	0:Metabolic pathways
+PA14_70950	0:Metabolic pathways
+PA14_71060	0:Metabolic pathways
+PA14_71180	0:Metabolic pathways
+PA14_71220	0:Metabolic pathways
+PA14_71440	0:Metabolic pathways
+PA14_71460	0:Metabolic pathways
+PA14_71470	0:Metabolic pathways
+PA14_71490	0:Metabolic pathways
+PA14_71500	0:Metabolic pathways
+PA14_71510	0:Metabolic pathways
+PA14_71560	0:Metabolic pathways
+PA14_71570	0:Metabolic pathways
+PA14_71600	0:Metabolic pathways
+PA14_71620	0:Metabolic pathways
+PA14_71630	0:Metabolic pathways
+PA14_71650	0:Metabolic pathways
+PA14_71720	0:Metabolic pathways
+PA14_71740	0:Metabolic pathways
+PA14_71800	0:Metabolic pathways
+PA14_71890	0:Metabolic pathways
+PA14_71970	0:Metabolic pathways
+PA14_71990	0:Metabolic pathways
+PA14_72490	0:Metabolic pathways
+PA14_72510	0:Metabolic pathways
+PA14_72540	0:Metabolic pathways
+PA14_72690	0:Metabolic pathways
+PA14_72780	0:Metabolic pathways
+PA14_72850	0:Metabolic pathways
+PA14_72870	0:Metabolic pathways
+PA14_72880	0:Metabolic pathways
+PA14_73050	0:Metabolic pathways
+PA14_73070	0:Metabolic pathways
+PA14_73170	0:Metabolic pathways
+PA14_73220	0:Metabolic pathways
+PA14_73230	0:Metabolic pathways
+PA14_73240	0:Metabolic pathways
+PA14_73250	0:Metabolic pathways
+PA14_73260	0:Metabolic pathways
+PA14_73280	0:Metabolic pathways
+PA14_73290	0:Metabolic pathways
+PA14_73300	0:Metabolic pathways
+PA14_73310	0:Metabolic pathways
+PA14_04110	0:Methane metabolism
+PA14_07230	0:Methane metabolism
+PA14_16690	0:Methane metabolism
+PA14_17320	0:Methane metabolism
+PA14_17400	0:Methane metabolism
+PA14_17410	0:Methane metabolism
+PA14_23270	0:Methane metabolism
+PA14_31500	0:Methane metabolism
+PA14_33010	0:Methane metabolism
+PA14_41670	0:Methane metabolism
+PA14_41830	0:Methane metabolism
+PA14_45030	0:Methane metabolism
+PA14_52800	0:Methane metabolism
+PA14_53470	0:Methane metabolism
+PA14_53480	0:Methane metabolism
+PA14_60890	0:Methane metabolism
+PA14_61210	0:Methane metabolism
+PA14_62630	0:Methane metabolism
+PA14_63570	0:Methane metabolism
+PA14_63580	0:Methane metabolism
+PA14_63605	0:Methane metabolism
+PA14_65560	0:Methane metabolism
+PA14_67490	0:Methane metabolism
+PA14_67770	0:Methane metabolism
+PA14_71460	0:Methane metabolism
+PA14_71560	0:Methane metabolism
+PA14_01560	0:Microbial metabolism in diverse environments
+PA14_01900	0:Microbial metabolism in diverse environments
+PA14_01910	0:Microbial metabolism in diverse environments
+PA14_02730	0:Microbial metabolism in diverse environments
+PA14_02760	0:Microbial metabolism in diverse environments
+PA14_02770	0:Microbial metabolism in diverse environments
+PA14_02790	0:Microbial metabolism in diverse environments
+PA14_02830	0:Microbial metabolism in diverse environments
+PA14_02840	0:Microbial metabolism in diverse environments
+PA14_02850	0:Microbial metabolism in diverse environments
+PA14_03050	0:Microbial metabolism in diverse environments
+PA14_03430	0:Microbial metabolism in diverse environments
+PA14_03450	0:Microbial metabolism in diverse environments
+PA14_03860	0:Microbial metabolism in diverse environments
+PA14_03880	0:Microbial metabolism in diverse environments
+PA14_04110	0:Microbial metabolism in diverse environments
+PA14_04310	0:Microbial metabolism in diverse environments
+PA14_05590	0:Microbial metabolism in diverse environments
+PA14_05840	0:Microbial metabolism in diverse environments
+PA14_06270	0:Microbial metabolism in diverse environments
+PA14_06290	0:Microbial metabolism in diverse environments
+PA14_06450	0:Microbial metabolism in diverse environments
+PA14_06740	0:Microbial metabolism in diverse environments
+PA14_06750	0:Microbial metabolism in diverse environments
+PA14_06810	0:Microbial metabolism in diverse environments
+PA14_06830	0:Microbial metabolism in diverse environments
+PA14_06920	0:Microbial metabolism in diverse environments
+PA14_07130	0:Microbial metabolism in diverse environments
+PA14_07190	0:Microbial metabolism in diverse environments
+PA14_07230	0:Microbial metabolism in diverse environments
+PA14_07690	0:Microbial metabolism in diverse environments
+PA14_07910	0:Microbial metabolism in diverse environments
+PA14_09730	0:Microbial metabolism in diverse environments
+PA14_10040	0:Microbial metabolism in diverse environments
+PA14_10240	0:Microbial metabolism in diverse environments
+PA14_10250	0:Microbial metabolism in diverse environments
+PA14_10260	0:Microbial metabolism in diverse environments
+PA14_10550	0:Microbial metabolism in diverse environments
+PA14_10570	0:Microbial metabolism in diverse environments
+PA14_10590	0:Microbial metabolism in diverse environments
+PA14_10610	0:Microbial metabolism in diverse environments
+PA14_10620	0:Microbial metabolism in diverse environments
+PA14_10630	0:Microbial metabolism in diverse environments
+PA14_10640	0:Microbial metabolism in diverse environments
+PA14_10650	0:Microbial metabolism in diverse environments
+PA14_10920	0:Microbial metabolism in diverse environments
+PA14_10960	0:Microbial metabolism in diverse environments
+PA14_10990	0:Microbial metabolism in diverse environments
+PA14_11000	0:Microbial metabolism in diverse environments
+PA14_11190	0:Microbial metabolism in diverse environments
+PA14_11810	0:Microbial metabolism in diverse environments
+PA14_13090	0:Microbial metabolism in diverse environments
+PA14_13330	0:Microbial metabolism in diverse environments
+PA14_13500	0:Microbial metabolism in diverse environments
+PA14_13780	0:Microbial metabolism in diverse environments
+PA14_13800	0:Microbial metabolism in diverse environments
+PA14_13830	0:Microbial metabolism in diverse environments
+PA14_14700	0:Microbial metabolism in diverse environments
+PA14_16070	0:Microbial metabolism in diverse environments
+PA14_16090	0:Microbial metabolism in diverse environments
+PA14_16690	0:Microbial metabolism in diverse environments
+PA14_16950	0:Microbial metabolism in diverse environments
+PA14_17030	0:Microbial metabolism in diverse environments
+PA14_17270	0:Microbial metabolism in diverse environments
+PA14_17320	0:Microbial metabolism in diverse environments
+PA14_17400	0:Microbial metabolism in diverse environments
+PA14_17410	0:Microbial metabolism in diverse environments
+PA14_17860	0:Microbial metabolism in diverse environments
+PA14_17880	0:Microbial metabolism in diverse environments
+PA14_18250	0:Microbial metabolism in diverse environments
+PA14_18275	0:Microbial metabolism in diverse environments
+PA14_19430	0:Microbial metabolism in diverse environments
+PA14_19470	0:Microbial metabolism in diverse environments
+PA14_19740	0:Microbial metabolism in diverse environments
+PA14_19900	0:Microbial metabolism in diverse environments
+PA14_19910	0:Microbial metabolism in diverse environments
+PA14_19920	0:Microbial metabolism in diverse environments
+PA14_20200	0:Microbial metabolism in diverse environments
+PA14_20560	0:Microbial metabolism in diverse environments
+PA14_20670	0:Microbial metabolism in diverse environments
+PA14_21410	0:Microbial metabolism in diverse environments
+PA14_22890	0:Microbial metabolism in diverse environments
+PA14_22910	0:Microbial metabolism in diverse environments
+PA14_22930	0:Microbial metabolism in diverse environments
+PA14_23070	0:Microbial metabolism in diverse environments
+PA14_23080	0:Microbial metabolism in diverse environments
+PA14_23090	0:Microbial metabolism in diverse environments
+PA14_23270	0:Microbial metabolism in diverse environments
+PA14_23620	0:Microbial metabolism in diverse environments
+PA14_23800	0:Microbial metabolism in diverse environments
+PA14_23860	0:Microbial metabolism in diverse environments
+PA14_25080	0:Microbial metabolism in diverse environments
+PA14_25090	0:Microbial metabolism in diverse environments
+PA14_25250	0:Microbial metabolism in diverse environments
+PA14_26010	0:Microbial metabolism in diverse environments
+PA14_26130	0:Microbial metabolism in diverse environments
+PA14_27960	0:Microbial metabolism in diverse environments
+PA14_29110	0:Microbial metabolism in diverse environments
+PA14_29420	0:Microbial metabolism in diverse environments
+PA14_30050	0:Microbial metabolism in diverse environments
+PA14_30180	0:Microbial metabolism in diverse environments
+PA14_30190	0:Microbial metabolism in diverse environments
+PA14_31500	0:Microbial metabolism in diverse environments
+PA14_31530	0:Microbial metabolism in diverse environments
+PA14_32080	0:Microbial metabolism in diverse environments
+PA14_32100	0:Microbial metabolism in diverse environments
+PA14_32110	0:Microbial metabolism in diverse environments
+PA14_32130	0:Microbial metabolism in diverse environments
+PA14_32140	0:Microbial metabolism in diverse environments
+PA14_32150	0:Microbial metabolism in diverse environments
+PA14_32160	0:Microbial metabolism in diverse environments
+PA14_32220	0:Microbial metabolism in diverse environments
+PA14_32230	0:Microbial metabolism in diverse environments
+PA14_32240	0:Microbial metabolism in diverse environments
+PA14_32650	0:Microbial metabolism in diverse environments
+PA14_32670	0:Microbial metabolism in diverse environments
+PA14_32690	0:Microbial metabolism in diverse environments
+PA14_33010	0:Microbial metabolism in diverse environments
+PA14_33500	0:Microbial metabolism in diverse environments
+PA14_34600	0:Microbial metabolism in diverse environments
+PA14_34640	0:Microbial metabolism in diverse environments
+PA14_35290	0:Microbial metabolism in diverse environments
+PA14_35300	0:Microbial metabolism in diverse environments
+PA14_35320	0:Microbial metabolism in diverse environments
+PA14_35340	0:Microbial metabolism in diverse environments
+PA14_35490	0:Microbial metabolism in diverse environments
+PA14_35890	0:Microbial metabolism in diverse environments
+PA14_37530	0:Microbial metabolism in diverse environments
+PA14_37570	0:Microbial metabolism in diverse environments
+PA14_38140	0:Microbial metabolism in diverse environments
+PA14_38510	0:Microbial metabolism in diverse environments
+PA14_38530	0:Microbial metabolism in diverse environments
+PA14_38550	0:Microbial metabolism in diverse environments
+PA14_38630	0:Microbial metabolism in diverse environments
+PA14_38840	0:Microbial metabolism in diverse environments
+PA14_38860	0:Microbial metabolism in diverse environments
+PA14_39100	0:Microbial metabolism in diverse environments
+PA14_39520	0:Microbial metabolism in diverse environments
+PA14_39530	0:Microbial metabolism in diverse environments
+PA14_39540	0:Microbial metabolism in diverse environments
+PA14_40770	0:Microbial metabolism in diverse environments
+PA14_40980	0:Microbial metabolism in diverse environments
+PA14_41350	0:Microbial metabolism in diverse environments
+PA14_41470	0:Microbial metabolism in diverse environments
+PA14_41530	0:Microbial metabolism in diverse environments
+PA14_41540	0:Microbial metabolism in diverse environments
+PA14_41560	0:Microbial metabolism in diverse environments
+PA14_41670	0:Microbial metabolism in diverse environments
+PA14_41830	0:Microbial metabolism in diverse environments
+PA14_41840	0:Microbial metabolism in diverse environments
+PA14_41950	0:Microbial metabolism in diverse environments
+PA14_42080	0:Microbial metabolism in diverse environments
+PA14_42090	0:Microbial metabolism in diverse environments
+PA14_43420	0:Microbial metabolism in diverse environments
+PA14_43460	0:Microbial metabolism in diverse environments
+PA14_43780	0:Microbial metabolism in diverse environments
+PA14_43940	0:Microbial metabolism in diverse environments
+PA14_43950	0:Microbial metabolism in diverse environments
+PA14_43970	0:Microbial metabolism in diverse environments
+PA14_44000	0:Microbial metabolism in diverse environments
+PA14_44010	0:Microbial metabolism in diverse environments
+PA14_44020	0:Microbial metabolism in diverse environments
+PA14_44030	0:Microbial metabolism in diverse environments
+PA14_44050	0:Microbial metabolism in diverse environments
+PA14_44060	0:Microbial metabolism in diverse environments
+PA14_44070	0:Microbial metabolism in diverse environments
+PA14_44240	0:Microbial metabolism in diverse environments
+PA14_44290	0:Microbial metabolism in diverse environments
+PA14_44710	0:Microbial metabolism in diverse environments
+PA14_44740	0:Microbial metabolism in diverse environments
+PA14_44820	0:Microbial metabolism in diverse environments
+PA14_44850	0:Microbial metabolism in diverse environments
+PA14_45030	0:Microbial metabolism in diverse environments
+PA14_45050	0:Microbial metabolism in diverse environments
+PA14_47000	0:Microbial metabolism in diverse environments
+PA14_47280	0:Microbial metabolism in diverse environments
+PA14_47300	0:Microbial metabolism in diverse environments
+PA14_47500	0:Microbial metabolism in diverse environments
+PA14_49250	0:Microbial metabolism in diverse environments
+PA14_49260	0:Microbial metabolism in diverse environments
+PA14_49380	0:Microbial metabolism in diverse environments
+PA14_49650	0:Microbial metabolism in diverse environments
+PA14_49710	0:Microbial metabolism in diverse environments
+PA14_50660	0:Microbial metabolism in diverse environments
+PA14_50760	0:Microbial metabolism in diverse environments
+PA14_50800	0:Microbial metabolism in diverse environments
+PA14_51050	0:Microbial metabolism in diverse environments
+PA14_51270	0:Microbial metabolism in diverse environments
+PA14_51750	0:Microbial metabolism in diverse environments
+PA14_51770	0:Microbial metabolism in diverse environments
+PA14_51920	0:Microbial metabolism in diverse environments
+PA14_52210	0:Microbial metabolism in diverse environments
+PA14_52270	0:Microbial metabolism in diverse environments
+PA14_52580	0:Microbial metabolism in diverse environments
+PA14_52610	0:Microbial metabolism in diverse environments
+PA14_52800	0:Microbial metabolism in diverse environments
+PA14_53220	0:Microbial metabolism in diverse environments
+PA14_53470	0:Microbial metabolism in diverse environments
+PA14_53480	0:Microbial metabolism in diverse environments
+PA14_53790	0:Microbial metabolism in diverse environments
+PA14_54880	0:Microbial metabolism in diverse environments
+PA14_55200	0:Microbial metabolism in diverse environments
+PA14_56240	0:Microbial metabolism in diverse environments
+PA14_56300	0:Microbial metabolism in diverse environments
+PA14_56450	0:Microbial metabolism in diverse environments
+PA14_57710	0:Microbial metabolism in diverse environments
+PA14_57720	0:Microbial metabolism in diverse environments
+PA14_58030	0:Microbial metabolism in diverse environments
+PA14_58220	0:Microbial metabolism in diverse environments
+PA14_58560	0:Microbial metabolism in diverse environments
+PA14_60890	0:Microbial metabolism in diverse environments
+PA14_61210	0:Microbial metabolism in diverse environments
+PA14_61400	0:Microbial metabolism in diverse environments
+PA14_61770	0:Microbial metabolism in diverse environments
+PA14_62620	0:Microbial metabolism in diverse environments
+PA14_62630	0:Microbial metabolism in diverse environments
+PA14_62830	0:Microbial metabolism in diverse environments
+PA14_62940	0:Microbial metabolism in diverse environments
+PA14_63250	0:Microbial metabolism in diverse environments
+PA14_63570	0:Microbial metabolism in diverse environments
+PA14_63580	0:Microbial metabolism in diverse environments
+PA14_63605	0:Microbial metabolism in diverse environments
+PA14_63850	0:Microbial metabolism in diverse environments
+PA14_64100	0:Microbial metabolism in diverse environments
+PA14_64110	0:Microbial metabolism in diverse environments
+PA14_64350	0:Microbial metabolism in diverse environments
+PA14_64370	0:Microbial metabolism in diverse environments
+PA14_64390	0:Microbial metabolism in diverse environments
+PA14_64740	0:Microbial metabolism in diverse environments
+PA14_64770	0:Microbial metabolism in diverse environments
+PA14_64800	0:Microbial metabolism in diverse environments
+PA14_64810	0:Microbial metabolism in diverse environments
+PA14_65480	0:Microbial metabolism in diverse environments
+PA14_65560	0:Microbial metabolism in diverse environments
+PA14_65840	0:Microbial metabolism in diverse environments
+PA14_66290	0:Microbial metabolism in diverse environments
+PA14_66310	0:Microbial metabolism in diverse environments
+PA14_66560	0:Microbial metabolism in diverse environments
+PA14_66570	0:Microbial metabolism in diverse environments
+PA14_66680	0:Microbial metabolism in diverse environments
+PA14_67490	0:Microbial metabolism in diverse environments
+PA14_67600	0:Microbial metabolism in diverse environments
+PA14_67770	0:Microbial metabolism in diverse environments
+PA14_68350	0:Microbial metabolism in diverse environments
+PA14_68370	0:Microbial metabolism in diverse environments
+PA14_68580	0:Microbial metabolism in diverse environments
+PA14_69670	0:Microbial metabolism in diverse environments
+PA14_69690	0:Microbial metabolism in diverse environments
+PA14_70270	0:Microbial metabolism in diverse environments
+PA14_70670	0:Microbial metabolism in diverse environments
+PA14_70680	0:Microbial metabolism in diverse environments
+PA14_70690	0:Microbial metabolism in diverse environments
+PA14_71440	0:Microbial metabolism in diverse environments
+PA14_71460	0:Microbial metabolism in diverse environments
+PA14_71560	0:Microbial metabolism in diverse environments
+PA14_71570	0:Microbial metabolism in diverse environments
+PA14_71630	0:Microbial metabolism in diverse environments
+PA14_71720	0:Microbial metabolism in diverse environments
+PA14_71740	0:Microbial metabolism in diverse environments
+PA14_71800	0:Microbial metabolism in diverse environments
+PA14_71890	0:Microbial metabolism in diverse environments
+PA14_72510	0:Microbial metabolism in diverse environments
+PA14_72690	0:Microbial metabolism in diverse environments
+PA14_72850	0:Microbial metabolism in diverse environments
+PA14_00020	0:Mismatch repair
+PA14_09200	0:Mismatch repair
+PA14_11570	0:Mismatch repair
+PA14_12200	0:Mismatch repair
+PA14_14460	0:Mismatch repair
+PA14_15230	0:Mismatch repair
+PA14_16220	0:Mismatch repair
+PA14_17260	0:Mismatch repair
+PA14_17500	0:Mismatch repair
+PA14_22380	0:Mismatch repair
+PA14_25760	0:Mismatch repair
+PA14_41050	0:Mismatch repair
+PA14_44630	0:Mismatch repair
+PA14_44660	0:Mismatch repair
+PA14_56080	0:Mismatch repair
+PA14_59150	0:Mismatch repair
+PA14_60080	0:Mismatch repair
+PA14_65350	0:Mismatch repair
+PA14_71870	0:Mismatch repair
+PA14_02730	0:Monobactam biosynthesis
+PA14_09730	0:Monobactam biosynthesis
+PA14_23800	0:Monobactam biosynthesis
+PA14_33510	0:Monobactam biosynthesis
+PA14_51270	0:Monobactam biosynthesis
+PA14_52580	0:Monobactam biosynthesis
+PA14_57710	0:Monobactam biosynthesis
+PA14_57720	0:Monobactam biosynthesis
+PA14_62940	0:Monobactam biosynthesis
+PA14_17400	0:Naphthalene degradation
+PA14_71630	0:Naphthalene degradation
+PA14_01760	0:Nicotinate and nicotinamide metabolism
+PA14_02450	0:Nicotinate and nicotinamide metabolism
+PA14_02460	0:Nicotinate and nicotinamide metabolism
+PA14_02470	0:Nicotinate and nicotinamide metabolism
+PA14_03430	0:Nicotinate and nicotinamide metabolism
+PA14_12020	0:Nicotinate and nicotinamide metabolism
+PA14_17450	0:Nicotinate and nicotinamide metabolism
+PA14_17520	0:Nicotinate and nicotinamide metabolism
+PA14_24220	0:Nicotinate and nicotinamide metabolism
+PA14_25390	0:Nicotinate and nicotinamide metabolism
+PA14_40950	0:Nicotinate and nicotinamide metabolism
+PA14_43780	0:Nicotinate and nicotinamide metabolism
+PA14_51330	0:Nicotinate and nicotinamide metabolism
+PA14_52160	0:Nicotinate and nicotinamide metabolism
+PA14_54450	0:Nicotinate and nicotinamide metabolism
+PA14_56900	0:Nicotinate and nicotinamide metabolism
+PA14_58700	0:Nicotinate and nicotinamide metabolism
+PA14_64950	0:Nicotinate and nicotinamide metabolism
+PA14_64960	0:Nicotinate and nicotinamide metabolism
+PA14_64980	0:Nicotinate and nicotinamide metabolism
+PA14_68390	0:Nicotinate and nicotinamide metabolism
+PA14_01240	0:Nitrogen metabolism
+PA14_03860	0:Nitrogen metabolism
+PA14_03880	0:Nitrogen metabolism
+PA14_06750	0:Nitrogen metabolism
+PA14_06810	0:Nitrogen metabolism
+PA14_06830	0:Nitrogen metabolism
+PA14_08460	0:Nitrogen metabolism
+PA14_09580	0:Nitrogen metabolism
+PA14_13750	0:Nitrogen metabolism
+PA14_13770	0:Nitrogen metabolism
+PA14_13780	0:Nitrogen metabolism
+PA14_13800	0:Nitrogen metabolism
+PA14_13830	0:Nitrogen metabolism
+PA14_20200	0:Nitrogen metabolism
+PA14_20670	0:Nitrogen metabolism
+PA14_24445	0:Nitrogen metabolism
+PA14_37950	0:Nitrogen metabolism
+PA14_37965	0:Nitrogen metabolism
+PA14_38140	0:Nitrogen metabolism
+PA14_41480	0:Nitrogen metabolism
+PA14_41510	0:Nitrogen metabolism
+PA14_41530	0:Nitrogen metabolism
+PA14_41540	0:Nitrogen metabolism
+PA14_41560	0:Nitrogen metabolism
+PA14_44240	0:Nitrogen metabolism
+PA14_49250	0:Nitrogen metabolism
+PA14_49260	0:Nitrogen metabolism
+PA14_51080	0:Nitrogen metabolism
+PA14_60710	0:Nitrogen metabolism
+PA14_61860	0:Nitrogen metabolism
+PA14_66560	0:Nitrogen metabolism
+PA14_66570	0:Nitrogen metabolism
+PA14_67600	0:Nitrogen metabolism
+PA14_68350	0:Nitrogen metabolism
+PA14_72690	0:Nitrogen metabolism
+PA14_72850	0:Nitrogen metabolism
+PA14_26130	0:Nitrotoluene degradation
+PA14_47000	0:Nitrotoluene degradation
+PA14_36760	0:Non-homologous end-joining
+PA14_36910	0:Non-homologous end-joining
+PA14_23290	0:Novobiocin biosynthesis
+PA14_23500	0:Novobiocin biosynthesis
+PA14_31820	0:Novobiocin biosynthesis
+PA14_53010	0:Novobiocin biosynthesis
+PA14_57770	0:Novobiocin biosynthesis
+PA14_09180	0:Nucleotide excision repair
+PA14_23510	0:Nucleotide excision repair
+PA14_25230	0:Nucleotide excision repair
+PA14_30660	0:Nucleotide excision repair
+PA14_44660	0:Nucleotide excision repair
+PA14_60080	0:Nucleotide excision repair
+PA14_71870	0:Nucleotide excision repair
+PA14_72490	0:Nucleotide excision repair
+PA14_00190	0:One carbon pool by folate
+PA14_04480	0:One carbon pool by folate
+PA14_04580	0:One carbon pool by folate
+PA14_05590	0:One carbon pool by folate
+PA14_15890	0:One carbon pool by folate
+PA14_19640	0:One carbon pool by folate
+PA14_33010	0:One carbon pool by folate
+PA14_33040	0:One carbon pool by folate
+PA14_40670	0:One carbon pool by folate
+PA14_41350	0:One carbon pool by folate
+PA14_52050	0:One carbon pool by folate
+PA14_56060	0:One carbon pool by folate
+PA14_60890	0:One carbon pool by folate
+PA14_64200	0:One carbon pool by folate
+PA14_68870	0:One carbon pool by folate
+PA14_69040	0:One carbon pool by folate
+PA14_71460	0:One carbon pool by folate
+PA14_71530	0:One carbon pool by folate
+PA14_01290	0:Oxidative phosphorylation
+PA14_01300	0:Oxidative phosphorylation
+PA14_01310	0:Oxidative phosphorylation
+PA14_01320	0:Oxidative phosphorylation
+PA14_01360	0:Oxidative phosphorylation
+PA14_01380	0:Oxidative phosphorylation
+PA14_10500	0:Oxidative phosphorylation
+PA14_11690	0:Oxidative phosphorylation
+PA14_13030	0:Oxidative phosphorylation
+PA14_13040	0:Oxidative phosphorylation
+PA14_29320	0:Oxidative phosphorylation
+PA14_29850	0:Oxidative phosphorylation
+PA14_29860	0:Oxidative phosphorylation
+PA14_29880	0:Oxidative phosphorylation
+PA14_29890	0:Oxidative phosphorylation
+PA14_29900	0:Oxidative phosphorylation
+PA14_29920	0:Oxidative phosphorylation
+PA14_29930	0:Oxidative phosphorylation
+PA14_29940	0:Oxidative phosphorylation
+PA14_29970	0:Oxidative phosphorylation
+PA14_29980	0:Oxidative phosphorylation
+PA14_29990	0:Oxidative phosphorylation
+PA14_30010	0:Oxidative phosphorylation
+PA14_30020	0:Oxidative phosphorylation
+PA14_40160	0:Oxidative phosphorylation
+PA14_40510	0:Oxidative phosphorylation
+PA14_44020	0:Oxidative phosphorylation
+PA14_44030	0:Oxidative phosphorylation
+PA14_44050	0:Oxidative phosphorylation
+PA14_44060	0:Oxidative phosphorylation
+PA14_44340	0:Oxidative phosphorylation
+PA14_44350	0:Oxidative phosphorylation
+PA14_44360	0:Oxidative phosphorylation
+PA14_44370	0:Oxidative phosphorylation
+PA14_44380	0:Oxidative phosphorylation
+PA14_44390	0:Oxidative phosphorylation
+PA14_44400	0:Oxidative phosphorylation
+PA14_47150	0:Oxidative phosphorylation
+PA14_47160	0:Oxidative phosphorylation
+PA14_47180	0:Oxidative phosphorylation
+PA14_47190	0:Oxidative phosphorylation
+PA14_47210	0:Oxidative phosphorylation
+PA14_57540	0:Oxidative phosphorylation
+PA14_57560	0:Oxidative phosphorylation
+PA14_57570	0:Oxidative phosphorylation
+PA14_58870	0:Oxidative phosphorylation
+PA14_69230	0:Oxidative phosphorylation
+PA14_73230	0:Oxidative phosphorylation
+PA14_73240	0:Oxidative phosphorylation
+PA14_73250	0:Oxidative phosphorylation
+PA14_73260	0:Oxidative phosphorylation
+PA14_73280	0:Oxidative phosphorylation
+PA14_73290	0:Oxidative phosphorylation
+PA14_73300	0:Oxidative phosphorylation
+PA14_73310	0:Oxidative phosphorylation
+PA14_04630	0:Pantothenate and CoA biosynthesis
+PA14_04760	0:Pantothenate and CoA biosynthesis
+PA14_05740	0:Pantothenate and CoA biosynthesis
+PA14_05750	0:Pantothenate and CoA biosynthesis
+PA14_05770	0:Pantothenate and CoA biosynthesis
+PA14_08630	0:Pantothenate and CoA biosynthesis
+PA14_09820	0:Pantothenate and CoA biosynthesis
+PA14_38200	0:Pantothenate and CoA biosynthesis
+PA14_41900	0:Pantothenate and CoA biosynthesis
+PA14_43830	0:Pantothenate and CoA biosynthesis
+PA14_46120	0:Pantothenate and CoA biosynthesis
+PA14_52160	0:Pantothenate and CoA biosynthesis
+PA14_57160	0:Pantothenate and CoA biosynthesis
+PA14_58780	0:Pantothenate and CoA biosynthesis
+PA14_62130	0:Pantothenate and CoA biosynthesis
+PA14_62150	0:Pantothenate and CoA biosynthesis
+PA14_62160	0:Pantothenate and CoA biosynthesis
+PA14_62580	0:Pantothenate and CoA biosynthesis
+PA14_62590	0:Pantothenate and CoA biosynthesis
+PA14_62600	0:Pantothenate and CoA biosynthesis
+PA14_66260	0:Pantothenate and CoA biosynthesis
+PA14_70240	0:Pantothenate and CoA biosynthesis
+PA14_07910	0:Pentose and glucuronate interconversions
+PA14_18300	0:Pentose and glucuronate interconversions
+PA14_34350	0:Pentose and glucuronate interconversions
+PA14_36050	0:Pentose and glucuronate interconversions
+PA14_38350	0:Pentose and glucuronate interconversions
+PA14_38360	0:Pentose and glucuronate interconversions
+PA14_48010	0:Pentose and glucuronate interconversions
+PA14_04310	0:Pentose phosphate pathway
+PA14_07130	0:Pentose phosphate pathway
+PA14_07230	0:Pentose phosphate pathway
+PA14_07910	0:Pentose phosphate pathway
+PA14_13500	0:Pentose phosphate pathway
+PA14_20440	0:Pentose phosphate pathway
+PA14_22910	0:Pentose phosphate pathway
+PA14_23070	0:Pentose phosphate pathway
+PA14_23080	0:Pentose phosphate pathway
+PA14_23090	0:Pentose phosphate pathway
+PA14_23620	0:Pentose phosphate pathway
+PA14_27960	0:Pentose phosphate pathway
+PA14_34600	0:Pentose phosphate pathway
+PA14_34640	0:Pentose phosphate pathway
+PA14_34970	0:Pentose phosphate pathway
+PA14_35290	0:Pentose phosphate pathway
+PA14_35300	0:Pentose phosphate pathway
+PA14_35320	0:Pentose phosphate pathway
+PA14_35340	0:Pentose phosphate pathway
+PA14_39280	0:Pentose phosphate pathway
+PA14_45030	0:Pentose phosphate pathway
+PA14_61770	0:Pentose phosphate pathway
+PA14_62620	0:Pentose phosphate pathway
+PA14_67490	0:Pentose phosphate pathway
+PA14_70270	0:Pentose phosphate pathway
+PA14_71800	0:Pentose phosphate pathway
+PA14_04950	0:Peptidoglycan biosynthesis
+PA14_09600	0:Peptidoglycan biosynthesis
+PA14_11960	0:Peptidoglycan biosynthesis
+PA14_12060	0:Peptidoglycan biosynthesis
+PA14_12100	0:Peptidoglycan biosynthesis
+PA14_24690	0:Peptidoglycan biosynthesis
+PA14_25550	0:Peptidoglycan biosynthesis
+PA14_35190	0:Peptidoglycan biosynthesis
+PA14_39190	0:Peptidoglycan biosynthesis
+PA14_57320	0:Peptidoglycan biosynthesis
+PA14_57330	0:Peptidoglycan biosynthesis
+PA14_57340	0:Peptidoglycan biosynthesis
+PA14_57370	0:Peptidoglycan biosynthesis
+PA14_57380	0:Peptidoglycan biosynthesis
+PA14_57390	0:Peptidoglycan biosynthesis
+PA14_57410	0:Peptidoglycan biosynthesis
+PA14_57425	0:Peptidoglycan biosynthesis
+PA14_57810	0:Peptidoglycan biosynthesis
+PA14_60390	0:Peptidoglycan biosynthesis
+PA14_62200	0:Peptidoglycan biosynthesis
+PA14_66670	0:Peptidoglycan biosynthesis
+PA14_03000	0:Phenylalanine metabolism
+PA14_05480	0:Phenylalanine metabolism
+PA14_10040	0:Phenylalanine metabolism
+PA14_11190	0:Phenylalanine metabolism
+PA14_17860	0:Phenylalanine metabolism
+PA14_19740	0:Phenylalanine metabolism
+PA14_20560	0:Phenylalanine metabolism
+PA14_23290	0:Phenylalanine metabolism
+PA14_23500	0:Phenylalanine metabolism
+PA14_26260	0:Phenylalanine metabolism
+PA14_31820	0:Phenylalanine metabolism
+PA14_40980	0:Phenylalanine metabolism
+PA14_41950	0:Phenylalanine metabolism
+PA14_43460	0:Phenylalanine metabolism
+PA14_52990	0:Phenylalanine metabolism
+PA14_53010	0:Phenylalanine metabolism
+PA14_53070	0:Phenylalanine metabolism
+PA14_55200	0:Phenylalanine metabolism
+PA14_56450	0:Phenylalanine metabolism
+PA14_56480	0:Phenylalanine metabolism
+PA14_57770	0:Phenylalanine metabolism
+PA14_65840	0:Phenylalanine metabolism
+PA14_67150	0:Phenylalanine metabolism
+PA14_68720	0:Phenylalanine metabolism
+PA14_70040	0:Phenylalanine metabolism
+PA14_00290	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_00440	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_00450	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_03020	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_03030	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_07940	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_08340	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_08350	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_08360	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_09460	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_19140	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_23280	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_23290	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_23500	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_23850	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_25980	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_27330	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_31820	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_39945	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_41920	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_42760	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_51350	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_51360	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_52990	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_53010	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_57770	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_64090	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_66600	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_66610	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_68480	0:Phenylalanine, tyrosine and tryptophan biosynthesis
+PA14_20360	0:Phosphonate and phosphinate metabolism
+PA14_20370	0:Phosphonate and phosphinate metabolism
+PA14_20380	0:Phosphonate and phosphinate metabolism
+PA14_20390	0:Phosphonate and phosphinate metabolism
+PA14_20420	0:Phosphonate and phosphinate metabolism
+PA14_20430	0:Phosphonate and phosphinate metabolism
+PA14_20450	0:Phosphonate and phosphinate metabolism
+PA14_47280	0:Phosphonate and phosphinate metabolism
+PA14_47300	0:Phosphonate and phosphinate metabolism
+PA14_64360	0:Phosphonate and phosphinate metabolism
+PA14_04410	0:Phosphotransferase system (PTS)
+PA14_15780	0:Phosphotransferase system (PTS)
+PA14_18250	0:Phosphotransferase system (PTS)
+PA14_18275	0:Phosphotransferase system (PTS)
+PA14_57960	0:Phosphotransferase system (PTS)
+PA14_11250	0:Polyketide sugar unit biosynthesis
+PA14_68170	0:Polyketide sugar unit biosynthesis
+PA14_68190	0:Polyketide sugar unit biosynthesis
+PA14_68200	0:Polyketide sugar unit biosynthesis
+PA14_68210	0:Polyketide sugar unit biosynthesis
+PA14_00280	0:Porphyrin and chlorophyll metabolism
+PA14_01360	0:Porphyrin and chlorophyll metabolism
+PA14_01380	0:Porphyrin and chlorophyll metabolism
+PA14_06660	0:Porphyrin and chlorophyll metabolism
+PA14_09160	0:Porphyrin and chlorophyll metabolism
+PA14_11030	0:Porphyrin and chlorophyll metabolism
+PA14_12390	0:Porphyrin and chlorophyll metabolism
+PA14_18670	0:Porphyrin and chlorophyll metabolism
+PA14_23560	0:Porphyrin and chlorophyll metabolism
+PA14_25920	0:Porphyrin and chlorophyll metabolism
+PA14_25930	0:Porphyrin and chlorophyll metabolism
+PA14_25970	0:Porphyrin and chlorophyll metabolism
+PA14_25990	0:Porphyrin and chlorophyll metabolism
+PA14_26460	0:Porphyrin and chlorophyll metabolism
+PA14_26470	0:Porphyrin and chlorophyll metabolism
+PA14_26480	0:Porphyrin and chlorophyll metabolism
+PA14_26485	0:Porphyrin and chlorophyll metabolism
+PA14_26500	0:Porphyrin and chlorophyll metabolism
+PA14_26510	0:Porphyrin and chlorophyll metabolism
+PA14_26530	0:Porphyrin and chlorophyll metabolism
+PA14_30340	0:Porphyrin and chlorophyll metabolism
+PA14_39640	0:Porphyrin and chlorophyll metabolism
+PA14_41563	0:Porphyrin and chlorophyll metabolism
+PA14_47150	0:Porphyrin and chlorophyll metabolism
+PA14_47650	0:Porphyrin and chlorophyll metabolism
+PA14_47660	0:Porphyrin and chlorophyll metabolism
+PA14_47670	0:Porphyrin and chlorophyll metabolism
+PA14_47680	0:Porphyrin and chlorophyll metabolism
+PA14_47690	0:Porphyrin and chlorophyll metabolism
+PA14_47720	0:Porphyrin and chlorophyll metabolism
+PA14_47730	0:Porphyrin and chlorophyll metabolism
+PA14_47760	0:Porphyrin and chlorophyll metabolism
+PA14_47790	0:Porphyrin and chlorophyll metabolism
+PA14_57180	0:Porphyrin and chlorophyll metabolism
+PA14_61580	0:Porphyrin and chlorophyll metabolism
+PA14_61710	0:Porphyrin and chlorophyll metabolism
+PA14_64520	0:Porphyrin and chlorophyll metabolism
+PA14_66550	0:Porphyrin and chlorophyll metabolism
+PA14_69240	0:Porphyrin and chlorophyll metabolism
+PA14_69430	0:Porphyrin and chlorophyll metabolism
+PA14_69440	0:Porphyrin and chlorophyll metabolism
+PA14_69450	0:Porphyrin and chlorophyll metabolism
+PA14_72870	0:Porphyrin and chlorophyll metabolism
+PA14_01600	0:Propanoate metabolism
+PA14_01620	0:Propanoate metabolism
+PA14_06450	0:Propanoate metabolism
+PA14_13090	0:Propanoate metabolism
+PA14_17270	0:Propanoate metabolism
+PA14_17880	0:Propanoate metabolism
+PA14_18120	0:Propanoate metabolism
+PA14_18150	0:Propanoate metabolism
+PA14_19740	0:Propanoate metabolism
+PA14_23860	0:Propanoate metabolism
+PA14_25080	0:Propanoate metabolism
+PA14_31500	0:Propanoate metabolism
+PA14_31530	0:Propanoate metabolism
+PA14_31580	0:Propanoate metabolism
+PA14_35490	0:Propanoate metabolism
+PA14_35500	0:Propanoate metabolism
+PA14_35520	0:Propanoate metabolism
+PA14_35530	0:Propanoate metabolism
+PA14_35970	0:Propanoate metabolism
+PA14_38630	0:Propanoate metabolism
+PA14_40980	0:Propanoate metabolism
+PA14_41470	0:Propanoate metabolism
+PA14_41950	0:Propanoate metabolism
+PA14_42080	0:Propanoate metabolism
+PA14_42090	0:Propanoate metabolism
+PA14_43940	0:Propanoate metabolism
+PA14_43950	0:Propanoate metabolism
+PA14_43970	0:Propanoate metabolism
+PA14_44590	0:Propanoate metabolism
+PA14_49080	0:Propanoate metabolism
+PA14_51120	0:Propanoate metabolism
+PA14_52800	0:Propanoate metabolism
+PA14_52900	0:Propanoate metabolism
+PA14_53470	0:Propanoate metabolism
+PA14_53480	0:Propanoate metabolism
+PA14_53940	0:Propanoate metabolism
+PA14_53950	0:Propanoate metabolism
+PA14_53970	0:Propanoate metabolism
+PA14_53980	0:Propanoate metabolism
+PA14_54000	0:Propanoate metabolism
+PA14_54620	0:Propanoate metabolism
+PA14_62630	0:Propanoate metabolism
+PA14_63250	0:Propanoate metabolism
+PA14_63850	0:Propanoate metabolism
+PA14_64100	0:Propanoate metabolism
+PA14_64110	0:Propanoate metabolism
+PA14_66040	0:Propanoate metabolism
+PA14_70160	0:Propanoate metabolism
+PA14_04900	0:Protein export
+PA14_08695	0:Protein export
+PA14_09050	0:Protein export
+PA14_14610	0:Protein export
+PA14_14630	0:Protein export
+PA14_14650	0:Protein export
+PA14_15960	0:Protein export
+PA14_47370	0:Protein export
+PA14_54350	0:Protein export
+PA14_57220	0:Protein export
+PA14_60360	0:Protein export
+PA14_62810	0:Protein export
+PA14_66960	0:Protein export
+PA14_66970	0:Protein export
+PA14_66980	0:Protein export
+PA14_67720	0:Protein export
+PA14_73410	0:Protein export
+PA14_00020	0:Purine metabolism
+PA14_01660	0:Purine metabolism
+PA14_01760	0:Purine metabolism
+PA14_01830	0:Purine metabolism
+PA14_05050	0:Purine metabolism
+PA14_07700	0:Purine metabolism
+PA14_08760	0:Purine metabolism
+PA14_08780	0:Purine metabolism
+PA14_09115	0:Purine metabolism
+PA14_12200	0:Purine metabolism
+PA14_12490	0:Purine metabolism
+PA14_14460	0:Purine metabolism
+PA14_14820	0:Purine metabolism
+PA14_15310	0:Purine metabolism
+PA14_15340	0:Purine metabolism
+PA14_15740	0:Purine metabolism
+PA14_15890	0:Purine metabolism
+PA14_16700	0:Purine metabolism
+PA14_17260	0:Purine metabolism
+PA14_17450	0:Purine metabolism
+PA14_18830	0:Purine metabolism
+PA14_18850	0:Purine metabolism
+PA14_22380	0:Purine metabolism
+PA14_22620	0:Purine metabolism
+PA14_23920	0:Purine metabolism
+PA14_24730	0:Purine metabolism
+PA14_25760	0:Purine metabolism
+PA14_30110	0:Purine metabolism
+PA14_39520	0:Purine metabolism
+PA14_39530	0:Purine metabolism
+PA14_39540	0:Purine metabolism
+PA14_39690	0:Purine metabolism
+PA14_41050	0:Purine metabolism
+PA14_44500	0:Purine metabolism
+PA14_44630	0:Purine metabolism
+PA14_44710	0:Purine metabolism
+PA14_44740	0:Purine metabolism
+PA14_44770	0:Purine metabolism
+PA14_44820	0:Purine metabolism
+PA14_44850	0:Purine metabolism
+PA14_44860	0:Purine metabolism
+PA14_45050	0:Purine metabolism
+PA14_49460	0:Purine metabolism
+PA14_49470	0:Purine metabolism
+PA14_49650	0:Purine metabolism
+PA14_49840	0:Purine metabolism
+PA14_51240	0:Purine metabolism
+PA14_52040	0:Purine metabolism
+PA14_52050	0:Purine metabolism
+PA14_52160	0:Purine metabolism
+PA14_52180	0:Purine metabolism
+PA14_56240	0:Purine metabolism
+PA14_57710	0:Purine metabolism
+PA14_57720	0:Purine metabolism
+PA14_61460	0:Purine metabolism
+PA14_61770	0:Purine metabolism
+PA14_62710	0:Purine metabolism
+PA14_64200	0:Purine metabolism
+PA14_64220	0:Purine metabolism
+PA14_64350	0:Purine metabolism
+PA14_64370	0:Purine metabolism
+PA14_64390	0:Purine metabolism
+PA14_65230	0:Purine metabolism
+PA14_65690	0:Purine metabolism
+PA14_65710	0:Purine metabolism
+PA14_68350	0:Purine metabolism
+PA14_68380	0:Purine metabolism
+PA14_68390	0:Purine metabolism
+PA14_69220	0:Purine metabolism
+PA14_69610	0:Purine metabolism
+PA14_69940	0:Purine metabolism
+PA14_70270	0:Purine metabolism
+PA14_70440	0:Purine metabolism
+PA14_70450	0:Purine metabolism
+PA14_70470	0:Purine metabolism
+PA14_71600	0:Purine metabolism
+PA14_71620	0:Purine metabolism
+PA14_72490	0:Purine metabolism
+PA14_72540	0:Purine metabolism
+PA14_00020	0:Pyrimidine metabolism
+PA14_04480	0:Pyrimidine metabolism
+PA14_05250	0:Pyrimidine metabolism
+PA14_05260	0:Pyrimidine metabolism
+PA14_05270	0:Pyrimidine metabolism
+PA14_05690	0:Pyrimidine metabolism
+PA14_05740	0:Pyrimidine metabolism
+PA14_05750	0:Pyrimidine metabolism
+PA14_05770	0:Pyrimidine metabolism
+PA14_05810	0:Pyrimidine metabolism
+PA14_08760	0:Pyrimidine metabolism
+PA14_08780	0:Pyrimidine metabolism
+PA14_09115	0:Pyrimidine metabolism
+PA14_12200	0:Pyrimidine metabolism
+PA14_14460	0:Pyrimidine metabolism
+PA14_14820	0:Pyrimidine metabolism
+PA14_17080	0:Pyrimidine metabolism
+PA14_17260	0:Pyrimidine metabolism
+PA14_17290	0:Pyrimidine metabolism
+PA14_17450	0:Pyrimidine metabolism
+PA14_18710	0:Pyrimidine metabolism
+PA14_19090	0:Pyrimidine metabolism
+PA14_22380	0:Pyrimidine metabolism
+PA14_23320	0:Pyrimidine metabolism
+PA14_24640	0:Pyrimidine metabolism
+PA14_25740	0:Pyrimidine metabolism
+PA14_25760	0:Pyrimidine metabolism
+PA14_26890	0:Pyrimidine metabolism
+PA14_30280	0:Pyrimidine metabolism
+PA14_39690	0:Pyrimidine metabolism
+PA14_41050	0:Pyrimidine metabolism
+PA14_44630	0:Pyrimidine metabolism
+PA14_49460	0:Pyrimidine metabolism
+PA14_49470	0:Pyrimidine metabolism
+PA14_52160	0:Pyrimidine metabolism
+PA14_53290	0:Pyrimidine metabolism
+PA14_61470	0:Pyrimidine metabolism
+PA14_62710	0:Pyrimidine metabolism
+PA14_62910	0:Pyrimidine metabolism
+PA14_62930	0:Pyrimidine metabolism
+PA14_68390	0:Pyrimidine metabolism
+PA14_70260	0:Pyrimidine metabolism
+PA14_70370	0:Pyrimidine metabolism
+PA14_70450	0:Pyrimidine metabolism
+PA14_72490	0:Pyrimidine metabolism
+PA14_72540	0:Pyrimidine metabolism
+PA14_73070	0:Pyrimidine metabolism
+PA14_06290	0:Pyruvate metabolism
+PA14_06450	0:Pyruvate metabolism
+PA14_10240	0:Pyruvate metabolism
+PA14_10250	0:Pyruvate metabolism
+PA14_10260	0:Pyruvate metabolism
+PA14_11810	0:Pyruvate metabolism
+PA14_13090	0:Pyruvate metabolism
+PA14_15030	0:Pyruvate metabolism
+PA14_16690	0:Pyruvate metabolism
+PA14_16740	0:Pyruvate metabolism
+PA14_17270	0:Pyruvate metabolism
+PA14_17880	0:Pyruvate metabolism
+PA14_18750	0:Pyruvate metabolism
+PA14_19190	0:Pyruvate metabolism
+PA14_19470	0:Pyruvate metabolism
+PA14_19900	0:Pyruvate metabolism
+PA14_19910	0:Pyruvate metabolism
+PA14_19920	0:Pyruvate metabolism
+PA14_23860	0:Pyruvate metabolism
+PA14_31500	0:Pyruvate metabolism
+PA14_31530	0:Pyruvate metabolism
+PA14_33860	0:Pyruvate metabolism
+PA14_35490	0:Pyruvate metabolism
+PA14_37340	0:Pyruvate metabolism
+PA14_38630	0:Pyruvate metabolism
+PA14_38840	0:Pyruvate metabolism
+PA14_41080	0:Pyruvate metabolism
+PA14_41670	0:Pyruvate metabolism
+PA14_42090	0:Pyruvate metabolism
+PA14_43970	0:Pyruvate metabolism
+PA14_45050	0:Pyruvate metabolism
+PA14_48570	0:Pyruvate metabolism
+PA14_49710	0:Pyruvate metabolism
+PA14_51050	0:Pyruvate metabolism
+PA14_51920	0:Pyruvate metabolism
+PA14_52270	0:Pyruvate metabolism
+PA14_52800	0:Pyruvate metabolism
+PA14_53220	0:Pyruvate metabolism
+PA14_53470	0:Pyruvate metabolism
+PA14_53480	0:Pyruvate metabolism
+PA14_55130	0:Pyruvate metabolism
+PA14_56240	0:Pyruvate metabolism
+PA14_56300	0:Pyruvate metabolism
+PA14_58030	0:Pyruvate metabolism
+PA14_61400	0:Pyruvate metabolism
+PA14_62630	0:Pyruvate metabolism
+PA14_63090	0:Pyruvate metabolism
+PA14_63250	0:Pyruvate metabolism
+PA14_63850	0:Pyruvate metabolism
+PA14_64100	0:Pyruvate metabolism
+PA14_64110	0:Pyruvate metabolism
+PA14_64440	0:Pyruvate metabolism
+PA14_64740	0:Pyruvate metabolism
+PA14_66290	0:Pyruvate metabolism
+PA14_66310	0:Pyruvate metabolism
+PA14_66680	0:Pyruvate metabolism
+PA14_67500	0:Pyruvate metabolism
+PA14_68580	0:Pyruvate metabolism
+PA14_69925	0:Pyruvate metabolism
+PA14_71720	0:Pyruvate metabolism
+PA14_71740	0:Pyruvate metabolism
+PA14_71890	0:Pyruvate metabolism
+PA14_02720	0:Quorum sensing
+PA14_04900	0:Quorum sensing
+PA14_05550	0:Quorum sensing
+PA14_07850	0:Quorum sensing
+PA14_07860	0:Quorum sensing
+PA14_07870	0:Quorum sensing
+PA14_07890	0:Quorum sensing
+PA14_07900	0:Quorum sensing
+PA14_07940	0:Quorum sensing
+PA14_08340	0:Quorum sensing
+PA14_08370	0:Quorum sensing
+PA14_08695	0:Quorum sensing
+PA14_09050	0:Quorum sensing
+PA14_09410	0:Quorum sensing
+PA14_09420	0:Quorum sensing
+PA14_09440	0:Quorum sensing
+PA14_09450	0:Quorum sensing
+PA14_09460	0:Quorum sensing
+PA14_09470	0:Quorum sensing
+PA14_09520	0:Quorum sensing
+PA14_09530	0:Quorum sensing
+PA14_11400	0:Quorum sensing
+PA14_11510	0:Quorum sensing
+PA14_14610	0:Quorum sensing
+PA14_15520	0:Quorum sensing
+PA14_15540	0:Quorum sensing
+PA14_15960	0:Quorum sensing
+PA14_16250	0:Quorum sensing
+PA14_17140	0:Quorum sensing
+PA14_19100	0:Quorum sensing
+PA14_19110	0:Quorum sensing
+PA14_19120	0:Quorum sensing
+PA14_19130	0:Quorum sensing
+PA14_20580	0:Quorum sensing
+PA14_20610	0:Quorum sensing
+PA14_21090	0:Quorum sensing
+PA14_21110	0:Quorum sensing
+PA14_21340	0:Quorum sensing
+PA14_21370	0:Quorum sensing
+PA14_21910	0:Quorum sensing
+PA14_21920	0:Quorum sensing
+PA14_21930	0:Quorum sensing
+PA14_21960	0:Quorum sensing
+PA14_25980	0:Quorum sensing
+PA14_27330	0:Quorum sensing
+PA14_30630	0:Quorum sensing
+PA14_30850	0:Quorum sensing
+PA14_30860	0:Quorum sensing
+PA14_30870	0:Quorum sensing
+PA14_30880	0:Quorum sensing
+PA14_30900	0:Quorum sensing
+PA14_30910	0:Quorum sensing
+PA14_30930	0:Quorum sensing
+PA14_30940	0:Quorum sensing
+PA14_31290	0:Quorum sensing
+PA14_31300	0:Quorum sensing
+PA14_39880	0:Quorum sensing
+PA14_39890	0:Quorum sensing
+PA14_39945	0:Quorum sensing
+PA14_39960	0:Quorum sensing
+PA14_39970	0:Quorum sensing
+PA14_40260	0:Quorum sensing
+PA14_40290	0:Quorum sensing
+PA14_41920	0:Quorum sensing
+PA14_43340	0:Quorum sensing
+PA14_45940	0:Quorum sensing
+PA14_45960	0:Quorum sensing
+PA14_47370	0:Quorum sensing
+PA14_49760	0:Quorum sensing
+PA14_50520	0:Quorum sensing
+PA14_50530	0:Quorum sensing
+PA14_50540	0:Quorum sensing
+PA14_50550	0:Quorum sensing
+PA14_50560	0:Quorum sensing
+PA14_51340	0:Quorum sensing
+PA14_51350	0:Quorum sensing
+PA14_51360	0:Quorum sensing
+PA14_51380	0:Quorum sensing
+PA14_51390	0:Quorum sensing
+PA14_51410	0:Quorum sensing
+PA14_51420	0:Quorum sensing
+PA14_51430	0:Quorum sensing
+PA14_53360	0:Quorum sensing
+PA14_54350	0:Quorum sensing
+PA14_57220	0:Quorum sensing
+PA14_58360	0:Quorum sensing
+PA14_62810	0:Quorum sensing
+PA14_63150	0:Quorum sensing
+PA14_63160	0:Quorum sensing
+PA14_63480	0:Quorum sensing
+PA14_63650	0:Quorum sensing
+PA14_64860	0:Quorum sensing
+PA14_64870	0:Quorum sensing
+PA14_64880	0:Quorum sensing
+PA14_64890	0:Quorum sensing
+PA14_64900	0:Quorum sensing
+PA14_65310	0:Quorum sensing
+PA14_67720	0:Quorum sensing
+PA14_70200	0:Quorum sensing
+PA14_72560	0:Quorum sensing
+PA14_73410	0:Quorum sensing
+PA14_11400	0:Riboflavin metabolism
+PA14_11410	0:Riboflavin metabolism
+PA14_11420	0:Riboflavin metabolism
+PA14_11430	0:Riboflavin metabolism
+PA14_11510	0:Riboflavin metabolism
+PA14_19530	0:Riboflavin metabolism
+PA14_34180	0:Riboflavin metabolism
+PA14_47750	0:Riboflavin metabolism
+PA14_60380	0:Riboflavin metabolism
+PA14_69720	0:Riboflavin metabolism
+PA14_07560	0:Ribosome
+PA14_08720	0:Ribosome
+PA14_08730	0:Ribosome
+PA14_08740	0:Ribosome
+PA14_08750	0:Ribosome
+PA14_08790	0:Ribosome
+PA14_08810	0:Ribosome
+PA14_08840	0:Ribosome
+PA14_08850	0:Ribosome
+PA14_08860	0:Ribosome
+PA14_08870	0:Ribosome
+PA14_08880	0:Ribosome
+PA14_08890	0:Ribosome
+PA14_08900	0:Ribosome
+PA14_08910	0:Ribosome
+PA14_08920	0:Ribosome
+PA14_08930	0:Ribosome
+PA14_08940	0:Ribosome
+PA14_08950	0:Ribosome
+PA14_08960	0:Ribosome
+PA14_08970	0:Ribosome
+PA14_08980	0:Ribosome
+PA14_08990	0:Ribosome
+PA14_09000	0:Ribosome
+PA14_09010	0:Ribosome
+PA14_09020	0:Ribosome
+PA14_09030	0:Ribosome
+PA14_09040	0:Ribosome
+PA14_09070	0:Ribosome
+PA14_09080	0:Ribosome
+PA14_09090	0:Ribosome
+PA14_09100	0:Ribosome
+PA14_09130	0:Ribosome
+PA14_15970	0:Ribosome
+PA14_16000	0:Ribosome
+PA14_17060	0:Ribosome
+PA14_17700	0:Ribosome
+PA14_17710	0:Ribosome
+PA14_23330	0:Ribosome
+PA14_25630	0:Ribosome
+PA14_28670	0:Ribosome
+PA14_28680	0:Ribosome
+PA14_57580	0:Ribosome
+PA14_57590	0:Ribosome
+PA14_60400	0:Ribosome
+PA14_60450	0:Ribosome
+PA14_60460	0:Ribosome
+PA14_61780	0:Ribosome
+PA14_62720	0:Ribosome
+PA14_65150	0:Ribosome
+PA14_65170	0:Ribosome
+PA14_65180	0:Ribosome
+PA14_66710	0:Ribosome
+PA14_70180	0:Ribosome
+PA14_70190	0:Ribosome
+PA14_04390	0:RNA degradation
+PA14_05560	0:RNA degradation
+PA14_14040	0:RNA degradation
+PA14_17320	0:RNA degradation
+PA14_20810	0:RNA degradation
+PA14_25560	0:RNA degradation
+PA14_27370	0:RNA degradation
+PA14_28810	0:RNA degradation
+PA14_57010	0:RNA degradation
+PA14_62560	0:RNA degradation
+PA14_62710	0:RNA degradation
+PA14_62970	0:RNA degradation
+PA14_65200	0:RNA degradation
+PA14_65310	0:RNA degradation
+PA14_69190	0:RNA degradation
+PA14_69230	0:RNA degradation
+PA14_08760	0:RNA polymerase
+PA14_08780	0:RNA polymerase
+PA14_09115	0:RNA polymerase
+PA14_70450	0:RNA polymerase
+PA14_05230	0:Selenocompound metabolism
+PA14_19050	0:Selenocompound metabolism
+PA14_30280	0:Selenocompound metabolism
+PA14_39590	0:Selenocompound metabolism
+PA14_40670	0:Selenocompound metabolism
+PA14_43280	0:Selenocompound metabolism
+PA14_53290	0:Selenocompound metabolism
+PA14_57710	0:Selenocompound metabolism
+PA14_57720	0:Selenocompound metabolism
+PA14_63540	0:Selenocompound metabolism
+PA14_02310	0:Sphingolipid metabolism
+PA14_53340	0:Sphingolipid metabolism
+PA14_22930	0:Starch and sucrose metabolism
+PA14_33450	0:Starch and sucrose metabolism
+PA14_34340	0:Starch and sucrose metabolism
+PA14_36570	0:Starch and sucrose metabolism
+PA14_36580	0:Starch and sucrose metabolism
+PA14_36590	0:Starch and sucrose metabolism
+PA14_36605	0:Starch and sucrose metabolism
+PA14_36630	0:Starch and sucrose metabolism
+PA14_36710	0:Starch and sucrose metabolism
+PA14_36730	0:Starch and sucrose metabolism
+PA14_36740	0:Starch and sucrose metabolism
+PA14_36840	0:Starch and sucrose metabolism
+PA14_38350	0:Starch and sucrose metabolism
+PA14_42230	0:Starch and sucrose metabolism
+PA14_62620	0:Starch and sucrose metabolism
+PA14_70270	0:Starch and sucrose metabolism
+PA14_11250	0:Streptomycin biosynthesis
+PA14_14680	0:Streptomycin biosynthesis
+PA14_22930	0:Streptomycin biosynthesis
+PA14_68170	0:Streptomycin biosynthesis
+PA14_68190	0:Streptomycin biosynthesis
+PA14_68200	0:Streptomycin biosynthesis
+PA14_68210	0:Streptomycin biosynthesis
+PA14_70270	0:Streptomycin biosynthesis
+PA14_02760	0:Styrene degradation
+PA14_02770	0:Styrene degradation
+PA14_10040	0:Styrene degradation
+PA14_11190	0:Styrene degradation
+PA14_20560	0:Styrene degradation
+PA14_32650	0:Styrene degradation
+PA14_38510	0:Styrene degradation
+PA14_38530	0:Styrene degradation
+PA14_38550	0:Styrene degradation
+PA14_55200	0:Styrene degradation
+PA14_56450	0:Styrene degradation
+PA14_02330	0:Sulfur metabolism
+PA14_02340	0:Sulfur metabolism
+PA14_02360	0:Sulfur metabolism
+PA14_02420	0:Sulfur metabolism
+PA14_03650	0:Sulfur metabolism
+PA14_03670	0:Sulfur metabolism
+PA14_03680	0:Sulfur metabolism
+PA14_03700	0:Sulfur metabolism
+PA14_06740	0:Sulfur metabolism
+PA14_07690	0:Sulfur metabolism
+PA14_10550	0:Sulfur metabolism
+PA14_12710	0:Sulfur metabolism
+PA14_12920	0:Sulfur metabolism
+PA14_12940	0:Sulfur metabolism
+PA14_12960	0:Sulfur metabolism
+PA14_12970	0:Sulfur metabolism
+PA14_14700	0:Sulfur metabolism
+PA14_19500	0:Sulfur metabolism
+PA14_19510	0:Sulfur metabolism
+PA14_19520	0:Sulfur metabolism
+PA14_19530	0:Sulfur metabolism
+PA14_19540	0:Sulfur metabolism
+PA14_19560	0:Sulfur metabolism
+PA14_19570	0:Sulfur metabolism
+PA14_19580	0:Sulfur metabolism
+PA14_23930	0:Sulfur metabolism
+PA14_29110	0:Sulfur metabolism
+PA14_30460	0:Sulfur metabolism
+PA14_30490	0:Sulfur metabolism
+PA14_30520	0:Sulfur metabolism
+PA14_30540	0:Sulfur metabolism
+PA14_30550	0:Sulfur metabolism
+PA14_31350	0:Sulfur metabolism
+PA14_34180	0:Sulfur metabolism
+PA14_34190	0:Sulfur metabolism
+PA14_34330	0:Sulfur metabolism
+PA14_34750	0:Sulfur metabolism
+PA14_40770	0:Sulfur metabolism
+PA14_41840	0:Sulfur metabolism
+PA14_45110	0:Sulfur metabolism
+PA14_47500	0:Sulfur metabolism
+PA14_50660	0:Sulfur metabolism
+PA14_52210	0:Sulfur metabolism
+PA14_54880	0:Sulfur metabolism
+PA14_57710	0:Sulfur metabolism
+PA14_57720	0:Sulfur metabolism
+PA14_58560	0:Sulfur metabolism
+PA14_65480	0:Sulfur metabolism
+PA14_68370	0:Sulfur metabolism
+PA14_04970	0:Sulfur relay system
+PA14_13230	0:Sulfur relay system
+PA14_13240	0:Sulfur relay system
+PA14_13250	0:Sulfur relay system
+PA14_13850	0:Sulfur relay system
+PA14_14730	0:Sulfur relay system
+PA14_30150	0:Sulfur relay system
+PA14_30370	0:Sulfur relay system
+PA14_30380	0:Sulfur relay system
+PA14_30390	0:Sulfur relay system
+PA14_30400	0:Sulfur relay system
+PA14_37830	0:Sulfur relay system
+PA14_44270	0:Sulfur relay system
+PA14_44970	0:Sulfur relay system
+PA14_47500	0:Sulfur relay system
+PA14_61670	0:Sulfur relay system
+PA14_65480	0:Sulfur relay system
+PA14_67580	0:Sulfur relay system
+PA14_13090	0:Synthesis and degradation of ketone bodies
+PA14_17880	0:Synthesis and degradation of ketone bodies
+PA14_31530	0:Synthesis and degradation of ketone bodies
+PA14_38490	0:Synthesis and degradation of ketone bodies
+PA14_38590	0:Synthesis and degradation of ketone bodies
+PA14_38630	0:Synthesis and degradation of ketone bodies
+PA14_38640	0:Synthesis and degradation of ketone bodies
+PA14_38660	0:Synthesis and degradation of ketone bodies
+PA14_42090	0:Synthesis and degradation of ketone bodies
+PA14_63250	0:Synthesis and degradation of ketone bodies
+PA14_02050	0:Taurine and hypotaurine metabolism
+PA14_02420	0:Taurine and hypotaurine metabolism
+PA14_04730	0:Taurine and hypotaurine metabolism
+PA14_12970	0:Taurine and hypotaurine metabolism
+PA14_24445	0:Taurine and hypotaurine metabolism
+PA14_34750	0:Taurine and hypotaurine metabolism
+PA14_46960	0:Taurine and hypotaurine metabolism
+PA14_53470	0:Taurine and hypotaurine metabolism
+PA14_53480	0:Taurine and hypotaurine metabolism
+PA14_11550	0:Terpenoid backbone biosynthesis
+PA14_11560	0:Terpenoid backbone biosynthesis
+PA14_13090	0:Terpenoid backbone biosynthesis
+PA14_14880	0:Terpenoid backbone biosynthesis
+PA14_17110	0:Terpenoid backbone biosynthesis
+PA14_17130	0:Terpenoid backbone biosynthesis
+PA14_17340	0:Terpenoid backbone biosynthesis
+PA14_17420	0:Terpenoid backbone biosynthesis
+PA14_17880	0:Terpenoid backbone biosynthesis
+PA14_31530	0:Terpenoid backbone biosynthesis
+PA14_38630	0:Terpenoid backbone biosynthesis
+PA14_42090	0:Terpenoid backbone biosynthesis
+PA14_60330	0:Terpenoid backbone biosynthesis
+PA14_60470	0:Terpenoid backbone biosynthesis
+PA14_61750	0:Terpenoid backbone biosynthesis
+PA14_63250	0:Terpenoid backbone biosynthesis
+PA14_04980	0:Thiamine metabolism
+PA14_11460	0:Thiamine metabolism
+PA14_11550	0:Thiamine metabolism
+PA14_12400	0:Thiamine metabolism
+PA14_12410	0:Thiamine metabolism
+PA14_14730	0:Thiamine metabolism
+PA14_16700	0:Thiamine metabolism
+PA14_21410	0:Thiamine metabolism
+PA14_37830	0:Thiamine metabolism
+PA14_60270	0:Thiamine metabolism
+PA14_65420	0:Thiamine metabolism
+PA14_65740	0:Thiamine metabolism
+PA14_67580	0:Thiamine metabolism
+PA14_29420	0:Toluene degradation
+PA14_32220	0:Toluene degradation
+PA14_32240	0:Toluene degradation
+PA14_05480	0:Tryptophan metabolism
+PA14_05840	0:Tryptophan metabolism
+PA14_09150	0:Tryptophan metabolism
+PA14_10040	0:Tryptophan metabolism
+PA14_13090	0:Tryptophan metabolism
+PA14_17880	0:Tryptophan metabolism
+PA14_19740	0:Tryptophan metabolism
+PA14_20560	0:Tryptophan metabolism
+PA14_25080	0:Tryptophan metabolism
+PA14_30750	0:Tryptophan metabolism
+PA14_31530	0:Tryptophan metabolism
+PA14_36810	0:Tryptophan metabolism
+PA14_37590	0:Tryptophan metabolism
+PA14_37610	0:Tryptophan metabolism
+PA14_38630	0:Tryptophan metabolism
+PA14_40980	0:Tryptophan metabolism
+PA14_41950	0:Tryptophan metabolism
+PA14_42080	0:Tryptophan metabolism
+PA14_42090	0:Tryptophan metabolism
+PA14_44010	0:Tryptophan metabolism
+PA14_51050	0:Tryptophan metabolism
+PA14_55200	0:Tryptophan metabolism
+PA14_56450	0:Tryptophan metabolism
+PA14_61040	0:Tryptophan metabolism
+PA14_63250	0:Tryptophan metabolism
+PA14_64740	0:Tryptophan metabolism
+PA14_00010	0:Two-component system
+PA14_01360	0:Two-component system
+PA14_01460	0:Two-component system
+PA14_02180	0:Two-component system
+PA14_02200	0:Two-component system
+PA14_02220	0:Two-component system
+PA14_02230	0:Two-component system
+PA14_02250	0:Two-component system
+PA14_02260	0:Two-component system
+PA14_02270	0:Two-component system
+PA14_03860	0:Two-component system
+PA14_03880	0:Two-component system
+PA14_05320	0:Two-component system
+PA14_05330	0:Two-component system
+PA14_05340	0:Two-component system
+PA14_05360	0:Two-component system
+PA14_05380	0:Two-component system
+PA14_05390	0:Two-component system
+PA14_05400	0:Two-component system
+PA14_05410	0:Two-component system
+PA14_06060	0:Two-component system
+PA14_06070	0:Two-component system
+PA14_06740	0:Two-component system
+PA14_08370	0:Two-component system
+PA14_10330	0:Two-component system
+PA14_10500	0:Two-component system
+PA14_11120	0:Two-component system
+PA14_12780	0:Two-component system
+PA14_12820	0:Two-component system
+PA14_13030	0:Two-component system
+PA14_13040	0:Two-component system
+PA14_13090	0:Two-component system
+PA14_13330	0:Two-component system
+PA14_13730	0:Two-component system
+PA14_13740	0:Two-component system
+PA14_13780	0:Two-component system
+PA14_13800	0:Two-component system
+PA14_13810	0:Two-component system
+PA14_13830	0:Two-component system
+PA14_15160	0:Two-component system
+PA14_16350	0:Two-component system
+PA14_16430	0:Two-component system
+PA14_16440	0:Two-component system
+PA14_16450	0:Two-component system
+PA14_16460	0:Two-component system
+PA14_16470	0:Two-component system
+PA14_16480	0:Two-component system
+PA14_16500	0:Two-component system
+PA14_17040	0:Two-component system
+PA14_17880	0:Two-component system
+PA14_18370	0:Two-component system
+PA14_18580	0:Two-component system
+PA14_19130	0:Two-component system
+PA14_19190	0:Two-component system
+PA14_20670	0:Two-component system
+PA14_20730	0:Two-component system
+PA14_20750	0:Two-component system
+PA14_20760	0:Two-component system
+PA14_20770	0:Two-component system
+PA14_20780	0:Two-component system
+PA14_20800	0:Two-component system
+PA14_21410	0:Two-component system
+PA14_24710	0:Two-component system
+PA14_26280	0:Two-component system
+PA14_27550	0:Two-component system
+PA14_27800	0:Two-component system
+PA14_27810	0:Two-component system
+PA14_29350	0:Two-component system
+PA14_29360	0:Two-component system
+PA14_29760	0:Two-component system
+PA14_29800	0:Two-component system
+PA14_30650	0:Two-component system
+PA14_30700	0:Two-component system
+PA14_30820	0:Two-component system
+PA14_31400	0:Two-component system
+PA14_31530	0:Two-component system
+PA14_31620	0:Two-component system
+PA14_31870	0:Two-component system
+PA14_31890	0:Two-component system
+PA14_31900	0:Two-component system
+PA14_31950	0:Two-component system
+PA14_31960	0:Two-component system
+PA14_38140	0:Two-component system
+PA14_38395	0:Two-component system
+PA14_38410	0:Two-component system
+PA14_38610	0:Two-component system
+PA14_38630	0:Two-component system
+PA14_38970	0:Two-component system
+PA14_39560	0:Two-component system
+PA14_40510	0:Two-component system
+PA14_41260	0:Two-component system
+PA14_41270	0:Two-component system
+PA14_42090	0:Two-component system
+PA14_43220	0:Two-component system
+PA14_43340	0:Two-component system
+PA14_43350	0:Two-component system
+PA14_43370	0:Two-component system
+PA14_43380	0:Two-component system
+PA14_43400	0:Two-component system
+PA14_43405	0:Two-component system
+PA14_43670	0:Two-component system
+PA14_43710	0:Two-component system
+PA14_44240	0:Two-component system
+PA14_44300	0:Two-component system
+PA14_44340	0:Two-component system
+PA14_44350	0:Two-component system
+PA14_44360	0:Two-component system
+PA14_44370	0:Two-component system
+PA14_44380	0:Two-component system
+PA14_44390	0:Two-component system
+PA14_44400	0:Two-component system
+PA14_45500	0:Two-component system
+PA14_45510	0:Two-component system
+PA14_45560	0:Two-component system
+PA14_45580	0:Two-component system
+PA14_45590	0:Two-component system
+PA14_45620	0:Two-component system
+PA14_45630	0:Two-component system
+PA14_45870	0:Two-component system
+PA14_45880	0:Two-component system
+PA14_46030	0:Two-component system
+PA14_46910	0:Two-component system
+PA14_46920	0:Two-component system
+PA14_46930	0:Two-component system
+PA14_46950	0:Two-component system
+PA14_46970	0:Two-component system
+PA14_46980	0:Two-component system
+PA14_46990	0:Two-component system
+PA14_48030	0:Two-component system
+PA14_49130	0:Two-component system
+PA14_49170	0:Two-component system
+PA14_49180	0:Two-component system
+PA14_49420	0:Two-component system
+PA14_49440	0:Two-component system
+PA14_50180	0:Two-component system
+PA14_50200	0:Two-component system
+PA14_50220	0:Two-component system
+PA14_50290	0:Two-component system
+PA14_51880	0:Two-component system
+PA14_52230	0:Two-component system
+PA14_52240	0:Two-component system
+PA14_52250	0:Two-component system
+PA14_52260	0:Two-component system
+PA14_52350	0:Two-component system
+PA14_52570	0:Two-component system
+PA14_52810	0:Two-component system
+PA14_52820	0:Two-component system
+PA14_54390	0:Two-component system
+PA14_54500	0:Two-component system
+PA14_54510	0:Two-component system
+PA14_54540	0:Two-component system
+PA14_54550	0:Two-component system
+PA14_54570	0:Two-component system
+PA14_54600	0:Two-component system
+PA14_55750	0:Two-component system
+PA14_55960	0:Two-component system
+PA14_56000	0:Two-component system
+PA14_56010	0:Two-component system
+PA14_57540	0:Two-component system
+PA14_57560	0:Two-component system
+PA14_57570	0:Two-component system
+PA14_57940	0:Two-component system
+PA14_58300	0:Two-component system
+PA14_58320	0:Two-component system
+PA14_58650	0:Two-component system
+PA14_58730	0:Two-component system
+PA14_59240	0:Two-component system
+PA14_59770	0:Two-component system
+PA14_59780	0:Two-component system
+PA14_59800	0:Two-component system
+PA14_60250	0:Two-component system
+PA14_60260	0:Two-component system
+PA14_61300	0:Two-component system
+PA14_63150	0:Two-component system
+PA14_63160	0:Two-component system
+PA14_63250	0:Two-component system
+PA14_64570	0:Two-component system
+PA14_64580	0:Two-component system
+PA14_64920	0:Two-component system
+PA14_65450	0:Two-component system
+PA14_65750	0:Two-component system
+PA14_67010	0:Two-component system
+PA14_67130	0:Two-component system
+PA14_67600	0:Two-component system
+PA14_67670	0:Two-component system
+PA14_67680	0:Two-component system
+PA14_68230	0:Two-component system
+PA14_68250	0:Two-component system
+PA14_68260	0:Two-component system
+PA14_68280	0:Two-component system
+PA14_68290	0:Two-component system
+PA14_68680	0:Two-component system
+PA14_68700	0:Two-component system
+PA14_69470	0:Two-component system
+PA14_69480	0:Two-component system
+PA14_70750	0:Two-component system
+PA14_70760	0:Two-component system
+PA14_70860	0:Two-component system
+PA14_72380	0:Two-component system
+PA14_72390	0:Two-component system
+PA14_72690	0:Two-component system
+PA14_72720	0:Two-component system
+PA14_72740	0:Two-component system
+PA14_72850	0:Two-component system
+PA14_03000	0:Tyrosine metabolism
+PA14_03430	0:Tyrosine metabolism
+PA14_05480	0:Tyrosine metabolism
+PA14_10570	0:Tyrosine metabolism
+PA14_10590	0:Tyrosine metabolism
+PA14_10610	0:Tyrosine metabolism
+PA14_10620	0:Tyrosine metabolism
+PA14_10630	0:Tyrosine metabolism
+PA14_10640	0:Tyrosine metabolism
+PA14_10650	0:Tyrosine metabolism
+PA14_10990	0:Tyrosine metabolism
+PA14_11000	0:Tyrosine metabolism
+PA14_17400	0:Tyrosine metabolism
+PA14_23290	0:Tyrosine metabolism
+PA14_23500	0:Tyrosine metabolism
+PA14_31820	0:Tyrosine metabolism
+PA14_32650	0:Tyrosine metabolism
+PA14_32670	0:Tyrosine metabolism
+PA14_32690	0:Tyrosine metabolism
+PA14_38510	0:Tyrosine metabolism
+PA14_38530	0:Tyrosine metabolism
+PA14_38550	0:Tyrosine metabolism
+PA14_39100	0:Tyrosine metabolism
+PA14_53010	0:Tyrosine metabolism
+PA14_53070	0:Tyrosine metabolism
+PA14_57770	0:Tyrosine metabolism
+PA14_71630	0:Tyrosine metabolism
+PA14_03000	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_03130	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_08400	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_09210	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_11860	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_23220	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_48440	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_51770	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_51990	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_53070	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_65760	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_66900	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_68955	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_68980	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_69150	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_70720	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_70730	0:Ubiquinone and other terpenoid-quinone biosynthesis
+PA14_04320	0:Valine, leucine and isoleucine biosynthesis
+PA14_04630	0:Valine, leucine and isoleucine biosynthesis
+PA14_09820	0:Valine, leucine and isoleucine biosynthesis
+PA14_15030	0:Valine, leucine and isoleucine biosynthesis
+PA14_19870	0:Valine, leucine and isoleucine biosynthesis
+PA14_23750	0:Valine, leucine and isoleucine biosynthesis
+PA14_23760	0:Valine, leucine and isoleucine biosynthesis
+PA14_23790	0:Valine, leucine and isoleucine biosynthesis
+PA14_27500	0:Valine, leucine and isoleucine biosynthesis
+PA14_29410	0:Valine, leucine and isoleucine biosynthesis
+PA14_38200	0:Valine, leucine and isoleucine biosynthesis
+PA14_46120	0:Valine, leucine and isoleucine biosynthesis
+PA14_47100	0:Valine, leucine and isoleucine biosynthesis
+PA14_48570	0:Valine, leucine and isoleucine biosynthesis
+PA14_53260	0:Valine, leucine and isoleucine biosynthesis
+PA14_62130	0:Valine, leucine and isoleucine biosynthesis
+PA14_62150	0:Valine, leucine and isoleucine biosynthesis
+PA14_62160	0:Valine, leucine and isoleucine biosynthesis
+PA14_66260	0:Valine, leucine and isoleucine biosynthesis
+PA14_01600	0:Valine, leucine and isoleucine degradation
+PA14_01620	0:Valine, leucine and isoleucine degradation
+PA14_13090	0:Valine, leucine and isoleucine degradation
+PA14_17880	0:Valine, leucine and isoleucine degradation
+PA14_18120	0:Valine, leucine and isoleucine degradation
+PA14_18140	0:Valine, leucine and isoleucine degradation
+PA14_19430	0:Valine, leucine and isoleucine degradation
+PA14_19740	0:Valine, leucine and isoleucine degradation
+PA14_19870	0:Valine, leucine and isoleucine degradation
+PA14_21180	0:Valine, leucine and isoleucine degradation
+PA14_25080	0:Valine, leucine and isoleucine degradation
+PA14_25090	0:Valine, leucine and isoleucine degradation
+PA14_26010	0:Valine, leucine and isoleucine degradation
+PA14_31530	0:Valine, leucine and isoleucine degradation
+PA14_31580	0:Valine, leucine and isoleucine degradation
+PA14_35490	0:Valine, leucine and isoleucine degradation
+PA14_35500	0:Valine, leucine and isoleucine degradation
+PA14_35520	0:Valine, leucine and isoleucine degradation
+PA14_35530	0:Valine, leucine and isoleucine degradation
+PA14_35970	0:Valine, leucine and isoleucine degradation
+PA14_38440	0:Valine, leucine and isoleucine degradation
+PA14_38460	0:Valine, leucine and isoleucine degradation
+PA14_38470	0:Valine, leucine and isoleucine degradation
+PA14_38480	0:Valine, leucine and isoleucine degradation
+PA14_38490	0:Valine, leucine and isoleucine degradation
+PA14_38630	0:Valine, leucine and isoleucine degradation
+PA14_38640	0:Valine, leucine and isoleucine degradation
+PA14_38660	0:Valine, leucine and isoleucine degradation
+PA14_38690	0:Valine, leucine and isoleucine degradation
+PA14_40980	0:Valine, leucine and isoleucine degradation
+PA14_41950	0:Valine, leucine and isoleucine degradation
+PA14_42080	0:Valine, leucine and isoleucine degradation
+PA14_42090	0:Valine, leucine and isoleucine degradation
+PA14_43970	0:Valine, leucine and isoleucine degradation
+PA14_44590	0:Valine, leucine and isoleucine degradation
+PA14_49080	0:Valine, leucine and isoleucine degradation
+PA14_51050	0:Valine, leucine and isoleucine degradation
+PA14_51120	0:Valine, leucine and isoleucine degradation
+PA14_52900	0:Valine, leucine and isoleucine degradation
+PA14_54620	0:Valine, leucine and isoleucine degradation
+PA14_63250	0:Valine, leucine and isoleucine degradation
+PA14_63850	0:Valine, leucine and isoleucine degradation
+PA14_64740	0:Valine, leucine and isoleucine degradation
+PA14_66040	0:Valine, leucine and isoleucine degradation
+PA14_66260	0:Valine, leucine and isoleucine degradation
+PA14_66350	0:Valine, leucine and isoleucine degradation
+PA14_70160	0:Valine, leucine and isoleucine degradation
+PA14_09600	0:Vancomycin resistance
+PA14_15160	0:Vancomycin resistance
+PA14_54600	0:Vancomycin resistance
+PA14_57320	0:Vancomycin resistance
+PA14_57340	0:Vancomycin resistance
+PA14_57380	0:Vancomycin resistance
+PA14_57390	0:Vancomycin resistance
+PA14_65110	0:Vancomycin resistance
+PA14_69990	0:Vancomycin resistance
+PA14_07170	0:Vitamin B6 metabolism
+PA14_07740	0:Vitamin B6 metabolism
+PA14_16090	0:Vitamin B6 metabolism
+PA14_23270	0:Vitamin B6 metabolism
+PA14_36100	0:Vitamin B6 metabolism
+PA14_46470	0:Vitamin B6 metabolism
+PA14_50800	0:Vitamin B6 metabolism
+PA14_54290	0:Vitamin B6 metabolism
+PA14_72780	0:Vitamin B6 metabolism
+PA14_32080	0:Xylene degradation
+PA14_32100	0:Xylene degradation
+PA14_32110	0:Xylene degradation
+PA14_32130	0:Xylene degradation
+PA14_37570	0:Xylene degradation

@@ -1,0 +1,34 @@
+py term_enrichment.py -g U5U0_upregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.KEGGPATH.tsv -c fdr_bh -O enrich_U5U0_upregulated-bh.txt
+
+py term_enrichment.py -g U5U0_downregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.KEGGPATH.tsv -c fdr_bh -O enrich_U5U0_downregulated-bh.txt
+
+py term_enrichment.py -g U24U0_upregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.KEGGPATH.tsv -c fdr_bh -O enrich_U24U0_upregulated-bh.txt
+
+py term_enrichment.py -g U24U0_downregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.KEGGPATH.tsv -c fdr_bh -O enrich_U24U0_downregulated-bh.txt
+
+py term_enrichment.py -g T5T0_upregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.KEGGPATH.tsv -c fdr_bh -O enrich_T5T0_upregulated-bh.txt
+
+py term_enrichment.py -g T5T0_downregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.KEGGPATH.tsv -c fdr_bh -O enrich_T5T0_downregulated-bh.txt
+
+py term_enrichment.py -g T24T0_upregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.KEGGPATH.tsv -c fdr_bh -O enrich_T24T0_upregulated-bh.txt
+
+py term_enrichment.py -g T24T0_downregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.KEGGPATH.tsv -c fdr_bh -O enrich_T24T0_downregulated-bh.txt
+
+
+
+
+py term_enrichment.py -g U5U0_upregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.COGs.tsv -c fdr_bh -O enrich_U5U0_upregulated_COGs-bh.txt
+
+py term_enrichment.py -g U5U0_downregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.COGs.tsv -c fdr_bh -O enrich_U5U0_downregulated_COGs-bh.txt
+
+py term_enrichment.py -g U24U0_upregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.COGs.tsv -c fdr_bh -O enrich_U24U0_upregulated_COGs-bh.txt
+
+py term_enrichment.py -g U24U0_downregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.COGs.tsv -c fdr_bh -O enrich_U24U0_downregulated_COGs-bh.txt
+
+py term_enrichment.py -g T5T0_upregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.COGs.tsv -c fdr_bh -O enrich_T5T0_upregulated_COGs-bh.txt
+
+py term_enrichment.py -g T5T0_downregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.COGs.tsv -c fdr_bh -O enrich_T5T0_downregulated_COGs-bh.txt
+
+py term_enrichment.py -g T24T0_upregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.COGs.tsv -c fdr_bh -O enrich_T24T0_upregulated_COGs-bh.txt
+
+py term_enrichment.py -g T24T0_downregulated.tsv -u enrich.PA14.gene_universe.tsv -m enrich.PA14.COGs.tsv -c fdr_bh -O enrich_T24T0_downregulated_COGs-bh.txt
