@@ -1,7 +1,5 @@
-This folder contains the code for integrating the RNA-seq data with the metabolic models, then perfroming gene/reaction essentiality and machine learning analyses.
+This folder contains the code for integrating the RNA-seq data with the metabolic models, performing gene essentiality and identifying genes for mutant experiment.
 
-the persister_transcriptomics_no_metab codes integrate the counts data with the metabolic models and perform gene/ reaction essentality
-    persister_transcriptomics_no_metab optimizes for biomass
-    persister_transcriptomics_no_metab optimizes for ATP
-  
-Essentiality_heatmap codes take the gene/reaction essentiality and flux sampling data from the models to make figure 5 as well as set up the data to train the random forest classifier (classification learner app)
+-persister_open_exchange.ipynb contains the code for processing the gene essentiality and flux sampling data to identify potential gene targets for persisster cells.
+-run_riptide_open and run_riptide_open_AP contain the scripts to integrate the transcriptomics data into the iPau21 metabolic mode, generating flux samples and gene essentiality data.
+-the submit jobs shell scripts contain the scripts that send all the riptide jobs to the UVA hpc
