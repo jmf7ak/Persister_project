@@ -1,0 +1,153 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+library("readxl")
+library(dplyr)
+library(ggplot2)
+library(ggpubr)
+```
+
+```{r}
+df <- read_excel("C:/Users/jmf7ak/OneDrive - University of Virginia/25_SPRING/Persister_mutant_experiment_results.xlsx", sheet = 1)
+
+# Remove rows with any NA values
+df$Row <- as.numeric(as.character(df$Row))
+df$Colonies <- as.numeric(as.character(df$Colonies))
+
+df <- na.omit(df)
+df <- df %>%
+  mutate(cfu_ml = (Colonies * 100 * Diluted_in) * (10 ^ (Row-1)))
+
+df_tech_avg <- df %>%
+  group_by(Strain, Date, Replicate) %>%
+  summarise(
+    avg_cfu_ml = mean(cfu_ml, na.rm = TRUE),
+    avg_colonies = mean(Colonies, na.rm = TRUE),
+    .groups = "drop"
+  )
+  
+```
+```{r}
+# Calculate ancestor averages per date
+ancestor_avg <- df_tech_avg %>%
+  filter(Strain == "Ancestor") %>%
+  group_by(Date) %>%
+  summarise(
+    ancestor_avg_cfu_ml = mean(avg_cfu_ml, na.rm = TRUE),
+    .groups = "drop"
+  )
+# Join ancestor averages back to df_bio_avg by Date
+df_norm <- df_tech_avg %>%
+  left_join(ancestor_avg, by = "Date") %>%
+  mutate(norm_cfu_ml = avg_cfu_ml / ancestor_avg_cfu_ml)
+```
+
+```{r}
+df_norm <- df_norm %>%
+  mutate(norm_cfu_ml_adj = norm_cfu_ml + 0.001)  # Add small value to avoid log(0)
+
+ggplot(df_norm, aes(x = Strain, y = norm_cfu_ml_adj)) +
+  geom_boxplot(outlier.shape = NA) +
+  #geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+  geom_hline(yintercept = 1, linetype = "dashed", color = "red") +
+  scale_y_log10() +
+  labs(
+    title = "Normalized avg_cfu_ml by Strain (with zero adjustment)",
+    y = "Normalized avg_cfu_ml (log10 scale, +0.001 offset)",
+    x = "Strain"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+```{r}
+# Filter to only non-ancestor strains
+df_testable <- df_norm %>%
+  filter(!is.na(norm_cfu_ml), !is.na(Date), !is.na(Strain))
+
+# For each strain/date combo, compare to Ancestor on the same date
+wilcox_results <- df_testable %>%
+  filter(Strain != "Ancestor") %>%
+  group_by(Strain, Date) %>%
+  summarise(
+    p_value = tryCatch({
+      wilcox.test(
+        norm_cfu_ml,
+        df_norm %>% filter(Strain == "Ancestor", Date == unique(Date)) %>% pull(norm_cfu_ml),
+        exact = FALSE
+      )$p.value
+    }, error = function(e) NA),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    p_adj = p.adjust(p_value, method = "BH"),
+    signif_label = case_when(
+      p_adj <= 0.001 ~ "***",
+      p_adj <= 0.01  ~ "**",
+      p_adj <= 0.05  ~ "*",
+      TRUE ~ ""
+    )
+  )
+
+# Collapse to one label per strain (e.g., if any date is significant)
+strain_significance <- wilcox_results %>%
+  group_by(Strain) %>%
+  summarise(
+    min_p_adj = min(p_adj, na.rm = TRUE),
+    signif_label = case_when(
+      min_p_adj <= 0.001 ~ "***",
+      min_p_adj <= 0.01  ~ "**",
+      min_p_adj <= 0.05  ~ "*",
+      TRUE ~ ""
+    ),
+    .groups = "drop"
+  )
+```
+
+```{r}
+# Order by mean norm_cfu_ml
+strain_order <- df_testable %>%
+  filter(Strain != "Ancestor") %>%
+  group_by(Strain) %>%
+  summarise(mean_norm = mean(norm_cfu_ml, na.rm = TRUE), .groups = "drop") %>%
+  arrange(desc(mean_norm)) %>%
+  pull(Strain)
+
+df_testable <- df_testable %>%
+  mutate(norm_cfu_ml_adj = norm_cfu_ml + 0.001)
+
+df_plot <- df_testable %>%
+  filter(Strain != "Ancestor") %>%
+  left_join(strain_significance, by = "Strain") %>%
+ mutate(Strain = factor(Strain, levels = strain_order))
+
+
+ggplot(df_plot, aes(x = Strain, y = norm_cfu_ml_adj)) +
+  geom_boxplot(outlier.shape = NA) +
+  geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+  geom_hline(yintercept = 1, linetype = "dashed", color = "red") +
+  geom_text(
+    data = strain_significance,
+    aes(x = Strain, y = max(df_plot$norm_cfu_ml_adj, na.rm = TRUE) * 1.5, label = signif_label),
+    inherit.aes = FALSE,
+    size = 5
+  ) +
+  scale_y_log10() +
+  labs(
+    #title = "Normalized avg_cfu_ml by Strain (log10 scale)",
+    y = "Normalized avg_cfu_ml (log10 scale)",
+    x = "Strain"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
