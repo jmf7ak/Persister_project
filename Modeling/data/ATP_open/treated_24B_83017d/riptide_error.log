@@ -1,0 +1,8 @@
+This module provides its own Python executable:
+  python3.7
+If you are using a different Python whose version is not 3.7, please run:
+  (Python 2.7) export PYTHONPATH=$EBROOTGUROBI/lib/python2.7_utf32
+  (Python 3.8) export PYTHONPATH=$EBROOTGUROBI/lib/python3.8_utf32
+  (Python 3.9) export PYTHONPATH=$EBROOTGUROBI/lib/python3.9_utf32
+  (Python 3.10) export PYTHONPATH=$EBROOTGUROBI/lib/python3.10_utf32
+  (Python 3.11) export PYTHONPATH=$EBROOTGUROBI/lib/python3.11_utf32

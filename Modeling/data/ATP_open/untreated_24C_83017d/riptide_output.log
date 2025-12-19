@@ -1,0 +1,160 @@
+Counts file : /scratch/jmf7ak/persister/counts_batchcorrected/untreated_24C_83017d.csv
+Output dir  : /scratch/jmf7ak/persister/outputs/ATP_open/untreated_24C_83017d
+Loading metabolic model...
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "build"
+Processing transcription data...
+Running Riptide maxfit...
+Running max fit RIPTiDe for objective fraction range: 0.1 to 0.9...
+Analyzing context-specific subnetwork flux ranges...
+Progress: 0%Read LP format model from file /tmp/tmpspap3jqz.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmporc__kbk.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpkpjclkfr.lp
+Reading time = 0.00 seconds
+: 70 rows, 120 columns, 452 nonzeros
+Progress: 10.0%Read LP format model from file /tmp/tmpf4d3cid7.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpghoeb842.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpx_0p25fr.lp
+Reading time = 0.00 seconds
+: 70 rows, 120 columns, 452 nonzeros
+Progress: 20.0% Read LP format model from file /tmp/tmpb7nr_3hk.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmp9lrsvr_d.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmplfzr_x2p.lp
+Reading time = 0.00 seconds
+: 70 rows, 120 columns, 452 nonzeros
+Progress: 30.0% Read LP format model from file /tmp/tmpgl9t3t3u.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmp7zmvk2ix.lp
+Reading time = 0.02 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpf6fu27rq.lp
+Reading time = 0.01 seconds
+: 70 rows, 120 columns, 452 nonzeros
+Progress: 40.0% Read LP format model from file /tmp/tmpal4co51x.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpzw8lcovu.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmp5zibdlq8.lp
+Reading time = 0.00 seconds
+: 68 rows, 120 columns, 454 nonzeros
+Progress: 50.0% Read LP format model from file /tmp/tmpfn0olmsj.lp
+Reading time = 0.02 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmp1p4yov8v.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpbhoypldi.lp
+Reading time = 0.00 seconds
+: 68 rows, 120 columns, 454 nonzeros
+Progress: 60.0% Read LP format model from file /tmp/tmphd3vumeh.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmp45143mw6.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpc7otze9x.lp
+Reading time = 0.02 seconds
+: 77 rows, 134 columns, 520 nonzeros
+Progress: 70.0%  -  fit identified                     Read LP format model from file /tmp/tmpurou75bv.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpsil9_qt4.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpne495gfg.lp
+Reading time = 0.00 seconds
+: 75 rows, 132 columns, 512 nonzeros
+Progress: 80.0%  -  improved fit identified (2)        Read LP format model from file /tmp/tmpw2eewvbw.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmppy0g6kms.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpoq_qn52e.lp
+Reading time = 0.00 seconds
+: 75 rows, 132 columns, 512 nonzeros
+Progress: 90.0%  -  improved fit identified (3)        Progress: 100%  -  improved fit identified (4)         
+
+Testing local objective fractions to 0.7...
+Progress: 0%Read LP format model from file /tmp/tmpdiie57yd.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpth80isca.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmphunfsmj4.lp
+Reading time = 0.00 seconds
+: 68 rows, 120 columns, 454 nonzeros
+Progress: 14.29%Read LP format model from file /tmp/tmpshr5igpx.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmp889rb2c5.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpt4shruwg.lp
+Reading time = 0.00 seconds
+: 75 rows, 132 columns, 512 nonzeros
+Progress: 28.57% Read LP format model from file /tmp/tmpl0j4lfyq.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmplciaiw1_.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpmw6li4jj.lp
+Reading time = 0.00 seconds
+: 77 rows, 134 columns, 520 nonzeros
+Progress: 42.86%  -  improved fit identified (1)        Read LP format model from file /tmp/tmp__u6kv_s.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmp0covmlie.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpghvvzws0.lp
+Reading time = 0.01 seconds
+: 77 rows, 134 columns, 520 nonzeros
+Progress: 57.14%  -  improved fit identified (2)        Read LP format model from file /tmp/tmpuk4po3xe.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmp0gvwyt88.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpxpe64xpk.lp
+Reading time = 0.00 seconds
+: 68 rows, 120 columns, 454 nonzeros
+Progress: 71.43%  -  improved fit identified (3)        Read LP format model from file /tmp/tmpurp2ufji.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmp5m69nass.lp
+Reading time = 0.01 seconds
+: 1325 rows, 3178 columns, 13430 nonzeros
+Read LP format model from file /tmp/tmpu0k0fhie.lp
+Reading time = 0.00 seconds
+: 77 rows, 134 columns, 520 nonzeros
+Progress: 85.71%  -  improved fit identified (4)        Progress: 100%  -  improved fit identified (5)         
+
+Context-specific metabolism fit with 0.687 of optimal objective flux
+
+Reactions pruned to 67 from 1589 (95.78% change)
+Metabolites pruned to 77 from 1325 (94.19% change)
+Flux through the objective DECREASED to ~512.4543 from ~683.4643 (25.02% change)
+Context-specific metabolism does not correlate with transcriptome (r=0.055, n.s.)
+
+RIPTiDe completed in, 2 minutes and 32 seconds 
+
+Saving results to /scratch/jmf7ak/persister/outputs/ATP_open/riptide_results_ATP/untreated_24C_83017d_20250407_135258
+Saving results to /scratch/jmf7ak/persister/outputs/ATP_open/riptide_results_ATP/untreated_24C_83017d_20250407_135258
