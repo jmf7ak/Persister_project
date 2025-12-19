@@ -4,4 +4,5 @@ The code in this folder is used to analyze the counts from the RNA-seq data, whi
 * `analysis/` folder contains all of the output files from each of the scripts in src
 * `data/` folder contains any necessary data files for running the scripts
 
-Code to run the enrichment analysis can be found in the `Transcriptomics/analysis/enrichment/` folder. 
+Code to run the enrichment analysis can be found in the `Transcriptomics/analysis/enrichment/` folder. Run `enrich_calls.txt` in the terminal in the same directory as all of the files in the `enrichment\` folder to produce results
+
