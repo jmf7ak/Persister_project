@@ -1,4 +1,3 @@
-Make the "Metabolomics" folder (containing data and src) your R working directory
 
 "src" folder contains the code for this project
 "data" folder contains the processed metabolomics data from Metabolon 
