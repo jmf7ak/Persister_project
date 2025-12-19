@@ -1,0 +1,121 @@
+term	genes_in_set	total_genes_in_set	genes_in_universe	total_genes_in_universe	pvalue	adj_pvalue
+2-oxocarboxylic acid metabolism	0	437	30	5976	1.0	1.0
+abc transporters	10	437	191	5976	0.9016052190174363	1.0
+acarbose and validamycin biosynthesis	0	437	2	5976	1.0	1.0
+alanine, aspartate and glutamate metabolism	2	437	36	5976	0.751391963829751	1.0
+alpha-linolenic acid metabolism	0	437	3	5976	1.0	1.0
+amino sugar and nucleotide sugar metabolism	1	437	31	5976	0.9056007600395521	1.0
+aminoacyl-trna biosynthesis	3	437	27	5976	0.31593092539269424	1.0
+aminobenzoate degradation	2	437	17	5976	0.3562255566528091	1.0
+arachidonic acid metabolism	0	437	4	5976	1.0	1.0
+arginine and proline metabolism	3	437	46	5976	0.6643718475366557	1.0
+arginine biosynthesis	0	437	29	5976	1.0	1.0
+ascorbate and aldarate metabolism	0	437	6	5976	1.0	1.0
+bacterial chemotaxis	0	437	46	5976	1.0	1.0
+bacterial secretion system	3	437	92	5976	0.9691847559043031	1.0
+base excision repair	1	437	13	5976	0.6277606972594968	1.0
+benzoate degradation	4	437	35	5976	0.2510517997470468	1.0
+beta-alanine metabolism	2	437	27	5976	0.5977449272444242	1.0
+beta-lactam resistance	3	437	27	5976	0.31593092539269424	1.0
+biofilm formation - pseudomonas aeruginosa	7	437	103	5976	0.6359276624126933	1.0
+biosynthesis of amino acids	13	437	141	5976	0.2300205852437302	1.0
+biosynthesis of antibiotics	13	437	247	5976	0.9230512095329061	1.0
+biosynthesis of secondary metabolites	26	437	335	5976	0.40417753364656456	1.0
+biosynthesis of siderophore group nonribosomal peptides	0	437	8	5976	1.0	1.0
+biosynthesis of unsaturated fatty acids	3	437	13	5976	0.06408763393991167	1.0
+biotin metabolism	1	437	21	5976	0.7975912013456462	1.0
+butanoate metabolism	3	437	40	5976	0.5685695700152604	1.0
+c5-branched dibasic acid metabolism	0	437	13	5976	1.0	1.0
+caprolactam degradation	3	437	8	5976	0.01647749786865167	0.9886498721191002
+carbapenem biosynthesis	1	437	2	5976	0.14091562904337013	1.0
+carbon metabolism	5	437	128	5976	0.9628614497361836	1.0
+cationic antimicrobial peptide (camp) resistance	5	437	28	5976	0.049613511839194054	1.0
+chloroalkane and chloroalkene degradation	0	437	8	5976	1.0	1.0
+chlorocyclohexane and chlorobenzene degradation	0	437	5	5976	1.0	1.0
+citrate cycle (tca cycle)	0	437	33	5976	1.0	1.0
+cyanoamino acid metabolism	0	437	11	5976	1.0	1.0
+cysteine and methionine metabolism	1	437	39	5976	0.9487678417401174	1.0
+d-alanine metabolism	1	437	4	5976	0.2620130365475334	1.0
+d-arginine and d-ornithine metabolism	0	437	2	5976	1.0	1.0
+d-glutamine and d-glutamate metabolism	1	437	5	5976	0.31601509666620853	1.0
+degradation of aromatic compounds	3	437	26	5976	0.295349163395867	1.0
+dna replication	0	437	17	5976	1.0	1.0
+ether lipid metabolism	0	437	3	5976	1.0	1.0
+fatty acid biosynthesis	1	437	26	5976	0.8617480543613866	1.0
+fatty acid degradation	3	437	33	5976	0.43803415780827265	1.0
+fatty acid metabolism	3	437	49	5976	0.7061059469010327	1.0
+flagellar assembly	1	437	35	5976	0.9304492209979539	1.0
+fluorobenzoate degradation	0	437	8	5976	1.0	1.0
+folate biosynthesis	2	437	25	5976	0.5552143811807414	1.0
+fructose and mannose metabolism	1	437	18	5976	0.7456129750037692	1.0
+galactose metabolism	0	437	4	5976	1.0	1.0
+geraniol degradation	2	437	16	5976	0.32879522015724144	1.0
+glutathione metabolism	1	437	26	5976	0.8617480543613866	1.0
+glycerolipid metabolism	1	437	14	5976	0.6550403510072078	1.0
+glycerophospholipid metabolism	2	437	28	5976	0.6178377987834088	1.0
+glycine, serine and threonine metabolism	3	437	50	5976	0.7191041951214433	1.0
+glycolysis / gluconeogenesis	2	437	37	5976	0.7649103991761296	1.0
+glyoxylate and dicarboxylate metabolism	2	437	56	5976	0.9238512216617036	1.0
+histidine metabolism	3	437	23	5976	0.2344102111386575	1.0
+homologous recombination	2	437	24	5976	0.5327856950163068	1.0
+inositol phosphate metabolism	1	437	7	5976	0.4124769104892733	1.0
+limonene and pinene degradation	2	437	7	5976	0.08765617475579926	1.0
+lipoic acid metabolism	0	437	2	5976	1.0	1.0
+lipopolysaccharide biosynthesis	0	437	22	5976	1.0	1.0
+lysine biosynthesis	1	437	15	5976	0.6803250485264716	1.0
+lysine degradation	2	437	19	5976	0.4097606187398631	1.0
+metabolic pathways	43	437	798	5976	0.9916451307264056	1.0
+methane metabolism	1	437	25	5976	0.8507911990396467	1.0
+microbial metabolism in diverse environments	16	437	263	5976	0.8156878083999946	1.0
+mismatch repair	1	437	19	5976	0.764271439240653	1.0
+monobactam biosynthesis	0	437	9	5976	1.0	1.0
+naphthalene degradation	0	437	2	5976	1.0	1.0
+nicotinate and nicotinamide metabolism	1	437	21	5976	0.7975912013456462	1.0
+nitrogen metabolism	1	437	36	5976	0.9355651426313312	1.0
+nitrotoluene degradation	0	437	2	5976	1.0	1.0
+non-homologous end-joining	1	437	2	5976	0.14091562904337013	1.0
+novobiocin biosynthesis	1	437	5	5976	0.31601509666620853	1.0
+nucleotide excision repair	1	437	8	5976	0.4554904119327626	1.0
+one carbon pool by folate	1	437	18	5976	0.7456129750037692	1.0
+oxidative phosphorylation	1	437	55	5976	0.9849486942001251	1.0
+pantothenate and coa biosynthesis	1	437	22	5976	0.8124447101637743	1.0
+pentose and glucuronate interconversions	0	437	7	5976	1.0	1.0
+pentose phosphate pathway	0	437	26	5976	1.0	1.0
+peptidoglycan biosynthesis	5	437	21	5976	0.015616726525188054	0.9886498721191002
+phenylalanine metabolism	4	437	25	5976	0.10538039095149984	1.0
+phenylalanine, tyrosine and tryptophan biosynthesis	5	437	30	5976	0.06390764572940177	1.0
+phosphonate and phosphinate metabolism	1	437	10	5976	0.5323192774809207	1.0
+phosphotransferase system (pts)	0	437	5	5976	1.0	1.0
+polyketide sugar unit biosynthesis	1	437	5	5976	0.31601509666620853	1.0
+porphyrin and chlorophyll metabolism	2	437	43	5976	0.833292037255646	1.0
+propanoate metabolism	3	437	48	5976	0.6926531702371839	1.0
+protein export	0	437	17	5976	1.0	1.0
+purine metabolism	7	437	79	5976	0.3561285017989122	1.0
+pyrimidine metabolism	1	437	47	5976	0.9722191906662876	1.0
+pyruvate metabolism	4	437	61	5976	0.6617805777062737	1.0
+quorum sensing	9	437	101	5976	0.3182651152087955	1.0
+riboflavin metabolism	0	437	10	5976	1.0	1.0
+ribosome	5	437	55	5976	0.3754686072209023	1.0
+rna degradation	3	437	16	5976	0.10687014479943618	1.0
+rna polymerase	1	437	4	5976	0.2620130365475334	1.0
+selenocompound metabolism	0	437	10	5976	1.0	1.0
+sphingolipid metabolism	0	437	2	5976	1.0	1.0
+starch and sucrose metabolism	0	437	16	5976	1.0	1.0
+streptomycin biosynthesis	1	437	8	5976	0.4554904119327626	1.0
+styrene degradation	1	437	11	5976	0.5665761456909171	1.0
+sulfur metabolism	3	437	49	5976	0.7061059469010327	1.0
+sulfur relay system	0	437	18	5976	1.0	1.0
+synthesis and degradation of ketone bodies	1	437	10	5976	0.5323192774809207	1.0
+taurine and hypotaurine metabolism	1	437	9	5976	0.49536150609921403	1.0
+terpenoid backbone biosynthesis	0	437	16	5976	1.0	1.0
+thiamine metabolism	0	437	13	5976	1.0	1.0
+toluene degradation	0	437	3	5976	1.0	1.0
+tryptophan metabolism	3	437	26	5976	0.295349163395867	1.0
+two-component system	14	437	203	5976	0.6317535744377093	1.0
+tyrosine metabolism	2	437	27	5976	0.5977449272444242	1.0
+ubiquinone and other terpenoid-quinone biosynthesis	2	437	17	5976	0.3562255566528091	1.0
+valine, leucine and isoleucine biosynthesis	1	437	19	5976	0.764271439240653	1.0
+valine, leucine and isoleucine degradation	4	437	47	5976	0.45360228326457014	1.0
+vancomycin resistance	1	437	9	5976	0.49536150609921403	1.0
+vitamin b6 metabolism	1	437	9	5976	0.49536150609921403	1.0
+xylene degradation	0	437	5	5976	1.0	1.0
