@@ -12,8 +12,8 @@ The project is organized into the following folders:
 
 - `Metabolomics/` – Scripts and data for metabolomics analyses.
 - `Modeling/` – Code for building and analyzing contextualized metabolic models.
-- `Mutant_Validation/` – Scripts for analyzing gene knockout experiments and validation.
-- `Transcriptomics/` – Data processing and analyses for transcriptomic experiments.
+- `Mutant_Validation/` – Scripts for analyzing single-gene mutant experimental data.
+- `Transcriptomics/` – Data processing and analyses for RNA-sequencing, including differential expression and term enrichment.
 
 Each folder contains a **README** with detailed instructions for running the code specific to that module.
 
