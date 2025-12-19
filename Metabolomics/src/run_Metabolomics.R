@@ -10,9 +10,9 @@ library(ggfortify)
 library(gplots)
 library(plotly)
 library(car)
-library(userfriendlyscience)
 library(nlme)
 library(multcomp)
+library(rstatix)
 
 # set directory
 setwd('C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Metabolomics')
@@ -26,7 +26,7 @@ df <- read.csv(file.path(dir, 'data', 'METABOLON_DATA_origscaled_R.csv'))
 
 # tidy data
 df_tidy <- df %>%
-  select(-SUPER_PATHWAY, -SUB_PATHWAY, -COMP_ID, -PLATFORM, -CHEMICAL_ID, -RI, -MASS, -CAS, -PUBCHEM, -KEGG, -HMDB) %>% 
+  dplyr::select(-SUPER_PATHWAY, -SUB_PATHWAY, -COMP_ID, -PLATFORM, -CHEMICAL_ID, -RI, -MASS, -CAS, -PUBCHEM, -KEGG, -HMDB) %>% 
   gather(key="sample", value="intensity", 3:74) %>%
   # the following line parses the variable "sample" into 5 variables using "_" as the deliminator
   separate(sample, into=c("date","drug","time","dose","bioRep","techRep"), sep = "_")
@@ -365,8 +365,8 @@ g <- ggplot(data = impute_scores_BIT, aes(x = PC1, y = PC2, label = rownames(imp
                         myPalette[12],myPalette[12],myPalette[12],myPalette[12],myPalette[12],myPalette[12],myPalette[12],myPalette[12],
                         myPalette[13],myPalette[13],myPalette[13],myPalette[13],myPalette[13],myPalette[13],myPalette[13],myPalette[13],
                         myPalette[14],myPalette[14],myPalette[14],myPalette[14],myPalette[14],myPalette[14],myPalette[14],myPalette[14]), 
-            alpha = 1, 
-            size = 4) +
+             alpha = 1, 
+             size = 4) +
   scale_y_continuous(name = paste("PC2",":",as.character(summary(impute_pca_res)$importance[2,][2]*100),"%")) +
   scale_x_continuous(name = paste("PC1",":",as.character(summary(impute_pca_res)$importance[2,][1]*100),"%")) +
   theme_minimal() +
@@ -398,7 +398,7 @@ df_BIT_trans <- df_BIT_impute
 # collapse the sample info to variable ID
 df_BIT_trans <- within(df_BIT_trans,  id <- paste(dose, time, bioRep, techRep, sep="_"))
 # now that ID is created, remove all the other sample info columns
-df_BIT_trans <- select(df_BIT_trans, BIOCHEMICAL, intensity, id)
+df_BIT_trans <- dplyr::select(df_BIT_trans, BIOCHEMICAL, intensity, id)
 # make the dataframe wide
 df_BIT_trans <- spread(df_BIT_trans, id, intensity)
 # make the rownames the metabolite IDs
@@ -813,7 +813,7 @@ for (i in 1:length(metabs)) {
   
   # time 24
   data_24 <- data.frame(intensity = df_BIT_uni[,metabs[i]][df_BIT_uni$time == 24],
-                       dose = df_BIT_uni$dose[df_BIT_uni$time == 24])
+                        dose = df_BIT_uni$dose[df_BIT_uni$time == 24])
   df_levene_24[i] <- leveneTest(intensity ~ dose, data = data_24)[3]
 }
 
@@ -870,33 +870,48 @@ for (i in 1:length(metabs)) {
   
   ## time 0
   data_0 <- data.frame(intensity = df_BIT_welch[,metabs[i]][df_BIT_welch$time == 0],
-                       dose = df_BIT_welch$dose[df_BIT_welch$time == 0])
+                       dose = df_BIT_welch$dose[df_BIT_welch$time == 0], levels = c(0, 0.1, 10))
   lm_0 <- oneway.test(intensity~dose, data = data_0, var.equal = FALSE)
   df_welch_0[1,i] <- lm_0$p.value
-  posthoc_0 <- posthocTGH(data_0$intensity, data_0$dose, method=c("games-howell"), digits = 5)
-  df_games_0[1,i] <- unlist(posthoc_0$output[2])[16]
-  df_games_0[2,i] <- unlist(posthoc_0$output[2])[17]
-  df_games_0[3,i] <- unlist(posthoc_0$output[2])[18]
+  gh_0 <- data_0 %>% games_howell_test(intensity ~ dose)
+  comparisons <- c("0 - 0.1", "0 - 10", "0.1 - 10")
+  
+  df_games_0[, i] <- sapply(comparisons, function(comp) {
+    groups <- strsplit(comp, " - ")[[1]]
+    pval <- gh_0 %>%
+      filter(group1 == groups[1], group2 == groups[2]) %>%
+      pull(p.adj)   # use 'p.adj' for modern rstatix
+    if(length(pval) == 0) NA else pval})
   
   ## time 5
   data_5 <- data.frame(intensity = df_BIT_welch[,metabs[i]][df_BIT_welch$time == 5],
-                       dose = df_BIT_welch$dose[df_BIT_welch$time == 5])
+                       dose = df_BIT_welch$dose[df_BIT_welch$time == 5], levels = c(0, 0.1, 10))
   lm_5 <- oneway.test(intensity~dose, data = data_5, var.equal = FALSE)
   df_welch_5[1,i] <- lm_5$p.value
-  posthoc_5 <- posthocTGH(data_5$intensity, data_5$dose, method=c("games-howell"), digits = 5)
-  df_games_5[1,i] <- unlist(posthoc_5$output[2])[16]
-  df_games_5[2,i] <- unlist(posthoc_5$output[2])[17]
-  df_games_5[3,i] <- unlist(posthoc_5$output[2])[18]
+  gh_5 <- data_5 %>% games_howell_test(intensity ~ dose)
+  comparisons <- c("0 - 0.1", "0 - 10", "0.1 - 10")
+  
+  df_games_5[, i] <- sapply(comparisons, function(comp) {
+    groups <- strsplit(comp, " - ")[[1]]
+    pval <- gh_5 %>%
+      filter(group1 == groups[1], group2 == groups[2]) %>%
+      pull(p.adj)   # use 'p.adj' for modern rstatix
+    if(length(pval) == 0) NA else pval})
   
   ## time 24
   data_24 <- data.frame(intensity = df_BIT_welch[,metabs[i]][df_BIT_welch$time == 24],
-                        dose = df_BIT_welch$dose[df_BIT_welch$time == 24])
+                        dose = df_BIT_welch$dose[df_BIT_welch$time == 24], levels = c(0, 0.1, 10))
   lm_24 <- oneway.test(intensity~dose, data = data_24, var.equal = FALSE)
   df_welch_24[1,i] <- lm_24$p.value
-  posthoc_24 <- posthocTGH(data_24$intensity, data_24$dose, method=c("games-howell"), digits = 5)
-  df_games_24[1,i] <- unlist(posthoc_24$output[2])[16]
-  df_games_24[2,i] <- unlist(posthoc_24$output[2])[17]
-  df_games_24[3,i] <- unlist(posthoc_24$output[2])[18]
+  gh_24 <- data_24 %>% games_howell_test(intensity ~ dose)
+  comparisons <- c("0 - 0.1", "0 - 10", "0.1 - 10")
+  
+  df_games_24[, i] <- sapply(comparisons, function(comp) {
+    groups <- strsplit(comp, " - ")[[1]]
+    pval <- gh_24 %>%
+      filter(group1 == groups[1], group2 == groups[2]) %>%
+      pull(p.adj)   # use 'p.adj' for modern rstatix
+    if(length(pval) == 0) NA else pval})
 }
 
 # Multiple comparison testing using Benjamini Hochberg
@@ -983,9 +998,9 @@ df_BIT_uniStats_5$condition <- factor(df_BIT_uniStats_5$condition,levels=c("5_0.
 df_BIT_uniStats_24 <- rbind(df_BIT_24_0.1v0, df_BIT_24_10v0, df_BIT_24_10v0.1)
 df_BIT_uniStats_24$condition <- factor(df_BIT_uniStats_24$condition,levels=c("24_0.1-0","24_10-0","24_10-0.1"))
 
-write.csv(df_BIT_uniStats_0, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_0.csv'))
-write.csv(df_BIT_uniStats_5, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_5.csv'))
-write.csv(df_BIT_uniStats_24, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_24.csv'))
+write.csv(df_BIT_uniStats_0, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_0_2025.csv'))
+write.csv(df_BIT_uniStats_5, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_5_2025.csv'))
+write.csv(df_BIT_uniStats_24, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_24_2025.csv'))
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ##### time: one-way ANOVA analysis with Tukey post-hoc test #####
@@ -1057,7 +1072,7 @@ for (i in 1:length(metabs)) {
   
   ## time 24
   data_24 <- data.frame(intensity = df_BIT_anova[,metabs[i]][df_BIT_anova$time == 24],
-                       dose = df_BIT_anova$dose[df_BIT_anova$time == 24])
+                        dose = df_BIT_anova$dose[df_BIT_anova$time == 24])
   lm_24 <- lm(formula = intensity ~ dose, data = data_24)
   df_anova_24[1,i] <- anova(lm_24)$`Pr(>F)`[1]
   a_24 <- aov(data_24$intensity ~ data_24$dose)
@@ -1190,7 +1205,7 @@ ggplot(df_BIT_uniStats_0, aes(x=log2FC, y=-log10(p))) +
   xlab("log2(Fold Change)") +
   scale_color_manual(values = c("num" = myPalette[10],
                                 "denom" = myPalette[9],
-                                "none" = myPalette[2]),guide=F) +
+                                "none" = myPalette[2]),guide='none"') +
   #geom_vline(xintercept = 0, colour = "black") + # add line at 0
   #geom_hline(yintercept = 1.3, colour = "black") +
   facet_wrap(~condition,nrow=1)
@@ -1208,7 +1223,7 @@ ggplot(df_BIT_uniStats_5, aes(x=log2FC, y=-log10(p))) +
   xlab("log2(Fold Change)") +
   scale_color_manual(values = c("num" = myPalette[10],
                                 "denom" = myPalette[9],
-                                "none" = myPalette[2]),guide=F) +
+                                "none" = myPalette[2]),guide="none") +
   #geom_vline(xintercept = 0, colour = "black") + # add line at 0
   #geom_hline(yintercept = 1.3, colour = "black") +
   facet_wrap(~condition,nrow=1)
@@ -1226,7 +1241,7 @@ ggplot(df_BIT_uniStats_24, aes(x=log2FC, y=-log10(p))) +
   xlab("log2(Fold Change)") +
   scale_color_manual(values = c("num" = myPalette[10],
                                 "denom" = myPalette[9],
-                                "none" = myPalette[2]),guide=F) +
+                                "none" = myPalette[2]),guide="none") +
   #geom_vline(xintercept = 0, colour = "black") + # add line at 0
   #geom_hline(yintercept = 1.3, colour = "black") +
   facet_wrap(~condition,nrow=1)
@@ -1245,9 +1260,9 @@ df_BIT_24_0.1v0_sig <- filter(df_BIT_24_0.1v0,abs(log2FC) > 2 & p < 0.05)
 df_BIT_24_10v0_sig <- filter(df_BIT_24_10v0,abs(log2FC) > 2 & p < 0.05)
 df_BIT_24_10v0.1_sig <- filter(df_BIT_24_10v0.1,abs(log2FC) > 2 & p < 0.05)
 
-sig_metabs_0 <- unique(select(rbind(df_BIT_0_0.1v0_sig, df_BIT_0_10v0_sig, df_BIT_0_10v0.1_sig),metab))
-sig_metabs_5 <- unique(select(rbind(df_BIT_5_0.1v0_sig, df_BIT_5_10v0_sig, df_BIT_5_10v0.1_sig),metab))
-sig_metabs_24 <- unique(select(rbind(df_BIT_24_0.1v0_sig, df_BIT_24_10v0_sig, df_BIT_24_10v0.1_sig),metab))
+sig_metabs_0 <- unique(rbind(df_BIT_0_0.1v0_sig, df_BIT_0_10v0_sig, df_BIT_0_10v0.1_sig))
+sig_metabs_5 <- unique(rbind(df_BIT_5_0.1v0_sig, df_BIT_5_10v0_sig, df_BIT_5_10v0.1_sig))
+sig_metabs_24 <- unique(rbind(df_BIT_24_0.1v0_sig, df_BIT_24_10v0_sig, df_BIT_24_10v0.1_sig))
 
 heatmap_sig_0 <- sig_metabs_0
 heatmap_sig_0$metab<- sort(heatmap_sig_0$metab)
@@ -1267,15 +1282,43 @@ heatmap_sig_24$"24_10-0" <- rep(0,nrow(heatmap_sig_24))
 heatmap_sig_24$"24_10-0.1" <- rep(0,nrow(heatmap_sig_24))
 
 # see piping help here: https://stackoverflow.com/questions/13774773/check-whether-value-exist-in-one-data-frame-or-not
-heatmap_sig_0[heatmap_sig_0$metab %in% df_BIT_0_0.1v0$metab,]$"0_0.1-0" = df_BIT_0_0.1v0[df_BIT_0_0.1v0$metab %in% heatmap_sig_0$metab,]$log2FC
-heatmap_sig_0[heatmap_sig_0$metab %in% df_BIT_0_10v0$metab,]$"0_10-0" = df_BIT_0_10v0[df_BIT_0_10v0$metab %in% heatmap_sig_0$metab,]$log2FC
-heatmap_sig_0[heatmap_sig_0$metab %in% df_BIT_0_10v0.1$metab,]$"0_10-0.1" = df_BIT_0_10v0.1[df_BIT_0_10v0.1$metab %in% heatmap_sig_0$metab,]$log2FC
-heatmap_sig_5[heatmap_sig_5$metab %in% df_BIT_5_0.1v0$metab,]$"5_0.1-0" = df_BIT_5_0.1v0[df_BIT_5_0.1v0$metab %in% heatmap_sig_5$metab,]$log2FC
-heatmap_sig_5[heatmap_sig_5$metab %in% df_BIT_5_10v0$metab,]$"5_10-0" = df_BIT_5_10v0[df_BIT_5_10v0$metab %in% heatmap_sig_5$metab,]$log2FC
-heatmap_sig_5[heatmap_sig_5$metab %in% df_BIT_5_10v0.1$metab,]$"5_10-0.1" = df_BIT_5_10v0.1[df_BIT_5_10v0.1$metab %in% heatmap_sig_5$metab,]$log2FC
-heatmap_sig_24[heatmap_sig_24$metab %in% df_BIT_24_0.1v0$metab,]$"24_0.1-0" = df_BIT_24_0.1v0[df_BIT_24_0.1v0$metab %in% heatmap_sig_24$metab,]$log2FC
-heatmap_sig_24[heatmap_sig_24$metab %in% df_BIT_24_10v0$metab,]$"24_10-0" = df_BIT_24_10v0[df_BIT_24_10v0$metab %in% heatmap_sig_24$metab,]$log2FC
-heatmap_sig_24[heatmap_sig_24$metab %in% df_BIT_24_10v0.1$metab,]$"24_10-0.1" = df_BIT_24_10v0.1[df_BIT_24_10v0.1$metab %in% heatmap_sig_24$metab,]$log2FC
+# Define all time points and pairwise comparisons
+time_points <- c(0, 5, 24)
+dose_levels <- c(10, 0.1, 0)
+comparisons <- combn(dose_levels, 2, FUN = function(x) paste0(x[1], "-", x[2]), simplify = TRUE)
+
+# Loop through each time point
+for (tp in time_points) {
+  
+  # Select the appropriate heatmap data frame
+  heatmap_df <- get(paste0("heatmap_sig_", tp))
+  
+  # Loop through each pairwise comparison
+  for (comp in comparisons) {
+    
+    # Build the df name for this comparison
+    # Example: df_BIT_0_0.1v0, df_BIT_5_10v0.1
+    comp_name <- gsub("-", "v", comp, fixed = TRUE)       # "0-0.1" -> "0v0.1"
+    df_name <- paste0("df_BIT_", tp, "_", comp_name)
+    
+    if (!exists(df_name)) next  # Skip if the df does not exist
+    
+    df_comp <- get(df_name)
+    
+    # Create column in heatmap df if it doesn't exist
+    col_name <- paste0(tp, "_", comp)
+    
+    if (nrow(heatmap_df) > 0) {
+      heatmap_df[[col_name]] <- NA_real_
+      heatmap_df[[col_name]][match(df_comp$metab, heatmap_df$metab)] <- df_comp$log2FC
+    }
+  }
+  
+  
+  # Save updated heatmap df back to environment
+  assign(paste0("heatmap_sig_", tp), heatmap_df)
+}
+
 
 rownames(heatmap_sig_0) <- heatmap_sig_0$metab
 heatmap_sig_0 <- as.matrix(select(heatmap_sig_0,-metab))
@@ -1363,8 +1406,8 @@ for (i in 1:length(metabs)) {
   
   ## untreated
   untreatedBind <- cbind(df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==0 & df_BIT_uni$time == 0],
-                    df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==0 & df_BIT_uni$time == 5],
-                    df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==0 & df_BIT_uni$time == 24])
+                         df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==0 & df_BIT_uni$time == 5],
+                         df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==0 & df_BIT_uni$time == 24])
   untreatedModel <- lm(untreatedBind ~ 1)
   untreatedAnalysis <- Anova(untreatedModel, idata = timeFrame, idesign = ~timeFactor)
   df_mauchly_untreated[i] <- unlist(summary(untreatedAnalysis)[6])[2]
@@ -1379,8 +1422,8 @@ for (i in 1:length(metabs)) {
   
   ## dead
   deadBind <- cbind(df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==10 & df_BIT_uni$time == 0],
-                         df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==10 & df_BIT_uni$time == 5],
-                         df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==10 & df_BIT_uni$time == 24])
+                    df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==10 & df_BIT_uni$time == 5],
+                    df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==10 & df_BIT_uni$time == 24])
   deadModel <- lm(deadBind ~ 1)
   deadAnalysis <- Anova(deadModel, idata = timeFrame, idesign = ~timeFactor)
   df_mauchly_dead[i] <- unlist(summary(deadAnalysis)[6])[2]
@@ -1412,7 +1455,7 @@ metabs <- colnames(df_BIT_uni)[1:336]
 ## One-way ANOVA for the different time-points
 #df_BIT_anova <- unite(df_BIT_uni, group, c("dose"))
 df_BIT_greenhouse <- df_BIT_uni
-df_BIT_greenhouse <- select(df_BIT_greenhouse, -techRep)
+df_BIT_greenhouse <- dplyr::select(df_BIT_greenhouse, -techRep)
 
 # create a dataframe to save the sample ANOVA results
 df_greenhouse_untreated <- data.frame(matrix(NA, nrow = 1, ncol = length(metabs)))
@@ -1439,6 +1482,11 @@ df_games_dead <- data.frame(matrix(NA, nrow = 3, ncol = length(metabs)))
 row.names(df_games_dead) <- c("dead_24-0","dead_5-0","dead_5-24")
 colnames(df_games_dead) <- metabs
 
+get_gh_p <- function(gh, g1, g2) {
+  out <- gh$p.adj[gh$group1 == g1 & gh$group2 == g2]
+  if (length(out) == 0) NA else out
+}
+
 # run ANOVA for all the untreated, persister, and dead conditions
 for (i in 1:length(metabs)) {
   
@@ -1456,10 +1504,12 @@ for (i in 1:length(metabs)) {
   # games-howell post-hoc
   data_untreated <- data.frame(intensity = df_BIT_greenhouse[,metabs[i]][df_BIT_greenhouse$dose == 0],
                                time = df_BIT_greenhouse$time[df_BIT_greenhouse$dose == 0])
-  posthoc_untreated <- posthocTGH(data_untreated$intensity, data_untreated$time, method=c("games-howell"), digits = 5)
-  df_games_untreated[1,i] <- unlist(posthoc_untreated$output[2])[16]
-  df_games_untreated[2,i] <- unlist(posthoc_untreated$output[2])[17]
-  df_games_untreated[3,i] <- unlist(posthoc_untreated$output[2])[18]
+  # Games–Howell post hoc
+  gh_untreated <- games_howell_test(data_untreated, intensity ~ time)
+  
+  df_games_untreated[1, i] <- get_gh_p(gh_untreated, "0", "5")
+  df_games_untreated[2, i] <- get_gh_p(gh_untreated, "0", "24")
+  df_games_untreated[3, i] <- get_gh_p(gh_untreated, "24", "5")
   
   ## persister
   persisterBind <- cbind(df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==0.1 & df_BIT_uni$time == 0],
@@ -1471,10 +1521,11 @@ for (i in 1:length(metabs)) {
   # games-howell post-hoc
   data_persister <- data.frame(intensity = df_BIT_greenhouse[,metabs[i]][df_BIT_greenhouse$dose == 0.1],
                                time = df_BIT_greenhouse$time[df_BIT_greenhouse$dose == 0.1])
-  posthoc_persister <- posthocTGH(data_persister$intensity, data_persister$time, method=c("games-howell"), digits = 5)
-  df_games_persister[1,i] <- unlist(posthoc_persister$output[2])[16]
-  df_games_persister[2,i] <- unlist(posthoc_persister$output[2])[17]
-  df_games_persister[3,i] <- unlist(posthoc_persister$output[2])[18]
+  gh_persister <- games_howell_test(data_persister, intensity ~ time)
+  
+  df_games_persister[1, i] <- get_gh_p(gh_persister, "0", "5")
+  df_games_persister[2, i] <- get_gh_p(gh_persister, "0", "24")
+  df_games_persister[3, i] <- get_gh_p(gh_persister, "24", "5")
   
   ## dead
   deadBind <- cbind(df_BIT_uni[,metabs[i]][df_BIT_uni$dose ==10 & df_BIT_uni$time == 0],
@@ -1485,11 +1536,12 @@ for (i in 1:length(metabs)) {
   df_greenhouse_dead[i] <- unlist(summary(deadAnalysis)[5])[2]
   # games-howell post-hoc
   data_dead <- data.frame(intensity = df_BIT_greenhouse[,metabs[i]][df_BIT_greenhouse$dose == 10],
-                               time = df_BIT_greenhouse$time[df_BIT_greenhouse$dose == 10])
-  posthoc_dead <- posthocTGH(data_dead$intensity, data_dead$time, method=c("games-howell"), digits = 5)
-  df_games_dead[1,i] <- unlist(posthoc_dead$output[2])[16]
-  df_games_dead[2,i] <- unlist(posthoc_dead$output[2])[17]
-  df_games_dead[3,i] <- unlist(posthoc_dead$output[2])[18]
+                          time = df_BIT_greenhouse$time[df_BIT_greenhouse$dose == 10])
+  gh_dead <- games_howell_test(data_dead, intensity ~ time)
+  
+  df_games_dead[1, i] <- get_gh_p(gh_dead, "0", "5")
+  df_games_dead[2, i] <- get_gh_p(gh_dead, "0", "24")
+  df_games_dead[3, i] <- get_gh_p(gh_dead, "24", "5")
 }
 
 # Multiple comparison testing using Benjamini Hochberg
@@ -1576,9 +1628,9 @@ df_BIT_uniStats_persister$condition <- factor(df_BIT_uniStats_persister$conditio
 df_BIT_uniStats_dead <- rbind(df_BIT_dead_24v0, df_BIT_dead_5v0, df_BIT_dead_5v24)
 df_BIT_uniStats_dead$condition <- factor(df_BIT_uniStats_dead$condition,levels=c("dead_24-0","dead_5-0","dead_5-24"))
 
-write.csv(df_BIT_uniStats_untreated, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_untreated.csv'))
-write.csv(df_BIT_uniStats_persister, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_persister.csv'))
-write.csv(df_BIT_uniStats_dead, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_dead.csv'))
+write.csv(df_BIT_uniStats_untreated, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_untreated_2025.csv'))
+write.csv(df_BIT_uniStats_persister, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_persister_2025.csv'))
+write.csv(df_BIT_uniStats_dead, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_dead_2025.csv'))
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ##### sample: repeated measures one-way ANOVA with Tukey post-hoc test #####
@@ -1660,8 +1712,8 @@ for (i in 1:length(metabs)) {
   
   ## dead
   data_dead <- data.frame(intensity = df_BIT_anova[,metabs[i]][df_BIT_anova$dose == 10],
-                               time = df_BIT_anova[,338][df_BIT_anova$dose == 10],
-                               bioRep = df_BIT_anova[,339][df_BIT_anova$dose == 10])
+                          time = df_BIT_anova[,338][df_BIT_anova$dose == 10],
+                          bioRep = df_BIT_anova[,339][df_BIT_anova$dose == 10])
   data_dead$time <- as.factor(data_dead$time)
   data_dead_anova <- aov(intensity ~ time + Error(bioRep/time), data = data_dead)
   df_anova_dead[1,i]<- unlist(summary(data_dead_anova)[2])[9]
@@ -1670,7 +1722,7 @@ for (i in 1:length(metabs)) {
   df_tukey_dead[1,i] <- unlist(summary(glht(data_dead_lme, linfct = mcp(time = "Tukey")))[10])[12]
   df_tukey_dead[2,i] <- unlist(summary(glht(data_dead_lme, linfct = mcp(time = "Tukey")))[10])[13]
   df_tukey_dead[3,i] <- unlist(summary(glht(data_dead_lme, linfct = mcp(time = "Tukey")))[10])[14]
-
+  
 }
 
 # Multiple comparison testing using Benjamini Hochberg
@@ -2035,3 +2087,4 @@ write.csv(output_sig_24, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R
 write.csv(output_sig_untreated, file.path(dir, 'analysis' ,'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_output_sig_untreated.csv'))
 write.csv(output_sig_persister, file.path(dir, 'analysis' ,'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_output_sig_persister.csv'))
 write.csv(output_sig_dead, file.path(dir, 'analysis', 'METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_output_sig_dead.csv'))
+

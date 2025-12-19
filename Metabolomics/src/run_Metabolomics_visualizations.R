@@ -7,19 +7,19 @@ library(pheatmap)
 library(RColorBrewer)
 
 # set the working directory
-setwd('..')
+setwd('C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Metabolomics')
 dir <- getwd()
 
 source(file.path(dir, 'src', "multiplot.R"))
 
 # load the datasets
 df_BIT_values <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_transformed.csv"))
-df_BIT_uniStats_0 <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_0.csv"))
-df_BIT_uniStats_5 <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_5.csv"))
-df_BIT_uniStats_24 <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_24.csv"))
-df_BIT_uniStats_untreated <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_untreated.csv"))
-df_BIT_uniStats_persister <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_persister.csv"))
-df_BIT_uniStats_dead <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_dead.csv"))
+df_BIT_uniStats_0 <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_0_2025.csv"))
+df_BIT_uniStats_5 <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_5_2025.csv"))
+df_BIT_uniStats_24 <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_24_2025.csv"))
+df_BIT_uniStats_untreated <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_untreated_2025.csv"))
+df_BIT_uniStats_persister <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_persister_2025.csv"))
+df_BIT_uniStats_dead <- read.csv(file.path(dir, 'analysis', "METABOLON_DATA_origscaled_R_NoSampleNorm_greenhouseANOVA_games_df_BIT_uniStats_dead_2025.csv"))
 
 df_BIT_values <- dplyr::select(df_BIT_values, -X)
 df_BIT_uniStats_0 <- dplyr::select(df_BIT_uniStats_0, -X)
@@ -126,16 +126,16 @@ for (metab in common_metabs){
 }
 
 untreated_metabs_mean_common <- data.frame(T0 = untreated_metabs_mean0_common,
-                                    T5 = untreated_metabs_mean5_common,
-                                    T24 = untreated_metabs_mean24_common)
+                                           T5 = untreated_metabs_mean5_common,
+                                           T24 = untreated_metabs_mean24_common)
 rownames(untreated_metabs_mean_common) <- common_metabs
 persister_metabs_mean_common <- data.frame(T0 = persister_metabs_mean0_common,
                                            T5 = persister_metabs_mean5_common,
                                            T24 = persister_metabs_mean24_common)
 rownames(persister_metabs_mean_common) <- common_metabs
 dead_metabs_mean_common <- data.frame(T0 = dead_metabs_mean0_common,
-                                           T5 = dead_metabs_mean5_common,
-                                           T24 = dead_metabs_mean24_common)
+                                      T5 = dead_metabs_mean5_common,
+                                      T24 = dead_metabs_mean24_common)
 rownames(dead_metabs_mean_common) <- common_metabs
 
 
@@ -168,17 +168,17 @@ plot_persister_metabs_mean_common <- pheatmap(persister_metabs_mean_common,
                                               clustering_method = "average")
 
 plot_dead_metabs_mean_common <- pheatmap(dead_metabs_mean_common,
-                                              color = cols,
-                                              breaks = breaksList,
-                                              border_color = "black",
-                                              #show_rownames = FALSE,
-                                              treeheight_row = 0,
-                                              scale = "row",
-                                              cellwidth = 15,
-                                              cellheight = 8,
-                                              cluster_cols = FALSE,
-                                              clustering_distance_rows = "correlation",
-                                              clustering_method = "average")
+                                         color = cols,
+                                         breaks = breaksList,
+                                         border_color = "black",
+                                         #show_rownames = FALSE,
+                                         treeheight_row = 0,
+                                         scale = "row",
+                                         cellwidth = 15,
+                                         cellheight = 8,
+                                         cluster_cols = FALSE,
+                                         clustering_distance_rows = "correlation",
+                                         clustering_method = "average")
 
 # re-make heatmaps so that they are all in the same order based on untreated clustering
 
@@ -209,48 +209,48 @@ plot_dead_metabs_mean_common <- pheatmap(dead_metabs_mean_common,
                                          cellheight = 8,
                                          cluster_cols = FALSE,
                                          cluster_rows = FALSE)
-# 
-# # re-make heatmaps so that they are all in the same order based on alpabetical SUB_PATHWAY
-# row_order <- df_common_metabs[order(df_common_metabs$SUPER_PATHWAY),]$BIOCHEMICAL
-# untreated_metabs_mean_common <- untreated_metabs_mean_common[match(row_order,row.names(untreated_metabs_mean_common)),]
-# persister_metabs_mean_common <- persister_metabs_mean_common[match(row_order,row.names(persister_metabs_mean_common)),]
-# dead_metabs_mean_common <- dead_metabs_mean_common[match(row_order,row.names(dead_metabs_mean_common)),]
-# 
-# plot_untreated_metabs_mean_common <- pheatmap(untreated_metabs_mean_common,
-#                                               color = cols,
-#                                               breaks = breaksList,
-#                                               border_color = "black",
-#                                               #show_rownames = FALSE,
-#                                               treeheight_row = 0,
-#                                               scale = "row",
-#                                               cellwidth = 15,
-#                                               cellheight = 8,
-#                                               cluster_cols = FALSE,
-#                                               cluster_rows = FALSE)
-# 
-# plot_persister_metabs_mean_common <- pheatmap(persister_metabs_mean_common,
-#                                               color = cols,
-#                                               breaks = breaksList,
-#                                               border_color = "black",
-#                                               #show_rownames = FALSE,
-#                                               treeheight_row = 0,
-#                                               scale = "row",
-#                                               cellwidth = 15,
-#                                               cellheight = 8,
-#                                               cluster_cols = FALSE,
-#                                               cluster_rows = FALSE)
-# 
-# plot_dead_metabs_mean_common <- pheatmap(dead_metabs_mean_common,
-#                                          color = cols,
-#                                          breaks = breaksList,
-#                                          border_color = "black",
-#                                          #show_rownames = FALSE,
-#                                          treeheight_row = 0,
-#                                          scale = "row",
-#                                          cellwidth = 15,
-#                                          cellheight = 8,
-#                                          cluster_cols = FALSE,
-#                                          cluster_rows = FALSE)
+
+# re-make heatmaps so that they are all in the same order based on alpabetical SUB_PATHWAY
+row_order <- df_common_metabs[order(df_common_metabs$SUPER_PATHWAY),]$BIOCHEMICAL
+untreated_metabs_mean_common <- untreated_metabs_mean_common[match(row_order,row.names(untreated_metabs_mean_common)),]
+persister_metabs_mean_common <- persister_metabs_mean_common[match(row_order,row.names(persister_metabs_mean_common)),]
+dead_metabs_mean_common <- dead_metabs_mean_common[match(row_order,row.names(dead_metabs_mean_common)),]
+
+plot_untreated_metabs_mean_common <- pheatmap(untreated_metabs_mean_common,
+                                              color = cols,
+                                              breaks = breaksList,
+                                              border_color = "black",
+                                              #show_rownames = FALSE,
+                                              treeheight_row = 0,
+                                              scale = "row",
+                                              cellwidth = 15,
+                                              cellheight = 8,
+                                              cluster_cols = FALSE,
+                                              cluster_rows = FALSE)
+
+plot_persister_metabs_mean_common <- pheatmap(persister_metabs_mean_common,
+                                              color = cols,
+                                              breaks = breaksList,
+                                              border_color = "black",
+                                              #show_rownames = FALSE,
+                                              treeheight_row = 0,
+                                              scale = "row",
+                                              cellwidth = 15,
+                                              cellheight = 8,
+                                              cluster_cols = FALSE,
+                                              cluster_rows = FALSE)
+
+plot_dead_metabs_mean_common <- pheatmap(dead_metabs_mean_common,
+                                         color = cols,
+                                         breaks = breaksList,
+                                         border_color = "black",
+                                         #show_rownames = FALSE,
+                                         treeheight_row = 0,
+                                         scale = "row",
+                                         cellwidth = 15,
+                                         cellheight = 8,
+                                         cluster_cols = FALSE,
+                                         cluster_rows = FALSE)
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -390,25 +390,25 @@ for (metab in dead_unique_metabs){
 }
 
 dead_metabs_mean_unique <- data.frame(T0 = dead_metabs_mean0_unique,
-                                           T5 = dead_metabs_mean5_unique,
-                                           T24 = dead_metabs_mean24_unique)
+                                      T5 = dead_metabs_mean5_unique,
+                                      T24 = dead_metabs_mean24_unique)
 rownames(dead_metabs_mean_unique) <- dead_unique_metabs
 
 breaksList = seq(-1.5,1.5,by = 0.01)
 cols <- colorRampPalette((brewer.pal(n = 7, name = "Purples")))(length(breaksList))
 
 plot_dead_metabs_mean_unique <- pheatmap(dead_metabs_mean_unique,
-                                              color = cols,
-                                              breaks = breaksList,
-                                              border_color = "black",
-                                              #show_rownames = FALSE,
-                                              treeheight_row = 0,
-                                              scale = "row",
-                                              cellwidth = 15,
-                                              cellheight = 8,
-                                              cluster_cols = FALSE,
-                                              clustering_distance_rows = "correlation",
-                                              clustering_method = "average")
+                                         color = cols,
+                                         breaks = breaksList,
+                                         border_color = "black",
+                                         #show_rownames = FALSE,
+                                         treeheight_row = 0,
+                                         scale = "row",
+                                         cellwidth = 15,
+                                         cellheight = 8,
+                                         cluster_cols = FALSE,
+                                         clustering_distance_rows = "correlation",
+                                         clustering_method = "average")
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ##### heatmap for complete untreated #####
@@ -539,8 +539,8 @@ for (metab in dead_metabs){
 }
 
 dead_metabs_mean <- data.frame(T0 = dead_metabs_mean0,
-                                    T5 = dead_metabs_mean5,
-                                    T24 = dead_metabs_mean24)
+                               T5 = dead_metabs_mean5,
+                               T24 = dead_metabs_mean24)
 rownames(dead_metabs_mean) <- dead_metabs
 
 breaksList = seq(-1.5,1.5,by = 0.01)
@@ -636,19 +636,20 @@ metabs_mean_union <- data.frame(untreated_T0 = untreated_metabs_mean0_union,
 rownames(metabs_mean_union) <- union_metabs
 
 
+
 breaksList = seq(-3,3,by = 0.01)
 cols <- colorRampPalette((brewer.pal(n = 7, name = "Purples")))(length(breaksList))
 
 plot_metabs_mean_union <- pheatmap(metabs_mean_union,
-                                  color = cols,
-                                  breaks = breaksList,
-                                  border_color = "black",
-                                  #treeheight_row = 0,
-                                  scale = "row",
-                                  #cellwidth = 25,
-                                  #cellheight = 10,
-                                  #cluster_cols = FALSE,
-                                  show_rownames = FALSE,
-                                  clustering_distance_rows = "correlation",
-                                  clustering_method = "average")
+                                   color = cols,
+                                   breaks = breaksList,
+                                   border_color = "black",
+                                   #treeheight_row = 0,
+                                   scale = "row",
+                                   #cellwidth = 25,
+                                   #cellheight = 10,
+                                   #cluster_cols = FALSE,
+                                   show_rownames = FALSE,
+                                   clustering_distance_rows = "correlation",
+                                   clustering_method = "average")
 
