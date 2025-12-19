@@ -23,14 +23,26 @@ dir <- getwd()
 
 # load files
 T5T0 <- read.csv(file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T5T0_results_2023.csv"))
-U5U0 <- read.csv(file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_U5T0_results_2023.csv"))
+U5U0 <- read.csv(file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_U5U0_results_2023.csv"))
 T24T0 <- read.csv(file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T24T0_results_2023.csv"))
-U24U0 <- read.csv(file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_U24T0_results_2023.csv"))
+U24U0 <- read.csv(file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_U24U0_results_2023.csv"))
 
 T5T0$condition <- c("T5T0")
 U5U0$condition <- c("U5U0")
 T24T0$condition <- c("T24T0")
 U24U0$condition <- c("U24U0")
+
+dfs <- list(T5T0, U5U0, T24T0, U24U0)
+
+dfs <- lapply(dfs, function(df) {
+  colnames(df)[colnames(df) == "X"] <- "gene"
+  df
+})
+
+T5T0  <- dfs[[1]]
+U5U0  <- dfs[[2]]
+T24T0 <- dfs[[3]]
+U24U0 <- dfs[[4]]
 
 complete <- rbind(T5T0,U5U0,T24T0,U24U0)
 complete$condition <- factor(complete$condition,levels=c("T5T0","U5U0","T24T0","U24U0"))
@@ -318,7 +330,7 @@ U5U0_metab_sig <- filter(U5U0_metab,padj < 0.01)
 T24T0_metab_sig <- filter(T24T0_metab,padj < 0.01)
 U24U0_metab_sig <- filter(U24U0_metab,padj < 0.01)
 
-metab_sig_genes<- unique(select(rbind(T5T0_metab_sig,U5U0_metab_sig,T24T0_metab_sig,U24U0_metab_sig),gene))
+metab_sig_genes<- unique(dplyr::select(rbind(T5T0_metab_sig,U5U0_metab_sig,T24T0_metab_sig,U24U0_metab_sig),gene))
 
 heatmap_metab_sig <- metab_sig_genes
 heatmap_metab_sig$gene <- sort(heatmap_metab_sig$gene)
@@ -405,7 +417,7 @@ treated_sig_up_unique <- setdiff(treated_sig_up_unique, U24U0_sig_up$gene)
 
 treated_unique <- c(treated_sig_down_unique, treated_sig_up_unique)
 
-write.csv(treated_unique, file='treated_unique.csv')
+#write.csv(treated_unique, file='treated_unique.csv')
 ##### heatmap for succinate genes ##### 
 
 succinateGenes <- c('PA14_03430','PA14_52670','PA14_52840','PA14_52820','PA14_52810','PA14_68290','PA14_62880','PA14_62860','PA14_44060','PA14_44050','PA14_44030','PA14_44020','PA14_43950','PA14_43940','PA14_49130','PA14_01460','PA14_38660','PA14_38640','PA14_72340','PA14_01460','PA14_49130','PA14_05230','PA14_52870','PA14_52630','PA14_49380','PA14_38660','PA14_30050','PA14_23930')
