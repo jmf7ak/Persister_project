@@ -15,7 +15,8 @@ library(multcomp)
 library(rstatix)
 
 # set directory
-setwd('C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Metabolomics')
+PROJECT_ROOT <- "C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Persister_project"
+setwd(file.path(PROJECT_ROOT,"Metabolomics"))
 dir <- getwd()
 
 # load functions
@@ -172,9 +173,9 @@ rawIntensityViz(df_BIT, as.character(df_BIT$PATHWAY_SORTORDER[6]))
 
 metabs <- unique(df_BIT$PATHWAY_SORTORDER)
 
-for (i in 1:length(metabs)) {
-  rawIntensityViz(df_BIT, as.character(df_BIT$PATHWAY_SORTORDER[i]))
-}
+#for (i in 1:length(metabs)) {
+#  rawIntensityViz(df_BIT, as.character(df_BIT$PATHWAY_SORTORDER[i]))
+#}
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ##### visualization of un-normalized averages #####

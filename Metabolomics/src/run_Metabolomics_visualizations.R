@@ -7,7 +7,8 @@ library(pheatmap)
 library(RColorBrewer)
 
 # set the working directory
-setwd('C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Metabolomics')
+PROJECT_ROOT <- "C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Persister_project"
+setwd(file.path(PROJECT_ROOT,"Metabolomics"))
 dir <- getwd()
 
 source(file.path(dir, 'src', "multiplot.R"))
