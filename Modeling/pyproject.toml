@@ -1,0 +1,25 @@
+[project]
+name = "persister"
+version = "0.1.0"
+description = "This is the code used to run gene essentiality on the contextualized persister metabolic models and ML/statistical tests to determine genes to test for mutant validation experiment"
+authors = [
+    {name = "Joseph Ficarrotta",email = "jmf7ak@virginia.edu"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas (>=2.3.3,<3.0.0)",
+    "numpy (>=2.3.5,<3.0.0)",
+    "xgboost (>=3.1.2,<4.0.0)",
+    "scikit-learn (>=1.8.0,<2.0.0)",
+    "plotly (>=6.5.0,<7.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
+    "matplotlib (>=3.10.8,<4.0.0)"
+]
+
+[project.optional-dependencies]
+notebook = ["jupyterlab", "ipykernel"]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
