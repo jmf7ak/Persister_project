@@ -1,5 +1,5 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-##### set-up environment ##### 
+##### set-up environment ##### Click through errors surrounding the time 0 samples, this is just a check that time 0 samples didnt change from one another
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # load packages
@@ -938,7 +938,7 @@ colnames(df_welch_res_24) <- c("24_0.1-0","24_10-0","24_10-0.1","p.adj")
 df_welch_res_24 <- subset(df_welch_res_24, p.adj < 0.05)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-##### time: merge welch anova-log2fc #####
+##### time: merge welch anova-log2fc ##### 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 df_FC_0 <- subset(df_trans_FC_time, row.names(df_trans_FC_time) %in% row.names(df_welch_res_0))
