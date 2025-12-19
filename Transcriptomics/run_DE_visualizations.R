@@ -17,7 +17,8 @@ myPalette <- c("#000000","#999999", "#00c590", "#008a65", "#00503A", "#ffcd5d", 
 ##### load data #####
 
 # set working directory
-setwd('C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Transcriptomics')
+PROJECT_ROOT <- "C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Persister_project"
+setwd(file.path(PROJECT_ROOT,"Transcriptomics"))
 dir <- getwd()
 
 # load files
@@ -174,23 +175,14 @@ ggplot(complete, aes(x=log2FoldChange, y=-log10(padj))) +
 
 #### enrichment analysis ####
 
-enrich_U5U0_up <- read.csv(file.path(dir, 'analysis', 'enrichment', 'U5U0_up_2023_enrich.tsv.csv'), header = TRUE)
-enrich_U5U0_down <- read.csv(file.path(dir, 'analysis', 'enrichment', 'U5U0_down_2023_enrich.tsv.csv'), header = TRUE)
-enrich_U24U0_up <- read.csv(file.path(dir, 'analysis', 'enrichment', 'U24U0_up_2023_enrich.tsv.csv'), header = TRUE)
-enrich_U24U0_down <- read.csv(file.path(dir, 'analysis', 'enrichment', 'U24U0_down_2023_enrich.tsv.csv'), header = TRUE)
-enrich_T5T0_up <- read.csv(file.path(dir, 'analysis', 'enrichment', 'T5T0_up_2023_enrich.tsv.csv'), header = TRUE)
-enrich_T5T0_down <- read.csv(file.path(dir, 'analysis', 'enrichment', 'T5T0_down_2023_enrich.tsv.csv'), header = TRUE)
-enrich_T24T0_up <- read.csv(file.path(dir, 'analysis', 'enrichment', 'T24T0_up_2023_enrich.tsv.csv'), header = TRUE)
-enrich_T24T0_down <- read.csv(file.path(dir, 'analysis', 'enrichment', 'T24T0_down_2023_enrich.tsv.csv'), header = TRUE)
-
-enrich_U5U0_up <- read.table(file.path(dir, 'analysis', 'GSEA_JOE', 'enrich_U5U0_upregulated_2023-bh.txt'),sep = "\t", header = TRUE)
-enrich_U5U0_down <- read.table(file.path(dir, 'analysis', 'GSEA_JOE', 'enrich_U5U0_downregulated_2023-bh.txt'),sep = "\t", header = TRUE)
-enrich_U24U0_up <- read.table(file.path(dir, 'analysis', 'GSEA_JOE', 'enrich_U24U0_upregulated_2023-bh.txt'),sep = "\t", header = TRUE)
-enrich_U24U0_down <- read.table(file.path(dir, 'analysis', 'GSEA_JOE', 'enrich_U24U0_downregulated_2023-bh.txt'),sep = "\t", header = TRUE)
-enrich_T5T0_up <- read.table(file.path(dir, 'analysis', 'GSEA_JOE', 'enrich_T5T0_upregulated_2023-bh.txt'), sep = "\t",header = TRUE)
-enrich_T5T0_down <- read.table(file.path(dir, 'analysis', 'GSEA_JOE', 'enrich_T5T0_downregulated_2023-bh.txt'),sep = "\t", header = TRUE)
-enrich_T24T0_up <- read.table(file.path(dir, 'analysis', 'GSEA_JOE', 'enrich_T24T0_upregulated_2023-bh.txt'),sep = "\t", header = TRUE)
-enrich_T24T0_down <- read.table(file.path(dir, 'analysis', 'GSEA_JOE', 'enrich_T24T0_downregulated_2023-bh.txt'),sep = "\t", header = TRUE)
+enrich_U5U0_up <- read.table(file.path(dir, 'analysis', 'enrichment', 'enrich_U5U0_upregulated_2023-bh.txt'),sep = "\t", header = TRUE)
+enrich_U5U0_down <- read.table(file.path(dir, 'analysis', 'enrichment', 'enrich_U5U0_downregulated_2023-bh.txt'),sep = "\t", header = TRUE)
+enrich_U24U0_up <- read.table(file.path(dir, 'analysis', 'enrichment', 'enrich_U24U0_upregulated_2023-bh.txt'),sep = "\t", header = TRUE)
+enrich_U24U0_down <- read.table(file.path(dir, 'analysis', 'enrichment', 'enrich_U24U0_downregulated_2023-bh.txt'),sep = "\t", header = TRUE)
+enrich_T5T0_up <- read.table(file.path(dir, 'analysis', 'enrichment', 'enrich_T5T0_upregulated_2023-bh.txt'), sep = "\t",header = TRUE)
+enrich_T5T0_down <- read.table(file.path(dir, 'analysis', 'enrichment', 'enrich_T5T0_downregulated_2023-bh.txt'),sep = "\t", header = TRUE)
+enrich_T24T0_up <- read.table(file.path(dir, 'analysis', 'enrichment', 'enrich_T24T0_upregulated_2023-bh.txt'),sep = "\t", header = TRUE)
+enrich_T24T0_down <- read.table(file.path(dir, 'analysis', 'enrichment', 'enrich_T24T0_downregulated_2023-bh.txt'),sep = "\t", header = TRUE)
 
 enrich_U5U0_up$perc_set <- (enrich_U5U0_up$genes_in_set/enrich_U5U0_up$total_genes_in_set)*100
 enrich_U5U0_up$perc_uni <- (enrich_U5U0_up$genes_in_universe/enrich_U5U0_up$total_genes_in_universe)*100
@@ -312,11 +304,8 @@ ggplot(enrich_table, aes(x = term)) +
 ##### heatmap for genes in the model ##### 
 
 # find model directory
-setwd('C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister')
-model_dir <- getwd()
-model_dir <- paste0(model_dir, '/', 'model')
 
-metabGenes <- read.csv(file.path(model_dir, 'data', 'iPau21genes.csv'))
+metabGenes <- read.csv(file.path(dir, 'data', 'iPau21genes.csv'))
 
 # filter all DE data with for metab genes
 T5T0_metab <- T5T0[which(T5T0$gene %in% metabGenes$PA14_metabolic_model_genes),]

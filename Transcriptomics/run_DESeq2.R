@@ -7,7 +7,8 @@ library(RColorBrewer)
 
 ##### load data #####
 # set working directory
-setwd('C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Transcriptomics')
+PROJECT_ROOT <- "C:/Users/jmf7ak/OneDrive - University of Virginia/21_SUMMA/persister/Persister_project"
+setwd(file.path(PROJECT_ROOT,"Transcriptomics"))
 dir <- getwd()
 
 # obtain names of all files that include ".counts" in the name
@@ -288,12 +289,12 @@ plotMA(U24U0batch, ylim = c(-4,4), main='U24U0')
 plotMA(T5U5batch, ylim = c(-4,4), main='T5U5')
 plotMA(T24U24batch, ylim = c(-4,4), main='T24U24')
 
-write.csv(as.data.frame(T5T0batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T5T0_results_joe.csv"))
-write.csv(as.data.frame(U5U0batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_U5U0_results_joe.csv"))
-write.csv(as.data.frame(T24T0batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T24T0_results_joe.csv"))
-write.csv(as.data.frame(U24U0batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_U24U0_results_joe.csv"))
-write.csv(as.data.frame(T5U5batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T5U5_results_joe.csv"))
-write.csv(as.data.frame(T24U24batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T24U24_results_joe.csv"))
+write.csv(as.data.frame(T5T0batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T5T0_results_2023.csv"))
+write.csv(as.data.frame(U5U0batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_U5U0_results_2023.csv"))
+write.csv(as.data.frame(T24T0batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T24T0_results_2023.csv"))
+write.csv(as.data.frame(U24U0batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_U24U0_results_2023.csv"))
+write.csv(as.data.frame(T5U5batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T5U5_results_2023.csv"))
+write.csv(as.data.frame(T24U24batch),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_groupbatch_T24U24_results_2023.csv"))
 
 ##### transformations ~ data #####
 
@@ -371,6 +372,6 @@ sum(TU24$padj < 0.05, na.rm = TRUE)
 batch <- results(dds_timebatch, name = "batch_083017_vs_081017", test="Wald")
 sum(batch$padj < 0.05, na.rm = TRUE)
 
-write.csv(as.data.frame(TU5),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_timebatch_TU5_results_joe.csv"))
-write.csv(as.data.frame(TU24),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_timebatch_TU24_results_joe.csv"))
+write.csv(as.data.frame(TU5),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_timebatch_TU5_results_2023.csv"))
+write.csv(as.data.frame(TU24),file=file.path(dir, 'analysis', 'DESeq2', "DESeq_dds_timebatch_TU24_results_2023.csv"))
 
