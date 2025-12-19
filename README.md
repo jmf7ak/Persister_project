@@ -19,4 +19,4 @@ Each folder contains a **README** with detailed instructions for running the cod
 
 
 The R environment is managed with `renv` to ensure reproducibility. The `renv.lock` file contains all package versions used in the analyses.
-There are two py.toml files in the Modeling folder, pyproject_riptide.toml for creating a metabolic modeling environment and pyproject.toml for data analysis.
+There are two py.toml files in `Modeling/`, `pyproject_riptide.toml` for creating a metabolic modeling environment and `pyproject.toml` for data analysis.
