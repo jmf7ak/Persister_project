@@ -1,0 +1,146 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+# Load required package
+library(readxl)
+library(tidyverse)
+
+# ---- USER INPUT ----
+file_path <- "C:/Users/jmf7ak/OneDrive - University of Virginia/25_SPRING/12_11_12_persister_mutant _gc_fixed.xlsx"   # change this
+sheet_name <- 1                 # or specify sheet name
+# --------------------
+```
+
+```{r}
+# Read the full data range B37:LT102
+raw_data <- read_excel(
+  path = file_path,
+  sheet = "12_12",
+  range = "B37:LT98",
+  col_names = FALSE
+)
+```
+
+```{r}
+# Convert to numeric matrix
+data_mat <- as.matrix(raw_data)
+storage.mode(data_mat) <- "numeric"
+
+# Indices
+x_row_index <- 1      # Excel row 37
+data_start_index <- 3 # Excel row 39
+
+# X values
+x_values <- data_mat[x_row_index, ] / 3600
+
+# Data to average
+data_to_avg <- data_mat[data_start_index:nrow(data_mat), ]
+
+# Average every 4 rows
+n_groups <- nrow(data_to_avg) / 4
+averaged_data <- matrix(NA, nrow = n_groups, ncol = ncol(data_to_avg))
+
+for (i in seq_len(n_groups)) {
+  rows <- ((i - 1) * 4 + 1):(i * 4)
+  averaged_data[i, ] <- colMeans(data_to_avg[rows, ], na.rm = TRUE)
+
+# ---- SET COLUMN NAMES ONLY HERE ----
+rownames(averaged_data) <- c(
+  "PA14_05840",
+  "PA14_24640",
+  "PA14_23250",
+  "PA14_06720",
+  "PA14_25210",
+  "PA14_22350",
+  "PA14_61680",
+  "PA14_WT",
+  "PA14_20200",
+  "PA14_blank",
+  "PA14_42740",
+  "empty_1",
+  "PA14_46320",
+  "empty_2",
+  "PA14_16690"
+)
+
+}
+```
+
+```{r}
+# Identify the blank row
+blank_row <- "PA14_blank"
+
+# Subtract PA14_blank row from all rows
+averaged_data_corrected <- averaged_data
+averaged_data_corrected[rownames(averaged_data) != blank_row, ] <-
+  averaged_data[rownames(averaged_data) != blank_row, ] -
+  averaged_data[blank_row, ]
+
+# (Optional) remove the blank row afterward
+averaged_data_corrected <- averaged_data_corrected[
+  rownames(averaged_data_corrected) != blank_row,
+]
+
+rows_to_remove <- c("empty_1", "empty_2")
+
+# Keep only rows NOT in rows_to_remove
+averaged_data_corrected <- averaged_data_corrected[!rownames(averaged_data_corrected) %in% rows_to_remove, ]
+```
+
+```{r}
+df_long <- averaged_data_corrected %>%
+  as.data.frame() %>%
+  rownames_to_column("Strain") %>%
+  pivot_longer(
+    cols = -Strain,
+    names_to = "TimeIndex",
+    values_to = "Value"
+  )
+
+# Replace TimeIndex with real time values
+df_long$Time <- rep(x_values, times = nrow(averaged_data_corrected))
+
+
+p=ggplot(df_long, aes(x = Time, y = Value, color = Strain)) +
+  geom_line(linewidth = 1) +
+  labs(
+    x = "Time (hours)",
+    y = "Normalized 0D600",
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    legend.position = "right",
+    legend.title = element_blank()
+  )
+p
+ggsave(
+  filename = "C:/Users/jmf7ak/OneDrive - University of Virginia/25_SPRING/PERSISTER/Mutant_growth_curve.png",
+  plot = p,
+  width = 8,
+  height = 6,
+  units = "in",
+  dpi = 300
+)
+```
+
+
+```{r}
+# Take the last column
+last_col <- averaged_data_corrected[, ncol(averaged_data_corrected)]
+
+# Divide each value by the PA14_WT value
+wt_value <- last_col["PA14_WT"]
+growth_norm_vector <- last_col / wt_value
+
+# Inspect the result
+growth_norm_vector
+```
+
+
