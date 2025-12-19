@@ -2,7 +2,7 @@
 
 This repository contains all code and data required to reproduce the results and figures from:
 
-"Integrating multi-omics data with network modeling to characterize Pseudomonas aeruginosa persister cell metabolism." by Blazier, Ficarrotta, *et al*.
+"Integrating multi-omics data with network modeling to characterize Pseudomonas aeruginosa persister cell metabolism." by Blazier, Ficarrotta, Metris, Kolling and Papin.
 
 ---
 
